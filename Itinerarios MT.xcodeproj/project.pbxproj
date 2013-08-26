@@ -18,8 +18,10 @@
 		ED0178EC17CAC85E005D4EDE /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = ED0178EB17CAC85E005D4EDE /* Default-568h@2x.png */; };
 		ED0178EF17CAC85E005D4EDE /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED0178ED17CAC85E005D4EDE /* MainStoryboard_iPhone.storyboard */; };
 		ED0178F217CAC85E005D4EDE /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED0178F017CAC85E005D4EDE /* MainStoryboard_iPad.storyboard */; };
-		ED0178F517CAC85E005D4EDE /* IMTMasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ED0178F417CAC85E005D4EDE /* IMTMasterViewController.m */; };
-		ED0178F817CAC85E005D4EDE /* IMTDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ED0178F717CAC85E005D4EDE /* IMTDetailViewController.m */; };
+		ED0178F517CAC85E005D4EDE /* IMTBussViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ED0178F417CAC85E005D4EDE /* IMTBussViewController.m */; };
+		ED0178F817CAC85E005D4EDE /* IMTBussDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ED0178F717CAC85E005D4EDE /* IMTBussDetailViewController.m */; };
+		ED01790117CAC913005D4EDE /* temp.plist in Resources */ = {isa = PBXBuildFile; fileRef = ED01790017CAC913005D4EDE /* temp.plist */; };
+		ED01790417CAD596005D4EDE /* IMTBuss.m in Sources */ = {isa = PBXBuildFile; fileRef = ED01790317CAD596005D4EDE /* IMTBuss.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,10 +40,13 @@
 		ED0178EB17CAC85E005D4EDE /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		ED0178EE17CAC85E005D4EDE /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		ED0178F117CAC85E005D4EDE /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
-		ED0178F317CAC85E005D4EDE /* IMTMasterViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IMTMasterViewController.h; sourceTree = "<group>"; };
-		ED0178F417CAC85E005D4EDE /* IMTMasterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IMTMasterViewController.m; sourceTree = "<group>"; };
-		ED0178F617CAC85E005D4EDE /* IMTDetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IMTDetailViewController.h; sourceTree = "<group>"; };
-		ED0178F717CAC85E005D4EDE /* IMTDetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IMTDetailViewController.m; sourceTree = "<group>"; };
+		ED0178F317CAC85E005D4EDE /* IMTBussViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IMTBussViewController.h; sourceTree = "<group>"; };
+		ED0178F417CAC85E005D4EDE /* IMTBussViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IMTBussViewController.m; sourceTree = "<group>"; };
+		ED0178F617CAC85E005D4EDE /* IMTBussDetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IMTBussDetailViewController.h; sourceTree = "<group>"; };
+		ED0178F717CAC85E005D4EDE /* IMTBussDetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IMTBussDetailViewController.m; sourceTree = "<group>"; };
+		ED01790017CAC913005D4EDE /* temp.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = temp.plist; sourceTree = "<group>"; };
+		ED01790217CAD596005D4EDE /* IMTBuss.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IMTBuss.h; sourceTree = "<group>"; };
+		ED01790317CAD596005D4EDE /* IMTBuss.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IMTBuss.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,14 +93,12 @@
 		ED0178DB17CAC85E005D4EDE /* Itinerarios MT */ = {
 			isa = PBXGroup;
 			children = (
+				ED0178FF17CAC8F7005D4EDE /* Model */,
 				ED0178E417CAC85E005D4EDE /* IMTAppDelegate.h */,
 				ED0178E517CAC85E005D4EDE /* IMTAppDelegate.m */,
 				ED0178ED17CAC85E005D4EDE /* MainStoryboard_iPhone.storyboard */,
 				ED0178F017CAC85E005D4EDE /* MainStoryboard_iPad.storyboard */,
-				ED0178F317CAC85E005D4EDE /* IMTMasterViewController.h */,
-				ED0178F417CAC85E005D4EDE /* IMTMasterViewController.m */,
-				ED0178F617CAC85E005D4EDE /* IMTDetailViewController.h */,
-				ED0178F717CAC85E005D4EDE /* IMTDetailViewController.m */,
+				ED0178FE17CAC8EB005D4EDE /* Controller */,
 				ED0178DC17CAC85E005D4EDE /* Supporting Files */,
 			);
 			path = "Itinerarios MT";
@@ -104,6 +107,7 @@
 		ED0178DC17CAC85E005D4EDE /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				ED01790017CAC913005D4EDE /* temp.plist */,
 				ED0178DD17CAC85E005D4EDE /* Itinerarios MT-Info.plist */,
 				ED0178DE17CAC85E005D4EDE /* InfoPlist.strings */,
 				ED0178E117CAC85E005D4EDE /* main.m */,
@@ -113,6 +117,26 @@
 				ED0178EB17CAC85E005D4EDE /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		ED0178FE17CAC8EB005D4EDE /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				ED0178F317CAC85E005D4EDE /* IMTBussViewController.h */,
+				ED0178F417CAC85E005D4EDE /* IMTBussViewController.m */,
+				ED0178F617CAC85E005D4EDE /* IMTBussDetailViewController.h */,
+				ED0178F717CAC85E005D4EDE /* IMTBussDetailViewController.m */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		ED0178FF17CAC8F7005D4EDE /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				ED01790217CAD596005D4EDE /* IMTBuss.h */,
+				ED01790317CAD596005D4EDE /* IMTBuss.m */,
+			);
+			name = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -173,6 +197,7 @@
 				ED0178EC17CAC85E005D4EDE /* Default-568h@2x.png in Resources */,
 				ED0178EF17CAC85E005D4EDE /* MainStoryboard_iPhone.storyboard in Resources */,
 				ED0178F217CAC85E005D4EDE /* MainStoryboard_iPad.storyboard in Resources */,
+				ED01790117CAC913005D4EDE /* temp.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -185,8 +210,9 @@
 			files = (
 				ED0178E217CAC85E005D4EDE /* main.m in Sources */,
 				ED0178E617CAC85E005D4EDE /* IMTAppDelegate.m in Sources */,
-				ED0178F517CAC85E005D4EDE /* IMTMasterViewController.m in Sources */,
-				ED0178F817CAC85E005D4EDE /* IMTDetailViewController.m in Sources */,
+				ED0178F517CAC85E005D4EDE /* IMTBussViewController.m in Sources */,
+				ED0178F817CAC85E005D4EDE /* IMTBussDetailViewController.m in Sources */,
+				ED01790417CAD596005D4EDE /* IMTBuss.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

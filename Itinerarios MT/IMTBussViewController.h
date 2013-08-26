@@ -8,10 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@class IMTDetailViewController;
+@class IMTBussDetailViewController;
 
-@interface IMTMasterViewController : UITableViewController
+@interface IMTBussViewController : UITableViewController
 
-@property (strong, nonatomic) IMTDetailViewController *detailViewController;
+@property (strong, nonatomic) IMTBussDetailViewController *detailViewController;
 
 @end

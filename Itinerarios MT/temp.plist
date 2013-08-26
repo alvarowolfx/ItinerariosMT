@@ -1,0 +1,5247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Praça Maria Taquara</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Hist. Rubens de Mendonça</string>
+				<string>Rua Alenquer</string>
+				<string>Rua Sorocaba</string>
+				<string>Rua Pernambuco</string>
+				<string>Rua Prof. Alice Freire</string>
+				<string>Av. Dr. Ulisses Guimarães</string>
+				<string>Alameda 8</string>
+				<string>Rua Prof. Alice Freire</string>
+				<string>Rua Andorinha</string>
+				<string>Rua L - CPA IV</string>
+				<string>Av. Soares de Andrade</string>
+				<string>Rua J</string>
+				<string>Rua 152</string>
+				<string>Av. Curió</string>
+				<string>Rua 09 - Três Barras</string>
+				<string>Av. A - Três Barras</string>
+				<string>Posto Policial - Três Barras</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Posto Policial - Três Barras</string>
+				<string>Av. A - Três Barras</string>
+				<string>Rua 09 - Três Barras</string>
+				<string>Av. Curió</string>
+				<string>Av. Tuiuiú</string>
+				<string>Av. B - CPA IV</string>
+				<string>Av. dos Trabalhadores</string>
+				<string>Av. João Gomes Sobrinho</string>
+				<string>Av. Cel. Escolástico</string>
+				<string>Av. General Valle</string>
+				<string>Rua Clóvis Hugueney</string>
+				<string>Praça Maria Taquara</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>031</string>
+		<key>nome</key>
+		<string>CORUJÃO CPA</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Praça Maria Taquara</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Cel Escolástico</string>
+				<string>Rua Papa João XXIII</string>
+				<string>Rua Miranda Reis</string>
+				<string>Av. Fernando C. da Costa</string>
+				<string>Av. Dr. Meirelles</string>
+				<string>Av. Rad. Edson L. da Silva (Espigão)</string>
+				<string>Av. Dr. Meirelles</string>
+				<string>Av. Carlos A. de Souza</string>
+				<string>Av. 1- Osmar Cabral</string>
+				<string>Rua 1- Jard. Fortaleza</string>
+				<string>Av. Principal Sta. Laura</string>
+				<string>Ponto Final- Sta. Laura</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Ponto Final- Santa Laura</string>
+				<string>Av. Principal Sta. Laura</string>
+				<string>Rua 1- Jard. Fortaleza</string>
+				<string>Av. 1- Osmar Cabral</string>
+				<string>Av. Carlos A. de Souza</string>
+				<string>Av. Dr. Meirelles</string>
+				<string>Av. Rad. Edson L. da Silva (Espigão)</string>
+				<string>Av. Dr. Meirelles</string>
+				<string>Av. Fernando C. da Costa</string>
+				<string>Av. General Valle</string>
+				<string>Rua Clóvis Hugueney</string>
+				<string>Praça Maria Taquara</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>051</string>
+		<key>nome</key>
+		<string>CORUJÃO SANTA LAURA / CENTRO (OSMAR CABRAL)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Praça Maria Taquara</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Rua 13 de Junho</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. 15 de Novembro</string>
+				<string>Rua Major Gama</string>
+				<string>Rua Comendador Henrique</string>
+				<string>Av. Carmindo de Campos</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Rod. Palmiro Paes de Barros</string>
+				<string>Rua J - Parque Atalaia</string>
+				<string>Rua C - Parque Atalaia</string>
+				<string>Rua F - Parque Atalaia</string>
+				<string>Rua SD - Parque Atalaia</string>
+				<string>Rua F - Parque Atalaia</string>
+				<string>Rua N - Parque Atalaia</string>
+				<string>Rua C - Parque Atalaia</string>
+				<string>Rua J - Parque Atalaia</string>
+				<string>Av. 02 - Parque Cuiabá</string>
+				<string>Av. 04 - Parque Cuiabá</string>
+				<string>Av. 06 - Parque Cuiabá</string>
+				<string>Av. 05 - Parque Cuiabá</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Av. 05 - Parque Cuiabá</string>
+				<string>Av. 02 - Parque Cuiabá</string>
+				<string>Rod. Palmiro Paes de Barros</string>
+				<string>Av. A - São Gonçalo</string>
+				<string>Av. C - São Gonçalo</string>
+				<string>Rua M - São Gonçalo</string>
+				<string>Av. A - Parque Residencial</string>
+				<string>Rua 05 - Parque Residencial</string>
+				<string>Rua 16 - Parque Residencial</string>
+				<string>Rua 04 - Parque Residencial</string>
+				<string>Av. C - Parque Residencial</string>
+				<string>Av. D - Parque Residencial</string>
+				<string>Rua E - Parque Residencial</string>
+				<string>Av. Principal - Itapajé</string>
+				<string>Ponto Final - Itapajé</string>
+				<string>Av. Principal</string>
+				<string>Rua E - Residencial Coxipó</string>
+				<string>Av. D - Residencial Coxipó</string>
+				<string>Acesso à Av. Fernando Corrêa</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. Carmindo de Campos</string>
+				<string>Rua Comendador Henrique</string>
+				<string>Rua Major Gama</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Rua Clóvis Hugueney</string>
+				<string>Praça Maria Taquara </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>061</string>
+		<key>nome</key>
+		<string>CORUJÃO PARQUE CUIABÁ / CENTRO (PARQUE ATALAIA)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Praça Maria Taquara</string>
+				<string>Prainha</string>
+				<string>Av. Cel Escolástico</string>
+				<string>Rua Papa João XXIII</string>
+				<string>Rua Miranda Reis</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. Ayrton Senna</string>
+				<string>Av. 30 (Industriário)</string>
+				<string>Rua Antônio de Jesus</string>
+				<string>Rua Francisco de Jesus</string>
+				<string>Rua Benedito Antônio</string>
+				<string>Rua Marcos da Luz</string>
+				<string>Rua Antônio de Pádua</string>
+				<string>Av. B</string>
+				<string>Av. V-2</string>
+				<string>Av. V-1</string>
+				<string>Av. Newton Rabelo de Castro</string>
+				<string>Av. U</string>
+				<string>Rua 50</string>
+				<string>Rua Jandaia</string>
+				<string>Ponto Final- Pedra 90</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Ponto Final- Pedra 90</string>
+				<string>Rua Jandaia</string>
+				<string>Rua 50</string>
+				<string>Av. U</string>
+				<string>Av. Newton Rabelo de Castro</string>
+				<string>Av. V-1</string>
+				<string>Av. V-2</string>
+				<string>Av. B</string>
+				<string>Rua Antônio de Pádua</string>
+				<string>Rua Marcos da Luz</string>
+				<string>Rua Benedito Antônio</string>
+				<string>Rua Franscisco de Jesus</string>
+				<string>Rua Antônio de Jesus</string>
+				<string>Av. 30 (Industriário)</string>
+				<string>Av. Ayrton Senna (BR-364)</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. Gal. Valle</string>
+				<string>Rua Clóvis Hugueney</string>
+				<string>Praça Maria Taquara </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>071</string>
+		<key>nome</key>
+		<string>CORUJÃO PEDRA 90 / PRAÇA MARIA TAQUARA (CHOPPÃO)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Rua Jorn. Waldir Morbec</string>
+				<string>Rua Rad. Fernando Fernandes</string>
+				<string>Rua Florentino Leite da Silva</string>
+				<string>João Paulo dos Santos</string>
+				<string>Av. Manoel Lino</string>
+				<string>Rua Prof. João Nunes Ribeiro</string>
+				<string>Av. Jorn. Alves de Oliveira</string>
+				<string>Av. Ipiranga</string>
+				<string>Av. Senador Metelo</string>
+				<string>Av. Comandante Costa</string>
+				<string>Av. Isaac Póvoas</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Farmácia PAX</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Farmácia Pax</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Dom Bosco</string>
+				<string>Rua Barão de Melgaço</string>
+				<string>Av. Senador Metelo</string>
+				<string>Av. Ipiranga</string>
+				<string>Av. Jorn. Alves de Oliveira</string>
+				<string>Rua Prof. João Nunes Ribeiro</string>
+				<string>Av. Manoel Lino</string>
+				<string>Rua João Paulo dos Santos</string>
+				<string>Rua Rad. Fernando Fernandes</string>
+				<string>Rua Projetada A</string>
+				<string>Rua Jornalista Waldir Morbeck</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>101</string>
+		<key>nome</key>
+		<string>COOPHAMIL / CENTRO</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Rua Jorn. Waldir Morbec</string>
+				<string>Rua João Paulo dos Santos</string>
+				<string>Rua Gov. Julio Muller</string>
+				<string>Rua Prof. Floriano S. de Carvalho (R. Tapoá)</string>
+				<string>Rua Otávio Gomes de Castro (R. Taipu)</string>
+				<string>Rua Taubaté</string>
+				<string>Rua São Luiz</string>
+				<string>Av. Generoso Malheiros</string>
+				<string>Av. Miguel Sutil</string>
+				<string>Av. Agrícola Paes de Barros</string>
+				<string>Rua Ranulfo Paes de Barros</string>
+				<string>Av. 08 de Abril</string>
+				<string>Rua Thogo Pereira</string>
+				<string>Rua Comandante Costa</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Loja América</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Loja América</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Dom Bosco</string>
+				<string>Av. São Sebastião</string>
+				<string>Rua Togo Pereira</string>
+				<string>Av. 8 de Abril</string>
+				<string>Rua Ranulfo Paes de Barros</string>
+				<string>Av. Agrícola Paes de Barros</string>
+				<string>Av. Miguel Sutil</string>
+				<string>Av. Generoso Malheiros</string>
+				<string>Rua São Luís</string>
+				<string>Rua Taubaté</string>
+				<string>Rua Otávio Gomes de Castro (R. Taipu)</string>
+				<string>Rua Prof. Floriano S. de Carvalho (R. Tapoá)</string>
+				<string>Rua Gov. Júlio Muller</string>
+				<string>Rua João Paulo dos Santos</string>
+				<string>Rua Jorn. Waldir Morbeck</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>102</string>
+		<key>nome</key>
+		<string>COOPHAMIL / CENTRO (VIA VERDÃO)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Praça Cidade Verde</string>
+				<string>Rua Generoso Malheiros</string>
+				<string>Av. Jorn. Alves de Oliveira</string>
+				<string>Av. Ipiranga</string>
+				<string>Av. Cuiabá</string>
+				<string>Rua Barão de Melgaço</string>
+				<string>Rua Feliciano Galdino</string>
+				<string>Av. Mário Côrrea</string>
+				<string>Rua Comandante Suído</string>
+				<string>Trav. Tufik Affi</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Cel Escolástico</string>
+				<string>Rua Papa João XXIII</string>
+				<string>Rua MIranda Reis</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Via Universitária</string>
+				<string>Av. Alziro Zarur</string>
+				<string>Av. Edgar Vieira - Boa Esperança</string>
+				<string>Rua 25- Boa Esperança</string>
+				<string>Rua 16- Boa Esperança</string>
+				<string>Av. Arquimedes Pereira Lima</string>
+				<string>Av. Rui Barbosa</string>
+				<string>Av. Principal - Jd. Universitário</string>
+				<string>Rua Coletora 26</string>
+				<string>Rua Projetada 21 - Jd. Universitário</string>
+				<string>Rua Projetada 25- Jd. Universitário</string>
+				<string>Rua Coletora 26</string>
+				<string>Rua 19</string>
+				<string>Rua F</string>
+				<string>Av. das Torres</string>
+				<string>Rua 2000- Jd. Imperial</string>
+				<string>Rua 2400- Jd. Imperial</string>
+				<string>Rua 2600- Jd. Imperial</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Rua 2600 (Marginal) - Jd. Imperial</string>
+				<string>Av. das Palmeiras</string>
+				<string>Rua 01 - Recanto dos Pássaros</string>
+				<string>Rua 06 - Recanto dos Pássaros</string>
+				<string>Rua 11 - Recanto dos Pássaros</string>
+				<string>Av. Rui Barbosa</string>
+				<string>Av. Arquimedes Pereira Lima</string>
+				<string>Rua 20- Boa Esperança</string>
+				<string>Av. Alziro Zarur</string>
+				<string>Via Universitária</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. Cel Escolástico</string>
+				<string>Av. Ten. Cel Duarte</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Rua Barão de Melgaço</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. 15 de Novembro</string>
+				<string>Av. Senador Metelo</string>
+				<string>Rua Barão de Melgaço</string>
+				<string>Av. Cuiabá</string>
+				<string>Avenida Ipiranga</string>
+				<string>Av. Jorn. Alves Oliveira</string>
+				<string>Av. Generoso Malheiros</string>
+				<string>Praça Cidade Verde</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>103</string>
+		<key>nome</key>
+		<string>CIDADE VERDE / JARDIM IMPERIAL</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Rua Orivaldo de Souza - Centro de Zoonozes</string>
+				<string>Rua Projetada S</string>
+				<string>Av. Mário Palma</string>
+				<string>Escola Maria Tomich</string>
+				<string>Av. Joaquim Louzada</string>
+				<string>Rua Paulo Autran (Rua 4)</string>
+				<string>Av. Nelson Nunes</string>
+				<string>Av. Principal - Novo Colorado</string>
+				<string>Rua Frei Quirino</string>
+				<string>Av. Crescencio de Almeida (Av. Rondonópolis)</string>
+				<string>Rua Nortelândia</string>
+				<string>Rua Jaciara</string>
+				<string>Rua Colíder</string>
+				<string>Rua Rondonópolis</string>
+				<string>Rua Nortelândia</string>
+				<string>Av. Crescencio de Almeida (Av. Rondonópolis)</string>
+				<string>Avenida Antártica</string>
+				<string>Avenida José Rodrigues do Padro (antiga 31 de Março)</string>
+				<string>Rua Pernambuco</string>
+				<string>Rua Eng. Álvaro Pinto</string>
+				<string>Rua Itália</string>
+				<string>Av. José Rodrigues do Padro</string>
+				<string>Av. José de Figueiredo (antiga lavapés)</string>
+				<string>Av. Isaac Póvoas</string>
+				<string>Rua Joaquim Murtinho</string>
+				<string>Igreja Matriz</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Igreja Matriz</string>
+				<string>Avenida Getúlio Vargas</string>
+				<string>Av. José de Figueiredo (antiga lavapés)</string>
+				<string>Avenida José Rodrigues do Padro (antiga 31 de Março)</string>
+				<string>Rua Itália</string>
+				<string>Rua Eng. Álvaro Pinto</string>
+				<string>Avenida José Rodrigues do Padro (antiga 31 de Março)</string>
+				<string>Avenida Antártica</string>
+				<string>Av. Crescencio de Almeida (Av. Rondonópolis)</string>
+				<string>Rua Nortelândia</string>
+				<string>Rua Rondonópolis</string>
+				<string>Rua Colíder</string>
+				<string>Rua Jaciara</string>
+				<string>Rua Nortelândia</string>
+				<string>Av. Joaquim Louzada</string>
+				<string>Av. Mário Palma Ribeiro</string>
+				<string>Rua Projetada S</string>
+				<string>Rua Frei Quirino</string>
+				<string>Av. Principal - Novo Colorado</string>
+				<string>Av. Nelson Nunes</string>
+				<string>Rua Paulo Autran (Rua 4)</string>
+				<string>Av. Joaquim Louzada</string>
+				<string>Escola Maria Tomich </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>104</string>
+		<key>nome</key>
+		<string>COLORADO / CENTRO (AMPERCO)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Mercado Fortaleza (Despraiado)</string>
+				<string>Avenida Afonso Pena</string>
+				<string>Avenida Osvaldo Corrêa</string>
+				<string>Avenida Miguel Sutil</string>
+				<string>Avenida Lava-pés</string>
+				<string>Avenida Isaac Póvoas</string>
+				<string>Avenida Generoso Ponce</string>
+				<string>Rua Joaquim Murtinho</string>
+				<string>Avenida Getúlio Vargas (Flamboyant)</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Avenida Getúlio Vargas (Flamboyant)</string>
+				<string>Avenida Lava-pés</string>
+				<string>Avenida Miguel Sutil</string>
+				<string>Avenida Osvaldo Corrêa</string>
+				<string>Avenida Afonso Pena</string>
+				<string>Mercado Fortaleza (Despraiado) </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>105</string>
+		<key>nome</key>
+		<string>SANTA MARTA / CENTRO</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Praça Cidade Verde</string>
+				<string>Rua Generoso Malheiros</string>
+				<string>Rua São Luiz</string>
+				<string>Rua Taubaté</string>
+				<string>Rua Toledo</string>
+				<string>Rua Benedito Dandi</string>
+				<string>R. Tejo</string>
+				<string>R. Otávio Gomes de Castro</string>
+				<string>R. Taipu</string>
+				<string>R. Prof. Floriano S. de Carvalho</string>
+				<string>R. Tapuã</string>
+				<string>Rua Gov. Júlio Muller</string>
+				<string>Rua João Paulo dos Santos</string>
+				<string>Rua Rad. Waldir Morbec</string>
+				<string>Av. Florentino Leite da Silva</string>
+				<string>Av. Manoel Lino</string>
+				<string>Av. Miguel Sutil</string>
+				<string>Rua Barão de Melgaço</string>
+				<string>Av. 08 de Abril</string>
+				<string>Av. José Manoel de Arruda</string>
+				<string>Av. Beira Rio</string>
+				<string>Av. Mário Corrêa</string>
+				<string>Rua Comandante Suído</string>
+				<string>Trav. Tufik Affi</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Praça da República</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Praça da República</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Rua Barão de Melgaço</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. 15 de Novembro</string>
+				<string>Av. Senador Metelo</string>
+				<string>Rua 13 de Junho</string>
+				<string>Av. 08 de Abril</string>
+				<string>Rua Barão de Melgaço</string>
+				<string>Av. Miguel Sutil</string>
+				<string>Av. Florentino Leite da Silva</string>
+				<string>Av. Manoel Lino</string>
+				<string>Rua João Paulo dos Santos</string>
+				<string>Rua Gov. Júlio Muller</string>
+				<string>R. Prof. Floriano S. de Carvalho</string>
+				<string>R. Tapuã</string>
+				<string>R. Otávio Gomes de Castro</string>
+				<string>R. Taipu</string>
+				<string>Rua Benedito Dandi</string>
+				<string>R. Tejo</string>
+				<string>Rua Toledo</string>
+				<string>Rua Taubaté</string>
+				<string>Rua São Luiz</string>
+				<string>Rua Generoso Malheiros</string>
+				<string>Praça Cidade Verde</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>106</string>
+		<key>nome</key>
+		<string>CIDADE VERDE / CENTRO (VIA VIVENDAS)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Ponto Final- Santa Amália</string>
+				<string>Rua Neuza Lula Rodrigues</string>
+				<string>Avenida Principal</string>
+				<string>R. José Luís Borges Garcia</string>
+				<string>Avenida Castro Alves</string>
+				<string>Rua Celso M. Quintela</string>
+				<string>Rua Wilson Diniz</string>
+				<string>Contorno Rotatória (Miguel Sutil)</string>
+				<string>Avenida Agrícola Paes de Barros</string>
+				<string>Rua da Fé</string>
+				<string>Rua da Caridade</string>
+				<string>Rua Lima Avelino</string>
+				<string>Avenida Senador Metello</string>
+				<string>Avenida das Flores</string>
+				<string>Rua das Papoulas</string>
+				<string>Avenida Ramiro de Noronha</string>
+				<string>Rua Alcides de Souza</string>
+				<string>Av. Lava-pés</string>
+				<string>Avenida Isaac Póvoas</string>
+				<string>Avenida Ten. Cel. Duarte</string>
+				<string>Av.Historiador Rubens de Mendonça</string>
+				<string>Retorno (Pantanal Shopping)</string>
+				<string>Av.Historiador Rubens de Mendonça</string>
+				<string>Rua Eduardo Prado (SEFAZ)</string>
+				<string>Rua C</string>
+				<string>Av. André Maggi</string>
+				<string>Retorno da Assembléia</string>
+				<string>Av. André Maggi</string>
+				<string>Rua C</string>
+				<string>Rua 7 (Palácio)</string>
+				<string>Rua D (SEJUSP)</string>
+				<string>Rua 04 (OAB)</string>
+				<string>Av. do Hospital (esquerda)</string>
+				<string>Av. André Maggi</string>
+				<string>Av. André Maggi</string>
+				<string>Forum</string>
+				<string>Av. Hélio Ponce de Arruda</string>
+				<string>Av. Rubens de Mendonça</string>
+				<string>Rua Alenquer</string>
+				<string>Rua Joinville</string>
+				<string>Rua Sorocaba</string>
+				<string>Terminal CPA I</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Terminal CPA I</string>
+				<string>Rua Pelotas</string>
+				<string>Rua Joinville</string>
+				<string>Rua Óbidos</string>
+				<string>Av. Rubens de Mendonça</string>
+				<string>Avenida Hélio Ponce de Arruda</string>
+				<string>Fórum</string>
+				<string>Av. André Maggi</string>
+				<string>Av. André Maggi</string>
+				<string>Av. do Hospital</string>
+				<string>Rua 4 (OAB)</string>
+				<string>Rua D</string>
+				<string>Rua 7</string>
+				<string>Rua C</string>
+				<string>Av. André Maggi</string>
+				<string>Retorno da Assembléia</string>
+				<string>Av. André Maggi</string>
+				<string>Rua C</string>
+				<string>Rua Eduardo Prado</string>
+				<string>Av. Historiador Rubens de Mendonça</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Av. Lava-Pés</string>
+				<string>Rua Alcides de Souza</string>
+				<string>Av. Ramiro de Noronha</string>
+				<string>Rua das Papoulas</string>
+				<string>Av. das Flores</string>
+				<string>Avenida Senador Mettelo</string>
+				<string>Rua Lima Avelino</string>
+				<string>Rua da Caridade</string>
+				<string>Rua da Fé</string>
+				<string>Avenida Agrícola Paes de Barros</string>
+				<string>Av. Miguel Sutil</string>
+				<string>Av. Castro Alves</string>
+				<string>Rua José Luís Borges Garcia</string>
+				<string>Avenida Principal</string>
+				<string>Rua Neuza Lula Rodrigues</string>
+				<string>Ponto Final- Santa Amália</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>107</string>
+		<key>nome</key>
+		<string>SANTA AMÁLIA / TERMINAL CPA I (VIA PALÁCIO)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Rua E - Flamboyant (Ponto Final)</string>
+				<string>Rua Neuza Lula Rodrigues</string>
+				<string>Av. Principal- Santa Amália</string>
+				<string>Rua José Luiz Borges Garcia (Araçá)</string>
+				<string>Av. Principal - Flamboyant</string>
+				<string>Rua Estados Unidos - Santa Rosa</string>
+				<string>Av. 31 de Março (Av. Antártica)</string>
+				<string>Av. José Monteiro de Figueiredo (Av. Lava-pés)</string>
+				<string>Av. Isaac Póvoas</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Getúlio Vargas (Praça Alencastro)</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Praça Alencastro</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Av. José M. de Figueiredo (Av. Lava-pés)</string>
+				<string>Av. 31 de Março</string>
+				<string>Rua Itália - Santa Rosa</string>
+				<string>Rua Holanda - Santa Rosa</string>
+				<string>Rua Canadá - Santa Rosa</string>
+				<string>Rua Estados Unidos - Santa Rosa</string>
+				<string>Av. Principal- Flamboyant</string>
+				<string>Rua José Luiz Borges Garcia (Araçá)</string>
+				<string>Av. Principal- Santa Amália</string>
+				<string>Rua Neuza Lula Rodrigues</string>
+				<string>Rua E - Flamboyant</string>
+				<string>Retorno na Pracinha (em frente à Serralheria do Gaúcho)</string>
+				<string>Rua E - Flamboyant (Ponto Final) </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>109</string>
+		<key>nome</key>
+		<string>SANTA AMÁLIA / CENTRO (VIA FLAMBOYANT)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Fábrica da Mika</string>
+				<string>Rod. Arq. Helder Cândia (MT-010)</string>
+				<string>Portão do Florais Cuiabá</string>
+				<string>Rod. Arq. Helder Cândia (MT-010)</string>
+				<string>Avenida Principal (Jd. Ubirajara)</string>
+				<string>Retorno na Av. Principal (Jd. Ubirajara)</string>
+				<string>Rod. Arq. Helder Cândia (MT-010)</string>
+				<string>Rod. Emanuel Pinheiro</string>
+				<string>Acesso ao Jardim Itapuã</string>
+				<string>Rua Limeira - Jd. Itapuã</string>
+				<string>Rua Indianópolis - Jd. Itapuã</string>
+				<string>Rua Iporã - Jd. Itapuã</string>
+				<string>Rua G - Res. Paiaguás</string>
+				<string>Av. A - Res. Paiaguás</string>
+				<string>Rua E- Res. Paiaguás</string>
+				<string>Rua I- Res. Paiaguás</string>
+				<string>Rua D- Res. Paiaguás</string>
+				<string>Rua A- Res. Paiaguás</string>
+				<string>Av. Paiaguás</string>
+				<string>Av. Hélio Ribeiro</string>
+				<string>Av. República do Líbano</string>
+				<string>Rua dos Nhambiquaras</string>
+				<string>Avenida Presidente Marques</string>
+				<string>Avenida Isaac Póvoas</string>
+				<string>Avenida Generoso Ponce</string>
+				<string>Rua Joaquim Murtinho</string>
+				<string>Avenida Getúlio Vargas (Flamboyant)</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Av. Getúlio Vargas (Flamboyant)</string>
+				<string>Av. Marechal Deodoro</string>
+				<string>Av. República do Líbano</string>
+				<string>Rua D- Res. Paiaguás</string>
+				<string>Rua I- Res. Paiaguás</string>
+				<string>Rua E- Res. Paiaguás</string>
+				<string>Av. A- Res. Paiaguás</string>
+				<string>Rua G- Res. Paiaguás</string>
+				<string>Rua Ipora- Jd. Itapua</string>
+				<string>Rua Indianópolis- Jd. Itapua</string>
+				<string>Rua Limeira- Jd.Itapua</string>
+				<string>Rod. Emanuel Pinheiro</string>
+				<string>Rodovia Arq. Helder Cândia (MT-010)</string>
+				<string>Avenida Principal</string>
+				<string>- Jd.Ubirajara Retorno na Av. Principal - Jd. Ubirajara Avenida Principal</string>
+				<string>- Jd.Ubirajara</string>
+				<string>Rodovia Arq. Helder Cândia (MT-010)</string>
+				<string>Portão do Florais Cuiabá</string>
+				<string>Rodovia Arq. Helder Cândia (MT-010)</string>
+				<string>Fábrica da Mika</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>203</string>
+		<key>nome</key>
+		<string>MIKA / CENTRO (VALE DOS LÍRIOS / JARDIM UBIRAJARA)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Bar do Jaime</string>
+				<string>Rua Shiraz</string>
+				<string>Rua Istambul</string>
+				<string>Rua Líbia</string>
+				<string>Rua Duque de Caxias</string>
+				<string>Rua Jacarandá</string>
+				<string>Rua Bela Vista</string>
+				<string>Rua do Cajú</string>
+				<string>Rua Cáceres</string>
+				<string>Rua Ponta Porã</string>
+				<string>Rua São Domingos</string>
+				<string>Rua Poxoréo</string>
+				<string>Av. República do Líbano</string>
+				<string>Av. Marechal Deodoro</string>
+				<string>Rua dos Nhambiquaras</string>
+				<string>Av. Presidente Marques</string>
+				<string>Av. Isaac Póvoas</string>
+				<string>Rua Joaquim Murtinho</string>
+				<string>Av. Getúlio Vargas</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Av. Getúlio Vargas</string>
+				<string>Av. Marechal Deodoro</string>
+				<string>Av. República do Líbano</string>
+				<string>Av. Cássio Veiga de Sá</string>
+				<string>Av. Jules Rimet</string>
+				<string>Rua Trigo de Loureiro</string>
+				<string>Rua Mané Garrincha</string>
+				<string>Rua Carandá</string>
+				<string>Rua L- Alvorada</string>
+				<string>Rua Poxoréo</string>
+				<string>Rua Rosário Oeste</string>
+				<string>Rua Ponta Porã</string>
+				<string>Rua Cáceres</string>
+				<string>Rua do Caju</string>
+				<string>Rua Bela Vista</string>
+				<string>Rua Jacarandá</string>
+				<string>Rua Duque de Caxias</string>
+				<string>Rua Shiraz</string>
+				<string>Bar do JaimeObs:</string>
+				<string>Pontos de Parada na Área Central</string>
+				<string>- Farmácia N. Sª de Fátima (Av. Isaac Póvoas)</string>
+				<string>- Praça Rachid Jaudy (Av. Isaac Póvoas)</string>
+				<string>- Loja Flamboyant (Av. Getúlio Vargas) </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>204</string>
+		<key>nome</key>
+		<string>ALVORADA / CENTRO</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Detran</string>
+				<string>Av. Paiaguás</string>
+				<string>Av. A - Res. Paiaguás</string>
+				<string>Rua D - Res. Paiaguás</string>
+				<string>Rua K - Res. Paiaguás</string>
+				<string>Rua E - Res. Paiaguás</string>
+				<string>Rua B- Res. Paiaguás</string>
+				<string>Rua G- Res. Paiaguás</string>
+				<string>Rua F- Res. Paiaguás</string>
+				<string>Av. A- Res. Paiaguás</string>
+				<string>Rua E- Res. Paiaguás</string>
+				<string>Rua I- Res. Paiaguás</string>
+				<string>Rua D- Res. Paiaguás</string>
+				<string>Rua A- Res. Paiaguás</string>
+				<string>Av. Paiaguás</string>
+				<string>Av. Hélio Ribeiro</string>
+				<string>Av. República do Líbano</string>
+				<string>Av. Miguel Sutil</string>
+				<string>Av. Afonso Pena</string>
+				<string>Rua José Linhares</string>
+				<string>Av. Senador Filinto Muller</string>
+				<string>Av. Isaac Póvoas</string>
+				<string>Rua Barão de Melgaço</string>
+				<string>Rua Togo Pereira</string>
+				<string>Rua 13 de Junho</string>
+				<string>Rua Major Gama</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Praça Alencastro</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Praça Alencastro</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Av. Estevão de Mendonça</string>
+				<string>Av. Miguel Sutil</string>
+				<string>Av. República do Líbano</string>
+				<string>Rua D - Res. Paiaguás</string>
+				<string>Rua I - Res. Paiaguás</string>
+				<string>Rua E - Res. Paiaguás</string>
+				<string>Av. A - Res. Paiaguás</string>
+				<string>Rua F - Res. Paiaguás</string>
+				<string>Rua G - Res. Paiaguás</string>
+				<string>Rua B - Res. Paiaguás</string>
+				<string>Rua E - Res. Paiaguás</string>
+				<string>Rua K - Res. Paiaguás</string>
+				<string>Rua D - Res. Paiaguás</string>
+				<string>Av. A - Res. Paiaguás</string>
+				<string>Av. Paiaguás</string>
+				<string>Detran</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>205</string>
+		<key>nome</key>
+		<string>RESIDENCIAL PAIAGUÁS / CENTRO</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Ponto Final (R. 11 x R. 25)</string>
+				<string>Rua 25- Jd.Florianópolis</string>
+				<string>Rua 21- Jd. Florianópolis</string>
+				<string>Av. 01- Jd. Florianópolis</string>
+				<string>Rod. Emanuel Pinheiro</string>
+				<string>Av. República do Líbano</string>
+				<string>Rua Nhambiquara</string>
+				<string>Av. Presidente Marques</string>
+				<string>Av. Isaac Póvoas</string>
+				<string>Av. Generoso Ponce (Mercado Municipal)</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Av. Generoso Ponce (Mercado Municipal)</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Mato Grosso</string>
+				<string>Av. Marechal Deodoro</string>
+				<string>Av. República do Líbano</string>
+				<string>Rod. Emanuel Pinheiro</string>
+				<string>Av. 01- Jd. Florianópolis</string>
+				<string>Rua 21- Jd. Florianópolis</string>
+				<string>Rua 11- Jd. Florianópolis</string>
+				<string>Rua 25- Jd. Florianópolis</string>
+				<string>Ponto Final (R.11xR25)</string>
+				<string>Operação</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>206</string>
+		<key>nome</key>
+		<string>JARDIM FLORIANÓPOLIS / CENTRO</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>P. Final do Detran</string>
+				<string>saída para Av. A. Maggi</string>
+				<string>Av. para o Adalto Botelho</string>
+				<string>Av. E (Res. Paiaguás II)</string>
+				<string>Rua das Missões (T. Poderes)</string>
+				<string>Rua Amazonas</string>
+				<string>Rua dos Lírios</string>
+				<string>Rua E (Res. Paiaguás II)</string>
+				<string>Rua E (Res. Paiaguás)</string>
+				<string>Rua B (Res. Paiaguás)</string>
+				<string>Rua G (Res. Paiaguás)</string>
+				<string>Av. A (Res. Paiaguás)</string>
+				<string>Rua E (Res. Paiaguás)</string>
+				<string>Rua J (Res. Paiaguás)</string>
+				<string>Rua D (Res. Paiaguás)</string>
+				<string>Av. República do Líbano</string>
+				<string>Av. Miguel Sutil</string>
+				<string>Av. Afonso Pena</string>
+				<string>Rua José Linhares</string>
+				<string>Av. Filinto Müller</string>
+				<string>Av. Isaac Póvoas</string>
+				<string>Rua Joaquim Murtinho</string>
+				<string>Av. Getúlio Vargas (Flamboyant)</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Av. Getúlio Vargas (Flamboyant)</string>
+				<string>Av. Estevão de Mendonça</string>
+				<string>Av. Miguel Sutil</string>
+				<string>Av. República do Líbano</string>
+				<string>Rua D (Res. Paiaguás)</string>
+				<string>Rua J (Res. Paiaguás)</string>
+				<string>Rua E (Res. Paiaguás)</string>
+				<string>Av. A (Res. Paiaguás)</string>
+				<string>Rua G (Res. Paiaguás)</string>
+				<string>Rua B (Res. Paiaguás)</string>
+				<string>Rua E (Res. Paiaguás)</string>
+				<string>Rua E (Res. Paiaguás II)</string>
+				<string>Rua dos Lírios (Três Poderes)</string>
+				<string>Rua Amazonas (Três Poderes)</string>
+				<string>Rua das Missões (T. Poderes)</string>
+				<string>Av. E (Res. Paiaguás II)</string>
+				<string>Av. do Adalto Botelho</string>
+				<string>Entrada do Detran</string>
+				<string>Ponto Final do Detran </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>213</string>
+		<key>nome</key>
+		<string>TRÊS PODERES / CENTRO</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Rua Colíder (Mercado Amperco)</string>
+				<string>Rua Jaciara - Amperco</string>
+				<string>Rua Nortelândia - Amperco</string>
+				<string>Av. Crescêncio G. de Almeida (Av. Rondonopólis)</string>
+				<string>Rua Frei Quirino (Rua H) - Colorado</string>
+				<string>Av. Principal- Colorado</string>
+				<string>Av. Nelson Nunes- Colorado</string>
+				<string>Rua 4 (R. Paulo Autran) - Colorado</string>
+				<string>Av. Joaquim Louzada</string>
+				<string>Av. Mário Palma- Ribeir?o</string>
+				<string>Rua Clarindo Epifânio da Silva</string>
+				<string>Trav. Afonso Pena</string>
+				<string>Rua França</string>
+				<string>Rua Argélia</string>
+				<string>Av. Oswaldo Corrêa</string>
+				<string>Rua Tito Lívio</string>
+				<string>Rua Clarindo Epifânio da Silva</string>
+				<string>Av. Oswaldo Corrêa</string>
+				<string>Av. Afonso Pena</string>
+				<string>Rua Ver. Emanuel R. Daubian</string>
+				<string>Av. S?o Sebasti?o</string>
+				<string>Av. Isaac Póvoas</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Rua Joaquim Murtinho</string>
+				<string>Av. Getúlio Vargas (Flamboyant)</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Loja Flamboyant</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Av. São Sebastião</string>
+				<string>Av. Afonso Pena</string>
+				<string>Av. Oswaldo Corrêa</string>
+				<string>Rua Clarindo Epifânio da Silva</string>
+				<string>Rua Tito Lívio</string>
+				<string>Av. Oswaldo Corrêa</string>
+				<string>Rua Argélia</string>
+				<string>Rua França</string>
+				<string>Trav. Afonso Pena</string>
+				<string>Rua Clarindo Epifânio da Silva</string>
+				<string>Av. Mário Palma - Ribeir?o</string>
+				<string>Av. Joaquim Louzada</string>
+				<string>Rua 4(R. Paulo Autran) - Colorado</string>
+				<string>Av. Nelson Nunes</string>
+				<string>Av. Principal - Colorado</string>
+				<string>Rua Frei Quirino (Rua H) - Colorado</string>
+				<string>Av. Cresc?ncio G. de Almeida</string>
+				<string>Rua Nortelândia - Amperco</string>
+				<string>Rua Rondonópolis - Amperco</string>
+				<string>Rua Colíder (Mercado Amperco)</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>220</string>
+		<key>nome</key>
+		<string>AMPERCO / COLORADO / CENTRO (VIA RIBEIRÃO DO LIPA)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Av. Florinda Negrão x R. Flamboyant</string>
+				<string>Av. Florinda Negrão</string>
+				<string>Rua N (Resid. Despraiado)</string>
+				<string>Rua Q (Resid. Despraiado)</string>
+				<string>Av. A (Resid. Despraiado)</string>
+				<string>Rua D (Resid. Despraiado)</string>
+				<string>Rua I (Resid. Despraiado)</string>
+				<string>Av. Afonso Pena</string>
+				<string>Av. Osvaldo Correa</string>
+				<string>Av. Afonso Pena</string>
+				<string>Rua José Linhares</string>
+				<string>Av. Filinto Muller</string>
+				<string>Av. Isaac Póvoas</string>
+				<string>Rua Joaquim Murtinho</string>
+				<string>Av. Getúlio Vargas (L. Flamboyant)</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Av. Getúlio Vargas</string>
+				<string>Rua Estevão de Mendonça</string>
+				<string>Av. Osvaldo Correa</string>
+				<string>Rua Afonso Pena</string>
+				<string>Rua I (Resid. Despraiado)</string>
+				<string>Rua J (Resid. Despraiado)</string>
+				<string>Rua K (Resid. Despraiado)</string>
+				<string>Rua Q (Resid. Despraiado)</string>
+				<string>Rua N (Resid. Despraiado)</string>
+				<string>Av. Florinda Negrão</string>
+				<string>Av. Florinda Negrão x Rua Flamboyant </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>225</string>
+		<key>nome</key>
+		<string>ALTOS DA BOA VISTA / CENTRO (VIA DESPRAIADO)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Centro de Zoonoses</string>
+				<string>Centro de Eventos Pantanal</string>
+				<string>Av. Bernardo Antônio de Oliveira</string>
+				<string>Av. Miguel Sutil</string>
+				<string>Av. Lava-pés</string>
+				<string>Av. Isaac Póvoas</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Av. Tenente Coronel Duarte</string>
+				<string>Av. Getúlio Vargas</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Av. Getúlio Vargas</string>
+				<string>Av. Lava-pés</string>
+				<string>Av. Miguel Sutil</string>
+				<string>Av. Bernardo Antônio de Oliveira</string>
+				<string>Centro de Eventos Pantanal</string>
+				<string>Centro de Zoonoses</string>
+				<string>Em operação</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>250</string>
+		<key>nome</key>
+		<string>CENTRO DE EVENTOS PANTANAL (VIA CENTRO DE ZOONOSES) / CENTRO</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Terminal- CPA III</string>
+				<string>Av. dos Trabalhadores</string>
+				<string>Av. Tuiuiú - CPA IV</string>
+				<string>Rua 26 - CPA IV</string>
+				<string>Rua F - CPA IV</string>
+				<string>Rua G - CPA IV</string>
+				<string>Posto de Saúde (CPA IV)</string>
+				<string>Rua 94 - CPA IV</string>
+				<string>Av. Curió - CPA IV</string>
+				<string>Av. Tuiuiú - CPA IV</string>
+				<string>Rua Antero de Barros (Antiga Paraíba)</string>
+				<string>Av. Brasil</string>
+				<string>R. Caramuru Maciel (Antiga Bahia)</string>
+				<string>Rua Amaro Falcão (Antiga S. José do Rio Preto)</string>
+				<string>Term. CPA I</string>
+				<string>Rua Pelotas</string>
+				<string>Rua Joinvile</string>
+				<string>Rua Óbidos</string>
+				<string>Av. Rubens de Mendonça</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Caetano Santana</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Ponto de ônibus da AGER</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Ponto de ônibus da AGER</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Rubens de Mendonça</string>
+				<string>Rua Alenquer</string>
+				<string>Rua Joinvile</string>
+				<string>Rua Renato Spinelli (Antiga Sorocaba)</string>
+				<string>Terminal- CPA I</string>
+				<string>Rua Pernambuco</string>
+				<string>Rua Prof. Alice Freire</string>
+				<string>Av. Tuiuiú - CPA IV</string>
+				<string>Av. Curió - CPA IV</string>
+				<string>Rua 94 - CPA IV</string>
+				<string>Posto de Saúde (CPA IV)</string>
+				<string>Rua G - CPA IV</string>
+				<string>Rua F - CPA IV</string>
+				<string>Rua 26 - CPA IV</string>
+				<string>Av. Tuiuiú - CPA IV</string>
+				<string>Av. dos Trabalhadores</string>
+				<string>Terminal- CPAIII </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>300</string>
+		<key>nome</key>
+		<string>TERMINAL CPA III / CPA I / RUA MAJOR GAMA (HOSP. CÂNCER)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Ponto Final- Jdim Vitória</string>
+				<string>Av. Pricipal- Jdim Vitória</string>
+				<string>Rua 07- Jdim Vitória</string>
+				<string>Av. José Torquato</string>
+				<string>Av. Rubens de Mendonça</string>
+				<string>Av. Tenente Coronel Duarte (Prainha)</string>
+				<string>Av. Dom Bosco</string>
+				<string>Rua Comandante Costa</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Rua Comandante Costa</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Av. Marechal Deodoro</string>
+				<string>Av. Mato Grosso</string>
+				<string>Av. Rubens de Mendonça</string>
+				<string>Av. José Torquato</string>
+				<string>Rua 07- Jdim Vitória</string>
+				<string>Av. Principal- JdimVitória</string>
+				<string>Ponto Final- Jdim Vitória </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>301</string>
+		<key>nome</key>
+		<string>JARDIM VITÓRIA / CENTRO</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Res. Vila da Serra</string>
+				<string>Av. Projetada- Vila da Serra</string>
+				<string>Av. Principal- 1° de Março</string>
+				<string>Av. Nova Conquista</string>
+				<string>Rua 2 - Ouro Fino</string>
+				<string>Av. Brasil</string>
+				<string>Rua Jorn. Caramuru de C. Maciel (Bahia)</string>
+				<string>Rua Prof. Amaro de Figueiredo Falcão</string>
+				<string>São José do Rio Preto</string>
+				<string>Terminal- CPA I</string>
+				<string>Rua Pernambuco</string>
+				<string>Av. Brasil</string>
+				<string>Av. Augusto Vieira</string>
+				<string>Av. Milton Figueiredo</string>
+				<string>Av. Dr° Leônidas</string>
+				<string>Av. Rubens de Mendonça</string>
+				<string>Av. Luis Phillipe Pereira Leite</string>
+				<string>Rua Poxoréo</string>
+				<string>Av. República do Líbano</string>
+				<string>Rua Nhambiquara</string>
+				<string>Av. Presidente Marques</string>
+				<string>Rua Quilombo</string>
+				<string>Rua Caio Pinheiro</string>
+				<string>Rua Campos Sales</string>
+				<string>Av. São Sebastião</string>
+				<string>Av. Isaac Póvoas</string>
+				<string>Rua Joaquim Murtinho</string>
+				<string>Av. Getúlio Vargas (Flamboyant)</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Av. Getúlio Vargas (Flamboyant)</string>
+				<string>Av. São Sebastião</string>
+				<string>Rua Campos Sales</string>
+				<string>Av. Marechal Deodoro</string>
+				<string>Av. República do Líbano</string>
+				<string>Av. Carlos Veiga de Sá</string>
+				<string>Jules Rimet</string>
+				<string>Rua Trigo de Loureiro</string>
+				<string>Rua Poxoréo</string>
+				<string>Av. Rubens de Mendonça</string>
+				<string>Rua Dr° Leônidas</string>
+				<string>Av. Milton Figueiredo</string>
+				<string>Av. Augusto Vieira</string>
+				<string>Av. Brasil</string>
+				<string>Rua Jorn. Caramuru de C. Maciel (Rua Bahia)</string>
+				<string>Rua Prof. Amaro Falcão</string>
+				<string>Rua S. José do Rio Preto</string>
+				<string>Terminal- CPA I</string>
+				<string>Rua Pernambuco</string>
+				<string>Av. Brasil</string>
+				<string>Rua 2 - Ouro Fino</string>
+				<string>Av. Nova Conquista</string>
+				<string>Av. Principal- 1° de Março</string>
+				<string>Av. Projetada- Vila da Serra</string>
+				<string>Residencial Vila da SerraObs:</string>
+				<string>Pontos de Parada na Área Central</string>
+				<string>- Farmácia N. Sª de Fátima (Av. Isaac Póvoas)</string>
+				<string>- Praça Rachid Jaudy (Av. Isaac Póvoas)</string>
+				<string>- Loja Flamboyant (Av. Getúlio Vargas) </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>302</string>
+		<key>nome</key>
+		<string>VILA DA SERRA / CENTRO</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Terminal do CPA III</string>
+				<string>Av. dos Trabalhadores</string>
+				<string>Av. Miguel Sutil</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Via Universitária</string>
+				<string>Av. Alziro Zarur</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. Carmindo de Campos</string>
+				<string>Rua Jorn. Jacques Brunini</string>
+				<string>Av. Teles Pires</string>
+				<string>Av. Piraim</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Av. Piraim</string>
+				<string>Av. Rio Araguaia</string>
+				<string>Av. Manoel José de Arruda</string>
+				<string>Av. Beira Rio</string>
+				<string>Av. Jornalista Jacques Brunini</string>
+				<string>Av. Carmindo de Campos</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. Alziro Zarur</string>
+				<string>Via Universitária</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. Miguel Sutil</string>
+				<string>Av. dos Trabalhadores</string>
+				<string>Terminal do CPA III </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>306</string>
+		<key>nome</key>
+		<string>TERMINAL CPA III / GRANDE TERCEIRO (VIA UFMT)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Terminal- CPA III</string>
+				<string>Av. Dr. Ulisses Guimarães</string>
+				<string>Alameda 4 - CPA III</string>
+				<string>Alameda 02- CPA III- Setor V</string>
+				<string>Rua 08- CPA III</string>
+				<string>Avenida Tuiuiú</string>
+				<string>Av. Prof. Alice Freire</string>
+				<string>Rua Antero Paes de Barros</string>
+				<string>Rua Paraíba)</string>
+				<string>Av. Brasil</string>
+				<string>Rua Jorn. Caramuru de C. Maciel</string>
+				<string>Rua Bahia</string>
+				<string>Rua Jorn. Amaro de F. Falcão</string>
+				<string>Rua São José do Rio Preto</string>
+				<string>Terminal- CPA I</string>
+				<string>Rua Pelotas</string>
+				<string>Rua Joinvile</string>
+				<string>Rua Óbidos</string>
+				<string>Av. Rubens de Mendonça</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Av. São Sebastião</string>
+				<string>Av. Afonso Pena</string>
+				<string>Av. Oswaldo Corrêa</string>
+				<string>Rua Argélia- Vila Real</string>
+				<string>Rua França- Vila Real</string>
+				<string>Rua Clarindo Silva</string>
+				<string>Av. Mário Palma- Riberão</string>
+				<string>Av. Joaquim Louzada</string>
+				<string>Rua B (Rua 4) - Colorado</string>
+				<string>Av. Nelson Nunes</string>
+				<string>Av. Principal- Colorado</string>
+				<string>Rua Frei Quirino (Rua H)- Colorado</string>
+				<string>Av. Rondonópolis</string>
+				<string>Av. Antártica</string>
+				<string>Terminal Antártica</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Terminal Antártica</string>
+				<string>Av. Antártica</string>
+				<string>Av. Rondonópolis- Colorado</string>
+				<string>Rua Frei Quirino (Rua H) - Colorado</string>
+				<string>Av. Principal- Colorado</string>
+				<string>Av. Nelson Nunes- Colorado</string>
+				<string>Rua B (Rua 4)- Colorado</string>
+				<string>Av. Joaquim Louzada</string>
+				<string>Av. Mário Palma- Riberão</string>
+				<string>Rua Clarindo Silva</string>
+				<string>Rua França</string>
+				<string>Rua Argélia</string>
+				<string>Av. Osvaldo Corrêa</string>
+				<string>Av. Afonso Pena</string>
+				<string>Av. São Sebastião</string>
+				<string>Av. Isaac Póvoas</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Rubens de Mendonça</string>
+				<string>Rua Alenquer</string>
+				<string>Rua Joinvile</string>
+				<string>Rua Renato Spinelli (Rua Sorocaba)</string>
+				<string>Terminal- CPA I</string>
+				<string>Rua Pernambuco</string>
+				<string>Rua Prof Alice Freire</string>
+				<string>Alameda 01 (Rua C)</string>
+				<string>Rua 08</string>
+				<string>Alameda 02- CPA III- Setor V</string>
+				<string>Alameda 03- CPA III</string>
+				<string>Av. Dr. Ulisses Guimarães</string>
+				<string>Terminal- CPAIII </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>308</string>
+		<key>nome</key>
+		<string>TERMINAL CPA III / CENTRO / RIBEIRÃO DO LIPA</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Ponto Final - Praça Res. Terezinha Picolli</string>
+				<string>Rua B - Residencial Picolli</string>
+				<string>Rua I - Residencial Picolli</string>
+				<string>Rua A - Residencial Picolli</string>
+				<string>Rua L - Residencial Picolli</string>
+				<string>Avenida B - Residencial Picolli</string>
+				<string>Avenida A - Residencial Picolli</string>
+				<string>Avenida A - Res. Wantuil de Freitas</string>
+				<string>Avenida A - Nova Conquista</string>
+				<string>Avenida Principal do 1º de Março</string>
+				<string>Avenida Soares Andrade</string>
+				<string>Avenida J - CPA IV</string>
+				<string>Avenida Pica-Pau Amarelo</string>
+				<string>Av. Curió</string>
+				<string>Avenida B - CPA IV (Av. Tuiuiú)</string>
+				<string>Av. Dante de Oliveira (Av. dos Trabalhadores)</string>
+				<string>Terminal- CPA III</string>
+				<string>Av. Dante de Oliveira (Av. dos Trabalhadores)</string>
+				<string>Av. João Gomes Sobrinho</string>
+				<string>Av. Cel. Escolástico</string>
+				<string>Retorno na Av. Cel. Escolástico</string>
+				<string>Av. Cel. Escolástico</string>
+				<string>Av. Gen. Valle</string>
+				<string>Rua Clóvis Huguiney (Praça Mª Taquara)</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Rua Clóvis Huguiney (Praça Mª Taquara)</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Cel. Escolástico</string>
+				<string>Av. João Gomes Sobrinho</string>
+				<string>Av. Dante de Oliveira (Av. Trabalhadores)</string>
+				<string>Terminal- CPA III</string>
+				<string>Av. Dante de Oliveira (Av. dos Trabalhadores)</string>
+				<string>Av. B- CPA IV (Av. Tuiuiú)</string>
+				<string>Av. J- CPA IV</string>
+				<string>Av. Soares de Andrade</string>
+				<string>Rua D - 1° de Março</string>
+				<string>Rua N - 1° de Março</string>
+				<string>Rua P - 1° de Março</string>
+				<string>Rua 4 - 1° de Março</string>
+				<string>Rua X - 1° de Março</string>
+				<string>Av. Principal- 1° de Março</string>
+				<string>Av. A - Nova Conquista</string>
+				<string>Avenida A - Res. Wantuil de Freitas</string>
+				<string>Avenida A - Residencial Picolli</string>
+				<string>Avenida B - Residencial Picolli</string>
+				<string>Rua L - Residencial Picolli</string>
+				<string>Rua C - Residencial Picolli</string>
+				<string>Rua K - Residencial Picolli</string>
+				<string>Rua B - Residencial Picolli</string>
+				<string>Ponto Final - Praça Res. Terezinha Picolli</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>309</string>
+		<key>nome</key>
+		<string>RESIDENCIAL PICOLLI / CENTRO (VIA 1º DE MARÇO / TERMINAL CPA III)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Ponto Final- Altos da Glória (Av. B)</string>
+				<string>Rua 20 (Umuarama)</string>
+				<string>Acesso ao Res. Nova Canaã</string>
+				<string>Av. A (Nova Canaã)</string>
+				<string>Av. Jurumirim</string>
+				<string>Av. Hélio Barbosa</string>
+				<string>Rua 9 (Três Barras)</string>
+				<string>Rua 24 (Três Barras)</string>
+				<string>Rua 18 (Três Barras)</string>
+				<string>Av. Curió (CPA IV)</string>
+				<string>Av. William Coutinho</string>
+				<string>Alameda 2- CPA III</string>
+				<string>Alameda4-CPAIII</string>
+				<string>Terminal- CPA III</string>
+				<string>Av. dos Trabalhadores</string>
+				<string>Rua do IML</string>
+				<string>Av. Gonçalo A. de Barros (Av. Jurumirim)</string>
+				<string>Rua João Félix (Lixeira)</string>
+				<string>Rua São Benedito</string>
+				<string>Av. João Gomes Sobrinho</string>
+				<string>Av. Coronel Escolástico</string>
+				<string>Av. General Valle</string>
+				<string>Av. Clóvis Huguiney</string>
+				<string>Praça Maria Taquara</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Av. Tem. Cel. Duarte (Prainha)</string>
+				<string>Av. Cel. Escolástico</string>
+				<string>Av. João Gomes Sobrinho</string>
+				<string>Rua São Francisco</string>
+				<string>Rua Antônio Batista Belém</string>
+				<string>Rua Américo Salgado</string>
+				<string>Rua João Félix</string>
+				<string>Av. Gonçalo A. de Barros</string>
+				<string>Rua do IML</string>
+				<string>Av. dos Trabalhadores</string>
+				<string>Terminal- CPA III</string>
+				<string>Alameda 4- CPA III</string>
+				<string>Alameda 2- CPA III</string>
+				<string>Av. William Coutinho</string>
+				<string>Av. Curió (CPA IV)</string>
+				<string>Rua 18 (Três Barras)</string>
+				<string>Rua 24 (Três Barras)</string>
+				<string>Rua 9 (Três Barras)</string>
+				<string>Av. Hélio Barbosa</string>
+				<string>Av. Jurumirim</string>
+				<string>Av. A (Nova Canaã)</string>
+				<string>Rua 20 (Nova Canaã)</string>
+				<string>Av. B (Nova Canaã)</string>
+				<string>Ponto Final- Altos da Glória</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>310</string>
+		<key>nome</key>
+		<string>TRÊS BARRAS / CENTRO (AV. JURUMIRIM)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Terminal- CPA-III</string>
+				<string>Av. dos Trabalhadores</string>
+				<string>Rua Tancredo Neves</string>
+				<string>Av. Gonçalo Antunes de Barros (Av. Jurumirim)</string>
+				<string>Rua P- Vila Rosa</string>
+				<string>Rua Floriano Peixoto</string>
+				<string>Rua das Rosas</string>
+				<string>Alameda 06- CPA III</string>
+				<string>Rua 56- CPA III</string>
+				<string>Alameda 5- CPA III</string>
+				<string>Av. Dr° Ulisses Guimarães</string>
+				<string>Alameda 8- CPA III</string>
+				<string>Rua 83- CPA III</string>
+				<string>Av. Prof. Alice Freire</string>
+				<string>Av. Projetada</string>
+				<string>Av. Vicente Vuolo</string>
+				<string>Av. Djalma Ferreira de Souza</string>
+				<string>Rua Dr. Leônidas</string>
+				<string>Av. Rubens de Mendonça</string>
+				<string>Av. Tenente Coronel Duarte (Prainha)</string>
+				<string>Av. Dom Bosco</string>
+				<string>Rua Comandante Costa</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Rua Comandante Costa</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Av. Marechal Deodoro</string>
+				<string>Av. Mato Grosso</string>
+				<string>Av. Rubens de Mendonça</string>
+				<string>Rua Dr. Leônidas</string>
+				<string>Av. Djalma Ferreira de Souza</string>
+				<string>Av. Vicente Vuolo</string>
+				<string>Av. Projetada</string>
+				<string>Av. Prof. Alice Freire</string>
+				<string>Alameda 8- CPA III</string>
+				<string>Av. Dr° Ulisses Guimarães</string>
+				<string>Alameda 5- CPA III</string>
+				<string>Rua 56</string>
+				<string>Alameda 06- CPA III</string>
+				<string>Rua das Rosas</string>
+				<string>Rua Floriano Peixoto</string>
+				<string>Rua P</string>
+				<string>Av. Gonçalo Antunes de Barros (Av. Jurumirim)</string>
+				<string>Rua Andradina</string>
+				<string>Rua Bom Jardim</string>
+				<string>Rua Amazonas</string>
+				<string>Av. dos Trabalhadores</string>
+				<string>Terminal- CPA III </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>311</string>
+		<key>nome</key>
+		<string>NOVO MATO GROSSO / CENTRO</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Terminal- CPA III</string>
+				<string>Av. Dante de Oliveira</string>
+				<string>Av. Tuiuiú (Av. B - CPA IV)</string>
+				<string>Rua 24- CPA IV</string>
+				<string>Rua F- CPA IV</string>
+				<string>Rua G</string>
+				<string>Posto de Saúde - CPA IV</string>
+				<string>Rua O</string>
+				<string>Av. Curió</string>
+				<string>Av. Tuiuiú (Av. B - CPA IV)</string>
+				<string>Rua Antero Paes de Barros</string>
+				<string>Av. Brasil</string>
+				<string>Rua Jorn. Caramuru de C. Maciel</string>
+				<string>Rua Bahia</string>
+				<string>Rua Prof. Amaro de F. Falcao</string>
+				<string>Rua Sao José do Rio Preto</string>
+				<string>Terminal - CPA I</string>
+				<string>Rua Pernambuco</string>
+				<string>Av. Brasil</string>
+				<string>Av. Milton Figueiredo</string>
+				<string>Rua Dr. Leônidas</string>
+				<string>Av. Rubens de Mendonça</string>
+				<string>Av. Ten. Cel Duarte</string>
+				<string>Av. 15 de Novembro</string>
+				<string>Rua General Osório</string>
+				<string>Av. Mário Correa</string>
+				<string>Praça Luís de Albuquerque</string>
+				<string>Trav. Tufik Affi</string>
+				<string>Av. Manuel de Arruda</string>
+				<string>Av. Jacques Brunini</string>
+				<string>Av. Teles Pires</string>
+				<string>Av. Piraim</string>
+				<string>Terminal- CPA III</string>
+				<string>Av. Dante de Oliveira</string>
+				<string>Av. Tuiuiú (Av. B - CPA IV)</string>
+				<string>Rua 24- CPA IV</string>
+				<string>Rua F- CPA IV</string>
+				<string>Rua G</string>
+				<string>Posto de Saúde - CPA IV</string>
+				<string>Rua O</string>
+				<string>Av. Curió</string>
+				<string>Av. Tuiuiú (Av. B - CPA IV)</string>
+				<string>Rua Antero Paes de Barros</string>
+				<string>Av. Brasil</string>
+				<string>Rua Jorn. Caramuru de C. Maciel</string>
+				<string>Rua Bahia</string>
+				<string>Rua Prof. Amaro de F. Falc?o</string>
+				<string>Rua S?o José do Rio Preto</string>
+				<string>Terminal - CPA I</string>
+				<string>Rua Pernambuco</string>
+				<string>Av. Brasil</string>
+				<string>Av. Milton Figueiredo</string>
+				<string>Rua Dr. Leônidas</string>
+				<string>Av. Rubens de Mendonça</string>
+				<string>Av. Ten. Cel Duarte</string>
+				<string>Av. 15 de Novembro</string>
+				<string>Rua Caetano Santana</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Ponto de ônibus da AGER</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Av. Piraim</string>
+				<string>Rua Araguaia</string>
+				<string>Rua Couto de Magalhães</string>
+				<string>Av. Manuel de Arruda</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Rubens de Mendonça</string>
+				<string>Rua Dr. Leônidas</string>
+				<string>Av. Milton Figueiredo</string>
+				<string>Av. Brasil</string>
+				<string>Rua Jorn. Caramuru de C. Maciel</string>
+				<string>Rua Bahia</string>
+				<string>Rua Prof. Amaro de F. Falcao</string>
+				<string>Rua Sao José do Rio Preto</string>
+				<string>Terminal CPA I</string>
+				<string>Rua Pernambuco</string>
+				<string>Av. Alice Freire</string>
+				<string>Av. Tuiuiú (Av. B - CPA IV)</string>
+				<string>Av. Curió</string>
+				<string>Rua O</string>
+				<string>Posto de Saúde - CPA IV</string>
+				<string>Rua G</string>
+				<string>Rua F - CPA IV</string>
+				<string>Rua 24 - CPA IV</string>
+				<string>Av. Tuiuiú (Av. B - CPA IV)</string>
+				<string>Av. Dante de Oliveira</string>
+				<string>Terminal CPA III</string>
+				<string>Ponto de ônibus da AGER</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Rubens de Mendonça</string>
+				<string>Rua Dr. Leônidas</string>
+				<string>Av. Milton Figueiredo</string>
+				<string>Av. Brasil</string>
+				<string>Rua Jorn. Caramuru de C. Maciel</string>
+				<string>Rua Bahia</string>
+				<string>Rua Prof. Amaro de F. Falc?o</string>
+				<string>Rua S?o José do Rio Preto</string>
+				<string>Terminal CPA I</string>
+				<string>Rua Pernambuco</string>
+				<string>Av. Alice Freire</string>
+				<string>Av. Tuiuiú (Av. B - CPA IV)</string>
+				<string>Av. Curió</string>
+				<string>Rua O</string>
+				<string>Posto de Saúde - CPA IV</string>
+				<string>Rua G</string>
+				<string>Rua F - CPA IV</string>
+				<string>Rua 24 - CPA IV</string>
+				<string>Av. Tuiuiú (Av. B - CPA IV)</string>
+				<string>Av. Dante de Oliveira</string>
+				<string>Terminal CPA III</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>313</string>
+		<key>nome</key>
+		<string>TERMINAL CPA III / UNIC (VIA CPA IV E TERMINAL CPA I)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Av.Rua Gonçalo Antunes (Antiga Jurumirim)</string>
+				<string>Av. Oatomo Canavarros</string>
+				<string>Av. Principal - Bela Vista</string>
+				<string>Rua 14 - Bela Vista</string>
+				<string>Rua J - Terra Nova</string>
+				<string>Rua F - Terra Nova</string>
+				<string>Rua Senador Teotônio Vilela</string>
+				<string>Rua Domicínio P. Barcelos</string>
+				<string>Av. Rubens de Mendonça</string>
+				<string>Retorno no Supermercado Comper</string>
+				<string>Av. Rubens de Mendonça</string>
+				<string>Retorno no Supermercado Comper</string>
+				<string>Av. Rubens de Mendonça</string>
+				<string>Av. Ten. Cel Duarte</string>
+				<string>Av. 15 de Novembro</string>
+				<string>Rua Caetano Santana</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Ponto de ônibus da AGER</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Ponto de ônibus da AGER</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Rubens de Mendonça</string>
+				<string>Rua Domicínio P. Barcelos</string>
+				<string>Rua Senador Teotônio Vilela</string>
+				<string>Rua F - Terra Nova</string>
+				<string>Rua I - Terra Nova</string>
+				<string>Rua G - Terra Nova</string>
+				<string>Rua J - Terra Nova</string>
+				<string>Rua 14 - Bela Vista</string>
+				<string>Av. Principal - Bela Vista</string>
+				<string>Av. Oatomo Canavarros</string>
+				<string>Av. Rua Gonçalo Antunes (Antiga Jurumirim) </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>314</string>
+		<key>nome</key>
+		<string>BELA VISTA / CENTRO</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Termina CPA III</string>
+				<string>Av. Dante de Oliveira</string>
+				<string>Av. Tuiuiú (Av. B - CPA IV)</string>
+				<string>Rua 24 - CPA IV</string>
+				<string>Rua F - CPA IV</string>
+				<string>Rua G</string>
+				<string>Posto de Saúde - CPA IV</string>
+				<string>Rua O</string>
+				<string>Av. Curió</string>
+				<string>Av. Tuiuiú</string>
+				<string>Rua Antero Paes de Barros</string>
+				<string>Av. Brasil</string>
+				<string>Rua Jorn. Caramuru de C. Maciel</string>
+				<string>Rua Prof. Amaro de F. Falcao</string>
+				<string>Terminal - CPA I</string>
+				<string>Rua Pernambuco</string>
+				<string>Av. Brasil</string>
+				<string>Av. Thomé Fortes</string>
+				<string>Av. Djalma Ferreira</string>
+				<string>Rua Dr. Leônidas</string>
+				<string>Av. Rubens de Mendonça</string>
+				<string>Av. Ten. Cel Duarte</string>
+				<string>Av. 15 de Novembro</string>
+				<string>Rua General Osório</string>
+				<string>Av. Mário Corrêa</string>
+				<string>Praça Luis de Albuquerque</string>
+				<string>Trav. Tufik Affi</string>
+				<string>Av. Manoel José de Arruda</string>
+				<string>Beira Rio</string>
+				<string>Av. Jacques Brunini</string>
+				<string>Av. Teles Pires</string>
+				<string>Av. Piraim</string>
+				<string>Terminal CPA 3</string>
+				<string>Av. dos Trabalhadores</string>
+				<string>Av. Tuiuiú</string>
+				<string>Rua 24</string>
+				<string>Rua F</string>
+				<string>Rua G</string>
+				<string>Rua O</string>
+				<string>Av. Curió</string>
+				<string>Av. Tuiuiú</string>
+				<string>Rua Paraíba</string>
+				<string>Av. Brasil</string>
+				<string>Rua Bahia</string>
+				<string>Rua São José do Rio Preto</string>
+				<string>Terminal do CPA 1</string>
+				<string>Rua São José do Rio Preto</string>
+				<string>Av. Pernambuco</string>
+				<string>Av. Brasil</string>
+				<string>Av. Oatomo Canavarros</string>
+				<string>Av. Djalma Ferreira</string>
+				<string>Av. Dr. Ênio Vieira</string>
+				<string>Av. do CPA</string>
+				<string>Av. da Prainha</string>
+				<string>Av. 15 de Novembro</string>
+				<string>Rua Caetano Santana</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Av. Piraim</string>
+				<string>Rua Araguaia</string>
+				<string>Rua Couto Magalhaes</string>
+				<string>Av. Manoel José de Arruda</string>
+				<string>Beira Rio</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Rubens de Mendonça</string>
+				<string>Rua Dr. Leônidas</string>
+				<string>Av. Djalma Ferreira</string>
+				<string>Av. Thomé Fortes</string>
+				<string>Av. Brasil</string>
+				<string>Rua Jorn. Caramuru de C. Maciel</string>
+				<string>Rua Prof. Amaro de F. Falcao</string>
+				<string>Terminal CPA I</string>
+				<string>Rua Pernambuco</string>
+				<string>Av. Alice Freire</string>
+				<string>Av. Tuiuiú (Av. B - CPA IV)</string>
+				<string>Av. Curió</string>
+				<string>Rua O</string>
+				<string>Posto de Saúde - CPA IV</string>
+				<string>Rua G</string>
+				<string>Rua F - CPA IV</string>
+				<string>Rua 24 - CPA IV</string>
+				<string>Av. Tuiuiú (Av. B - CPA IV)</string>
+				<string>Av. Dante de Oliveira</string>
+				<string>Terminal CPA III</string>
+				<string>Desde setembro de 10</string>
+				<string>Av. Tenente Coronel Duarte</string>
+				<string>Av. do CPA</string>
+				<string>Av. Dr. Ênio Vieira</string>
+				<string>Av. Djalma Ferreira</string>
+				<string>Av. Brasil</string>
+				<string>Rua Bahia</string>
+				<string>Rua São José do Rio Preto</string>
+				<string>Terminal do CPA 1</string>
+				<string>Rua São José do Rio Preto</string>
+				<string>Av. Pernambuco</string>
+				<string>Rua Prof.ª Alice Freire</string>
+				<string>Av. Tuiuiú</string>
+				<string>Av. Curió</string>
+				<string>Rua O</string>
+				<string>Rua G</string>
+				<string>Rua F</string>
+				<string>Rua 24</string>
+				<string>Av. Tuiuiú</string>
+				<string>Av. dos Trabalhadores</string>
+				<string>Terminal CPA 3</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>315</string>
+		<key>nome</key>
+		<string>TERMINAL CPA III / UNIC (via fundo da Morada do Ouro)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Ponto Final- Av. B Altos da Glória</string>
+				<string>Av. Principal (Nova Canaã)</string>
+				<string>Acesso ao Dr. Paraná</string>
+				<string>Av. do Linhão (Dr. Paraná)</string>
+				<string>Rua 5 (Dr. Paraná)</string>
+				<string>Av. Hélio barbosa</string>
+				<string>Rua 9 – Três Barras</string>
+				<string>Rua 24 – Três Barras</string>
+				<string>Rua 18 – Três Barras</string>
+				<string>Av. Curió</string>
+				<string>Av. William Coutinho (Rua 08)</string>
+				<string>Alameda 2</string>
+				<string>Alameda 4- CPA III</string>
+				<string>Terminal- CPA III</string>
+				<string>Av. dos Trabalhadores (Av. Dante de Oliveira)</string>
+				<string>Av. João Gomes Sobrinho</string>
+				<string>Av. Cel. Escolástico</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. 15 de Novembro</string>
+				<string>Av. Senador Metelo</string>
+				<string>Rua 13 de Junho</string>
+				<string>Rua Feliciano Saldino</string>
+				<string>Av. Mário Corrêa</string>
+				<string>Rua General Osório</string>
+				<string>Rua 13 de Junho</string>
+				<string>Av. 8 de Abril</string>
+				<string>Av. Manoel José de Arruda</string>
+				<string>Praça Luis de Albuquerque</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Trav. Tufik Affi</string>
+				<string>Av. Beira Rio</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Cel. Escolástico</string>
+				<string>Av. João Gomes Sobrinho</string>
+				<string>Av. dos Trabalhadores (Av. Dante de Oliveira)</string>
+				<string>Terminal- CPA III</string>
+				<string>Alameda 4 CPA III</string>
+				<string>Alameda 2</string>
+				<string>Av. William Coutinho (Rua 8)</string>
+				<string>Av. Curió</string>
+				<string>Rua 18 – Três Barras</string>
+				<string>Rua 24 – Três Barras</string>
+				<string>Rua 9 – Três Barras</string>
+				<string>Av. Hélio Barbosa</string>
+				<string>Rua 5</string>
+				<string>Av. do Linhão (Dr. Paraná)</string>
+				<string>Av. Principal (Res. Nova Canaã)</string>
+				<string>Rua 20 – Umuarama</string>
+				<string>Av. B – Altos da Glória</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>319</string>
+		<key>nome</key>
+		<string>TRÊS BARRAS / PORTO</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Av. Marcelo Ribeiro</string>
+				<string>Av. José Curvo</string>
+				<string>Rua das Crianças</string>
+				<string>Rua Jaime Campos</string>
+				<string>Retorno na borracharia</string>
+				<string>Rua Jaime Campos</string>
+				<string>Av. José Torquato</string>
+				<string>Rua 07 - Jardim Vitória</string>
+				<string>Av. B - Jardim Vitória</string>
+				<string>Rua 25 - Jd. Vitória</string>
+				<string>Av. José Torquato</string>
+				<string>Rod. Emanuel Pinheiro</string>
+				<string>Rua 11- Jd Florianópolis</string>
+				<string>Rua 21- Jd. Florianópolis</string>
+				<string>Rod. Emanuel Pinheiro</string>
+				<string>Av. República do Líbano</string>
+				<string>Rua dos Nhambiquaras</string>
+				<string>Av. Pres. Marques</string>
+				<string>Av. Mato Grosso</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. 15 de Novembro</string>
+				<string>Av. Senador Metelo</string>
+				<string>Rua 13 de Junho</string>
+				<string>Av. 08 de Abril</string>
+				<string>Av. Manoel José de Arruda (Beira Rio)</string>
+				<string>Av. Mário Côrrea</string>
+				<string>Rua Comandante Suído</string>
+				<string>Pç. Luís de Albuquerque (Porto)</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Pç. Luís de Albuquerque (Porto)</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Mato Grosso</string>
+				<string>Av. Marechal Deodoro</string>
+				<string>Av. República do Líbano</string>
+				<string>Rod. Emanuel Pinheiro</string>
+				<string>Rua 21- Jd. Florianópolis</string>
+				<string>Rua 11- Jd. Florianópolis</string>
+				<string>Rod. Emanuel Pinheiro</string>
+				<string>Av. José Torquato</string>
+				<string>Rua 25 - Jd. Vitória</string>
+				<string>Av. B - Jd. Vitória</string>
+				<string>Rua 07 - Jd. Vitória</string>
+				<string>Rua José Torquato</string>
+				<string>Av. Jaime Campos</string>
+				<string>Retorno borracharia</string>
+				<string>Rua Jaime Campos</string>
+				<string>Rua das Crianças</string>
+				<string>Rua José Curvo</string>
+				<string>Rua Marcelo Ribeiro</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>320</string>
+		<key>nome</key>
+		<string>NOVO PARAÍSO / PORTO</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Rua 22 (Sinucas Bar)</string>
+				<string>Rua 13- Jd. Umuarama II</string>
+				<string>Av. Principal- Altos da Glória</string>
+				<string>Av. Principal- Jd. Umuarama II</string>
+				<string>Rua 22- Jd. Umuarama II</string>
+				<string>Av. Brasil (Av. do Limão)</string>
+				<string>Rua 13- Três Barras</string>
+				<string>Av. Hélio Barbosa - Três Barras</string>
+				<string>Rua 18 - Três Barras</string>
+				<string>Av. Curió- CPA IV</string>
+				<string>Av. Pica-Pau Amarelo- CPA IV</string>
+				<string>Rua Carlos Luís de Matos (Rua J)- CPA IV</string>
+				<string>Av. Tuiuiú- CPA IV</string>
+				<string>Av. Alice Freire</string>
+				<string>Rua Antero Paes de Barros (Rua Paraíba)</string>
+				<string>Av. Brasil</string>
+				<string>Rua Jorn. Caramuru de C. Maciel (R. Bahia)</string>
+				<string>Rua São José do Rio Preto</string>
+				<string>Terminal- CPA I</string>
+				<string>Rua São José do Rio Preto</string>
+				<string>Av. Amazonas</string>
+				<string>Rua Acácia Cuiabana</string>
+				<string>Av. Brasil</string>
+				<string>Av. Milton Figueiredo</string>
+				<string>Rua Dr. Leônidas</string>
+				<string>Av. Rubens de Mendonça</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. 15 de Novembro</string>
+				<string>Rua Caetano Santana</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Ponto de ônibus da AGER</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Ponto de ônibus da AGER</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Rubens de Mendonça</string>
+				<string>Rua Dr. Leônidas</string>
+				<string>Av. Milton Figueiredo</string>
+				<string>Av. Brasil</string>
+				<string>R. Jorn. Caramuru de C. Maciel (Rua Bahia)</string>
+				<string>Rua São José do Rio Preto</string>
+				<string>Terminal- CPA I</string>
+				<string>Rua Pernambuco</string>
+				<string>Av. Alice Freire</string>
+				<string>Rua 59- CPA IV (Rua Andorinha)</string>
+				<string>Rua L- CPA IV</string>
+				<string>Rua 63- CPA IV (Gavião Preto)</string>
+				<string>Av. Pica-Pau Amarelo</string>
+				<string>Av. Curió</string>
+				<string>Rua 18 - Três Barras</string>
+				<string>Av. Hélio Barbosa - Três Barras</string>
+				<string>Rua 13- Três Barras</string>
+				<string>Av. Brasil (Av. do Limão)</string>
+				<string>Rua 22 (Sinucas Bar) </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>321</string>
+		<key>nome</key>
+		<string>JARDIM UMUARAMA II / CENTRO (VIA TERMINAL CPA I)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Terminal- CPA III</string>
+				<string>Alameda 4- CPA III</string>
+				<string>Alameda 02- CPA III- Setor V</string>
+				<string>Rua 08- CPA III</string>
+				<string>Av. Tuiuiú</string>
+				<string>Av. Prof. Alice Freire</string>
+				<string>Rua Antero Paes de Barros</string>
+				<string>Rua Paraíba</string>
+				<string>Av. Brasil</string>
+				<string>Rua Jorn. Caramuru de C. Maciel</string>
+				<string>Rua Bahia</string>
+				<string>Rua Jorn. Amaro de F. Falcao</string>
+				<string>Rua Sao José do Rio Preto</string>
+				<string>Terminal CPA I</string>
+				<string>Rua Pelotas</string>
+				<string>Rua Joinville</string>
+				<string>Rua Óbidos</string>
+				<string>Av. Rubens de Mendonça</string>
+				<string>Avenida Hélio Ponce</string>
+				<string>Av. André Maggi (Fórum)</string>
+				<string>Acesso ao Detran</string>
+				<string>Retorno no P.F. do Detran</string>
+				<string>Saída do Detran</string>
+				<string>Av. André Maggi</string>
+				<string>Rua G (Rua do Hospital)</string>
+				<string>Rua 4 (OAB)</string>
+				<string>Rua D (SEJUSP)</string>
+				<string>Rua 7 (PALÁCIO)</string>
+				<string>Rua C</string>
+				<string>Av. Rubens de Mendonça</string>
+				<string>Rua da SEDUC</string>
+				<string>Rua C  (descida para Assembléia)</string>
+				<string>Av. André Maggi (ASSEMBLÉIA)</string>
+				<string>Av. Drº. Hélio Ribeiro Hermíneo Torquato da Silva</string>
+				<string>Av. Hélio Ribeiro (acesso ao Detran)</string>
+				<string>Av. A (Res. Paiaguás)</string>
+				<string>Rua D (Res. Paiaguás)</string>
+				<string>Rua K (Res. Paiaguás)</string>
+				<string>Rua E (Res. Paiaguás)</string>
+				<string>Rua I (Res. Paiaguás)</string>
+				<string>Rua D (Res. Paiaguás)</string>
+				<string>Av. A (Res. Paiaguás)</string>
+				<string>Av. Hélio Ribeiro</string>
+				<string>Av. República do Líbano</string>
+				<string>Conversão à direita no Viaduto</string>
+				<string>Av. Miguel Sutil</string>
+				<string>Rua Marginal</string>
+				<string>Rua José de Mesquita (Araés)</string>
+				<string>Rua Barão de Melgaço</string>
+				<string>Rua Benedito Leite</string>
+				<string>Rua Joaquim Murtinho</string>
+				<string>C. Reabilitação Dom Aquino</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>C. Reabilitação Dom Aquino</string>
+				<string>Rua Joaquim Murtinho</string>
+				<string>Rua Thogo Pereira</string>
+				<string>Rua 13 de Junho</string>
+				<string>Rua Major Gama</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Mato Grosso</string>
+				<string>Rua José de Mesquita</string>
+				<string>R. João da Fonseca</string>
+				<string>Av. Marechal Deodoro</string>
+				<string>Av. República do Líbano</string>
+				<string>Rua D (Res. Paiaguás)</string>
+				<string>Rua I (Res. Paiaguás)</string>
+				<string>Rua E (Res. Paiaguás)</string>
+				<string>Rua K (Res. Paiaguás)</string>
+				<string>Rua D (Res. Paiaguás)</string>
+				<string>Av. A (Res. Paiaguás)</string>
+				<string>Av. Hélio Ribeiro (acesso ao Detran)</string>
+				<string>Av. Drº. Hélio Ribeiro Torquato da Silva</string>
+				<string>Av. André Maggi (ASSEMBLÉIA)</string>
+				<string>Rua C ( subida da  Assembléia)</string>
+				<string>Rua da SEDUC</string>
+				<string>Via 1ª a direita depois da SEDUC</string>
+				<string>Rua C</string>
+				<string>Rua 7 (PALÁCIO)</string>
+				<string>Rua D (SEJUSP)</string>
+				<string>Rua 4 (OAB)</string>
+				<string>Rua G (Rua do Hospital)</string>
+				<string>Acesso ao Detran</string>
+				<string>Retorno no P.F. do Detran</string>
+				<string>Av. André Maggi (Fórum)</string>
+				<string>Av. Hélio Ponce</string>
+				<string>Av. Rubens de Mendonça</string>
+				<string>Retorno na Rubens de Mendonça</string>
+				<string>Rua Alenquer</string>
+				<string>Rua Joinville</string>
+				<string>Rua  Sorocaba</string>
+				<string>Terminal CPA I</string>
+				<string>Rua Pernambuco</string>
+				<string>Rua Prof. Alice Freire</string>
+				<string>Alameda 01 (Rua C)</string>
+				<string>Rua 08</string>
+				<string>Alameda 02 - CPA III - Setor V</string>
+				<string>Alameda 04</string>
+				<string>Terminal CPA III </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>323</string>
+		<key>nome</key>
+		<string>TERMINAL CPA III / CENTRO DE REABILITAÇÃO DOM AQUINO (FÓRUM/ PALÁCIO/ DETRAN/ RODOVIÁRIA)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Av. Sen. Jonas Pinheiro - Aroeiras (Esc. E. Diva Hugueney S. Bastos)</string>
+				<string>Av. Principal- 1° de Março (P. Final)</string>
+				<string>Rua 13- João Bosco</string>
+				<string>Rua P- João Bosco</string>
+				<string>Av. Soares de Andrade</string>
+				<string>Rua J- CPA IV</string>
+				<string>Av. Tuiuiú (Av. B)</string>
+				<string>Av. Dante de Oliveira (Trabalhadores)</string>
+				<string>Terminal- CPA III</string>
+				<string>Av. Dante de Oliveira (Trabalhadores)</string>
+				<string>Av. João Gomes Sobrinho</string>
+				<string>Av. Cel Escolástico</string>
+				<string>Retorno na Av. Cel. Escolástico</string>
+				<string>Av. Cel. Escolástico</string>
+				<string>Av. Gen. Valle</string>
+				<string>Rua Clóvis Huguiney</string>
+				<string>Praça Mª Taquara</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Praça Mª Taquara</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Cel. Escolástico</string>
+				<string>Av. João Gomes Sobrinho</string>
+				<string>Av. Dante de Oliveira (Trabalhadores)</string>
+				<string>Terminal- CPA III</string>
+				<string>Alameda 4- CPA III</string>
+				<string>Alameda 2</string>
+				<string>Rua 08- CPA III</string>
+				<string>Av. Tuiuiú (Av. B)</string>
+				<string>Av. J- CPA IV</string>
+				<string>Av. Soares de Andrade</string>
+				<string>Rua P- João Bosco</string>
+				<string>Rua 13- João Bosco</string>
+				<string>Av. Principal- 1° de Março (P. Final)</string>
+				<string>Av. Jonas Pinheiro - Aroeiras (Esc. E. Diva Hugueney S. Bastos) </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>324</string>
+		<key>nome</key>
+		<string>RESIDENCIAL AROEIRAS / CENTRO (VIA VILA DA SERRA</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Terminal CPA I</string>
+				<string>Rua São José do Rio Preto</string>
+				<string>Av. Pernambuco</string>
+				<string>Rua Prof. Alice Freire</string>
+				<string>Alameda B</string>
+				<string>Avenida 2</string>
+				<string>Alameda 2</string>
+				<string>Alameda 4</string>
+				<string>Terminal do CPA III</string>
+				<string>Av. dos Trabalhadores</string>
+				<string>Av. Itália</string>
+				<string>Rua 20 - Boa Esperança</string>
+				<string>Av. Alziro Zarur</string>
+				<string>Via Universitária</string>
+				<string>Av. Fernando Corrêa</string>
+				<string>Trevo do 9° BEC</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Trevo do 9° BEC</string>
+				<string>Av. Fernando Corrêa</string>
+				<string>Av. Brasília</string>
+				<string>Av. Arquimedes Pereira Lima</string>
+				<string>Av. Itália</string>
+				<string>Av. dos Trabalhadores</string>
+				<string>Terminal do CPA III</string>
+				<string>Alameda 4</string>
+				<string>Alameda 2</string>
+				<string>Av. 2</string>
+				<string>Av. Tuiuiu</string>
+				<string>Rua Paraiba</string>
+				<string>Av. Brasil</string>
+				<string>Rua Bahia</string>
+				<string>Terminal do CPA I</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>330</string>
+		<key>nome</key>
+		<string>TERMINAL CPA I E CPA III / UFMT (VIA JARDIM ITÁLIA)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Av. Principal (Altos da Glória)</string>
+				<string>Av. Cuiabá (Umuarama)</string>
+				<string>Rua 13 - Três Barras</string>
+				<string>Rua 29</string>
+				<string>Rua 09</string>
+				<string>Rua Hélio Barbosa</string>
+				<string>Av. A - Três Barras</string>
+				<string>Av. Curió</string>
+				<string>Av. Tuiuiú</string>
+				<string>Rua Antero Paes de Barros</string>
+				<string>Av. Brasil</string>
+				<string>Rua Jorn. Caramuru de C. Maciel</string>
+				<string>Rua Bahia</string>
+				<string>Rua Prof. Amaro de F. Falcao</string>
+				<string>Rua Sao José do Rio Preto</string>
+				<string>Terminal - CPA I</string>
+				<string>Rua Pernambuco</string>
+				<string>Av. Brasil</string>
+				<string>Av. Milton Figueiredo</string>
+				<string>Rua Dr. Leônidas</string>
+				<string>Av. Rubens de Mendonça</string>
+				<string>Av. Ten. Cel Duarte</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Praça do Choppao</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Praça do Choppao</string>
+				<string>Av. Isaac Póvoas</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Rubens de Mendonça</string>
+				<string>Rua Dr. Leônidas</string>
+				<string>Av. Milton Figueiredo</string>
+				<string>Av. Brasil</string>
+				<string>Rua Jorn. Caramuru de C. Maciel</string>
+				<string>Rua Prof. Amaro de F. Falcao</string>
+				<string>Terminal CPA I</string>
+				<string>Rua Pernambuco</string>
+				<string>Av. Alice Freire</string>
+				<string>Av. Tuiuiú</string>
+				<string>Av. Curió</string>
+				<string>Av. A</string>
+				<string>Av. Hélio Barbosa</string>
+				<string>Rua 09</string>
+				<string>Rua 29</string>
+				<string>Rua 13</string>
+				<string>Av. Cuiabá (Umuarama)</string>
+				<string>Av. Principal (Altos da Glória)</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>340</string>
+		<key>nome</key>
+		<string>ALTOS DA GLÓRIA / CHOPPAO</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Terminal CPA I</string>
+				<string>Rua Pernambuco</string>
+				<string>Av. Alice Freire</string>
+				<string>Av. Projetada</string>
+				<string>Av. Vicente Vuolo</string>
+				<string>Av. Djalma Ferreira</string>
+				<string>Rua Dr. Leônidas</string>
+				<string>Av. Historiador Rubens de Mendonça</string>
+				<string>Av. Tenente Coronel Duarte</string>
+				<string>Av. 15 de Novembro</string>
+				<string>Rua Caetano de Santana</string>
+				<string>Av. Tenente Coronel Duarte</string>
+				<string>Ponto de Ônibus da AGER</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Ponto de Ônibus da AGER</string>
+				<string>Av. Tenente Coronel Duarte</string>
+				<string>Av. Historiador Rubens de Mendonça</string>
+				<string>Rua Dr. Leônidas</string>
+				<string>Av. Djalma Ferreira</string>
+				<string>Av. Vicente Vuolo</string>
+				<string>Av. Projetada</string>
+				<string>Av. Alice Freire</string>
+				<string>Rua Tangará da Serra</string>
+				<string>Av. Brasil</string>
+				<string>Rua Jornalista Caramuru</string>
+				<string>Rua Amaro Falcão</string>
+				<string>Terminal do CPA I</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>360</string>
+		<key>nome</key>
+		<string>TERMINAL DO CPA I / CENTRO (VIA MORADA DO OURO, FUNDOS)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Mercearia Santos</string>
+				<string>Rua B</string>
+				<string>Rua 9</string>
+				<string>Rua G</string>
+				<string>Rua Júlio Verne</string>
+				<string>Rua dos Penitentes</string>
+				<string>Rua Petrovina</string>
+				<string>Rua Monte Azul</string>
+				<string>Rua Pacaraíma</string>
+				<string>Rua Trombos</string>
+				<string>Rua Pirineus</string>
+				<string>Rua do Caximbo</string>
+				<string>Rua Formosa</string>
+				<string>Rua dos Parecis</string>
+				<string>Av. dos Trabalhadores</string>
+				<string>Av. João Gomes Sobrinho</string>
+				<string>Av. Cel. Escolástico</string>
+				<string>Retorno na Av. Cel. Escolástico</string>
+				<string>Av. Gal. Valle</string>
+				<string>Av. Dom Aquino</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Dom Bosco</string>
+				<string>Rua Joaquim Murtinho</string>
+				<string>Igreja Matriz</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Igreja Matriz</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Rua Barão de Melgaço</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Rua Clóvis Huguiney</string>
+				<string>Rua Cel. Peixoto</string>
+				<string>Rua Diogo Domingos Ferreira</string>
+				<string>Av. Cel. Escolástico</string>
+				<string>Av. João Gomes Sobrinho</string>
+				<string>Av. dos Trabalhadores</string>
+				<string>Rua Parecis</string>
+				<string>Rua Formosa</string>
+				<string>Rua do Caximbo</string>
+				<string>Rua dos Pirineus</string>
+				<string>Rua Trombos</string>
+				<string>Rua Pacaraíma</string>
+				<string>Rua Monte Azul</string>
+				<string>Rua Petrovina</string>
+				<string>Rua Júlio Verne</string>
+				<string>Rua dos Penitentes</string>
+				<string>Rua G</string>
+				<string>Rua 9</string>
+				<string>Rua B</string>
+				<string>Mercearia Santos </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>402</string>
+		<key>nome</key>
+		<string>ITAMARATI / CENTRO (GUAICURUS)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Mercadinho Bom Demais (Ponto Final) - Pedregal</string>
+				<string>Rua Manaíra - Pedregal</string>
+				<string>Rua Macabú - Pedregal</string>
+				<string>Rua 07- Pedregal</string>
+				<string>Rua 08 de Janeiro - Jardim Leblon</string>
+				<string>Av. Miguel Sutil</string>
+				<string>Av. João Gomes Sobrinho</string>
+				<string>Av. Cel. Escolástico</string>
+				<string>Retorno na Av. Cel. Escolástico</string>
+				<string>Av. Cel Escolástico</string>
+				<string>Av. General Valle</string>
+				<string>Av. Dom Aquino</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Dom Bosco</string>
+				<string>Rua Joaquim Murtinho</string>
+				<string>Igreja Matriz</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Igreja Matriz</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Rua Barão de Melgaço</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Rua Clóvis Hugueney</string>
+				<string>Retorno - Santa Casa</string>
+				<string>Rua Cel. Peixoto</string>
+				<string>Rua Diogo Ferreira Domingos</string>
+				<string>Av. Cel. Escolástico</string>
+				<string>Av. João Gomes Sobrinho</string>
+				<string>Av. Dante de Oliveira (antiga Trabalhadores)</string>
+				<string>Rua Maranguá - Pedregal</string>
+				<string>Rua Macabú - Pedregal</string>
+				<string>Rua Manaíra - Pedregal</string>
+				<string>Rua da Paz - Pedregal</string>
+				<string>Rua Mamoré - Pedregal</string>
+				<string>Rua Taiamã - Pedregal</string>
+				<string>Rua Manaíra - Pedregal</string>
+				<string>Mercadinho Bom Demais (Ponto Final) - Pedregal</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>403</string>
+		<key>nome</key>
+		<string>PEDREGAL / CENTRO</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Rua 35 - Santa Cruz II (Escola do Moinho)</string>
+				<string>Rua R - Santa Cruz II</string>
+				<string>Rua 36 - Santa Cruz II</string>
+				<string>Rua L - Santa Cruz II</string>
+				<string>Av. das Torres</string>
+				<string>Rua Castro Alves - Santa Cruz</string>
+				<string>Av. Arquimedes Pereira Lima</string>
+				<string>Rua 16 - Boa Esperança</string>
+				<string>Rua 25 - Boa Esperança</string>
+				<string>Rua 50 - Boa Esperança</string>
+				<string>Rua 13 - Boa Esperança</string>
+				<string>Rua 45 - Boa Esperança</string>
+				<string>Rua 09 - Boa Esperança</string>
+				<string>Rua 38 - Boa Esperança</string>
+				<string>Av. Edgar Vieira (Av. Alziro Zarur)</string>
+				<string>Via Universitária</string>
+				<string>Avenida Fernadno Correa</string>
+				<string>Avenida General Valle</string>
+				<string>Rua Clóvis Hugueney</string>
+				<string>Avenida Geúlio Vargas</string>
+				<string>Praça da República</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Praça da República</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Rua Bar?o de Melgaço</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Cel. Escolástico</string>
+				<string>Rua Papa Jo?o XXIII</string>
+				<string>Rua Miranda Reis</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Via Universitária (UFMT)</string>
+				<string>Av. Edgar Vieira (Av. Alziro Zarur)</string>
+				<string>Rua 05 - Boa Esperança</string>
+				<string>Rua 38 - Boa Esperança</string>
+				<string>Rua 09 - Boa Esperança</string>
+				<string>Rua 45 - Boa Esperança</string>
+				<string>Rua 13 - Boa Esperança</string>
+				<string>Rua 50 - Boa Esperança</string>
+				<string>Rua 25 - Boa Esperança</string>
+				<string>Rua 16 - Boa Esperança</string>
+				<string>Av. Arquimedes P. Lima</string>
+				<string>Rua Castro Alves - Santa Cruz</string>
+				<string>Avenida das Torres</string>
+				<string>Rua L- Santa Cruz II</string>
+				<string>Rua 36 - Santa Cruz II</string>
+				<string>Rua M - Santa Cruz II</string>
+				<string>Rua 35 - Santa Cruz II</string>
+				<string>Escola do Moinho</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>405</string>
+		<key>nome</key>
+		<string>SANTA CRUZ / CENTRO (VIA UFMT)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Ponto Final- Praeiro</string>
+				<string>Rua Paranapuã</string>
+				<string>Rua Parnaíba</string>
+				<string>Rua Panaroma</string>
+				<string>Av. General Mello</string>
+				<string>Av. Tancredo Neves</string>
+				<string>Av. Manoel José de Arruda</string>
+				<string>Beira Rio</string>
+				<string>Av. Jorn. Jaques Brunini</string>
+				<string>Av. Carmindo de Campos</string>
+				<string>Rua Comendador Henrique</string>
+				<string>Rua General Camisão</string>
+				<string>Rua Major Gama</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Praça da República</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Praça da República</string>
+				<string>Rua Barão de Melgaço</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. 15 de Novembro</string>
+				<string>Rua Major Gama</string>
+				<string>Rua General Camisão</string>
+				<string>Rua Comendador Henrique</string>
+				<string>Av. Carmindo de Campos</string>
+				<string>Av. Jorn. Jaques Brunini</string>
+				<string>Av. Manoel José de Arruda</string>
+				<string>Beira Rio</string>
+				<string>Av. Tancredo Neves</string>
+				<string>Av. General Mello</string>
+				<string>Rua Paranapuã</string>
+				<string>Ponto Final- Praeiro</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>409</string>
+		<key>nome</key>
+		<string>PRAEIRO / CENTRO</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Av. General Mello</string>
+				<string>Av. Manoel José de Arruda (Av. Beira Rio)</string>
+				<string>Av. Jacques Brunini</string>
+				<string>Av. Carmindo de Campos</string>
+				<string>Av. General Mello</string>
+				<string>Rua Miranda Reis</string>
+				<string>Trav. Frei Ambrósio</string>
+				<string>Av. General Valle</string>
+				<string>Rua Clóvis Hugueney</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Av. José de Figueiredo (Av. Lava-pés)</string>
+				<string>Av. José Rodrigues do Prado</string>
+				<string>Rua Itália</string>
+				<string>Rua Engenheiro Alvaro Pinto</string>
+				<string>Av. José Rodrigues do Prado (antiga 31 de Março)</string>
+				<string>Av. Antártica</string>
+				<string>Terminal Antártica</string>
+				<string>Rodovia MT- 10</string>
+				<string>Rua E (Resid. Sucuri)</string>
+				<string>Rua C (Resid. Sucuri)</string>
+				<string>Rua H (Resid. Sucuri)</string>
+				<string>Av. Principal (Resid. Sucuri)</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Av. Principal (Resid. Sucuri)</string>
+				<string>Rodovia MT- 10</string>
+				<string>Terminal Antártica</string>
+				<string>Av. Antártica</string>
+				<string>Av. José Rodrigues do Prado</string>
+				<string>antiga 31 de Março</string>
+				<string>Rua Pernambuco</string>
+				<string>Rua Engenheiro Alvaro Pinto</string>
+				<string>Rua Itália</string>
+				<string>Av. José Rodrigues do Prado</string>
+				<string>Av. José de Figueiredo</string>
+				<string>antiga Av. Lava-pés</string>
+				<string>Av. Isaac Póvoas</string>
+				<string>Rua Clóvis Hugueney</string>
+				<string>Av. General Mello</string>
+				<string>os carros só vão nos horários</string>
+				<string>programados e especificados</string>
+				<string>na planilha horária.</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>410</string>
+		<key>nome</key>
+		<string>GRANDE TERCEIRO / TERMINAL ANTÁRTICA (SANTA ROSA)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Mercearia Boa Esperança</string>
+				<string>Av. Princesa Isabel - Renascer</string>
+				<string>Rua Bandeirantes - Renascer</string>
+				<string>Rua Arenápolis - Renascer</string>
+				<string>Av. Arquimedes Pereira Lima</string>
+				<string>Rua Nova (Jd. Leblon)</string>
+				<string>Rua Militar</string>
+				<string>Rua Couto Magalhães</string>
+				<string>Rua Boa Esperança</string>
+				<string>Rua Nova</string>
+				<string>Rua 04 de Janeiro</string>
+				<string>Rua H</string>
+				<string>Av. Miguel Sutil</string>
+				<string>Contorno Rotatória (Miguel Sutil)</string>
+				<string>Rua Boa Vista (Areão)</string>
+				<string>Rua Filinto Costa</string>
+				<string>Rua Monte Castelo</string>
+				<string>Rua N</string>
+				<string>Rua Amaral Moreira</string>
+				<string>Rua Bonifácio Cruz</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. Cel. Escolástico</string>
+				<string>Retorno Av. Cel. Escolástico</string>
+				<string>Av. General Vale</string>
+				<string>Av. Dom Aquino</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Dom Bosco</string>
+				<string>Rua Joaquim Murtinho</string>
+				<string>Igreja Matriz</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Igreja Matriz</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Rua Barão de Melgaço</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Rua Clóvis Hugueney</string>
+				<string>Retorno Santa Casa</string>
+				<string>Rua Cel. Peixoto</string>
+				<string>Rua Diogo  Domingos Ferreira</string>
+				<string>Av. Cel. Escolástico</string>
+				<string>Av. João Gomes Sobrinho</string>
+				<string>Rua Marginal</string>
+				<string>Rua Castro Alves</string>
+				<string>Rua Amaral Moreira</string>
+				<string>Av. Miguel Sutil</string>
+				<string>Contorno Rotatória (Miguel Sutil)</string>
+				<string>Rua Bela Vista (Jd. Leblon)</string>
+				<string>Rua 04 de Janeiro</string>
+				<string>Rua Nova</string>
+				<string>Rua Couto Magalhães</string>
+				<string>Rua Militar</string>
+				<string>Rua Nova</string>
+				<string>Av. Arquimedes Pereira Lima</string>
+				<string>Av. Arenápolis - Renascer</string>
+				<string>Rua Bandeirantes- Renascer</string>
+				<string>Av. Princesa Isabel - Renascer</string>
+				<string>Mercearia Boa Esperança</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>411</string>
+		<key>nome</key>
+		<string>RENASCER / CENTRO (LEBLON)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Terminal- CPA III</string>
+				<string>Av. dos Trabalhadores</string>
+				<string>Rua Goiás</string>
+				<string>Rua Tabatinga</string>
+				<string>Rua Paraúna</string>
+				<string>Rua dos Penitentes</string>
+				<string>Rua Itatiaia</string>
+				<string>Rua Petrovina</string>
+				<string>Rua Monte Azul</string>
+				<string>Rua Pacaraima</string>
+				<string>Rua Pirineus</string>
+				<string>Rua Caximbo</string>
+				<string>Rua Formosa</string>
+				<string>Rua Parecis</string>
+				<string>Av. dos Trabalhadores</string>
+				<string>Av. João Gomes Sobrinho</string>
+				<string>Av. Cel. Escolástico</string>
+				<string>Retorno na Av. Cel. Escolástico</string>
+				<string>Av. General Valle</string>
+				<string>Av. Dom Aquino</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Dom Bosco</string>
+				<string>Rua Joaquim Murtinho</string>
+				<string>Igreja Matriz</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Igreja Matriz</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Rua Barão de Melgaço</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Rua Clóvis Hugueney</string>
+				<string>Retorno- Santa Casa</string>
+				<string>Rua Cel. Peixoto</string>
+				<string>Rua Diogo Ferreira Domingos</string>
+				<string>Av. Cel. Escolástico</string>
+				<string>Av. João Gomes Sobrinho</string>
+				<string>Av. dos Trabalhadores</string>
+				<string>Rua Parecis</string>
+				<string>Rua Formosa</string>
+				<string>Rua Caximbo</string>
+				<string>Rua Pirineus</string>
+				<string>Rua Pacaraima</string>
+				<string>Rua Monte Azul</string>
+				<string>Rua Petrovina</string>
+				<string>Rua Itatiaia</string>
+				<string>Rua dos Penitentes</string>
+				<string>Rua Paraúna</string>
+				<string>Rua Tabatinga</string>
+				<string>Rua Goiás</string>
+				<string>Av. dos Trabalhadores</string>
+				<string>Terminal- CPA III </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>412</string>
+		<key>nome</key>
+		<string>TERMINAL CPA III / CENTRO (VIA PLANALTO)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Bar Vidal</string>
+				<string>Av. Presidente Dutra</string>
+				<string>Rua Bonsucesso</string>
+				<string>Rua 06- Jd. Fortaleza</string>
+				<string>Av. José Neto</string>
+				<string>Rua 16</string>
+				<string>Rua 12</string>
+				<string>Av. 02- Osmar Cabral</string>
+				<string>Av. 1- Osmar Cabral</string>
+				<string>Rua 13- Osmar Cabral</string>
+				<string>Rua 1- Osmar Cabral</string>
+				<string>Rua 14- Osmar Cabral</string>
+				<string>Av. 1- Osmar Cabral</string>
+				<string>Av. Carlos Adoor de Souza</string>
+				<string>Av. Dr. Meirelles</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. General Valle</string>
+				<string>Rua Clóvis Hugueney</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Praça da República</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Praça da República (Riachuelo)</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Rua Barao de Melgaço</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Ten. Cel. Escolástico</string>
+				<string>Rua Papa Joao XXIII</string>
+				<string>Rua Miranda Reis</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. Dr. Meirelles</string>
+				<string>Av. Carlos A. de Souza</string>
+				<string>Av. 01- Osmar Cabral</string>
+				<string>Rua 14- Osmar Cabral</string>
+				<string>Rua 01- Osmar Cabral</string>
+				<string>Rua 13- Osmar Cabral</string>
+				<string>Av. 1- Osmar Cabral</string>
+				<string>Av. 2- Osmar Cabral</string>
+				<string>Rua 12- Osmar Cabral</string>
+				<string>Rua 16- Osmar Cabral</string>
+				<string>Rua Bonsucesso</string>
+				<string>Av. Presidente Dutra</string>
+				<string>Bar do Vidal </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>501</string>
+		<key>nome</key>
+		<string>SANTA LAURA / CENTRO (VIA OSMAR CABRAL)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Rua 1- Osmar Cabral Ponto Final)</string>
+				<string>Rua 14 - Osmar Cabral</string>
+				<string>Av. 1 (Av. Carlos A. de Souza)</string>
+				<string>Av. Carlos Adoor de Souza</string>
+				<string>Av. Dr. Meirelles</string>
+				<string>Av. Espigão</string>
+				<string>Av. Dr. Meirelles</string>
+				<string>Av. Archimedes Pereira Lima</string>
+				<string>Rua Marisco</string>
+				<string>Rua Manaíra</string>
+				<string>Rua Macabú</string>
+				<string>Rua 07 de Janeiro</string>
+				<string>Av. dos Trabalhadores</string>
+				<string>Av. Miguel Sutil</string>
+				<string>Av. Rubens de Mendonça</string>
+				<string>Retorno Shopping Pantanal</string>
+				<string>Rua Luís Phillipe Pereira Leite</string>
+				<string>Rua Poxoréo</string>
+				<string>Av. República do Líbano</string>
+				<string>Rodoviária</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Rodoviária</string>
+				<string>Av. República do Líbano</string>
+				<string>Av. Miguel Sutil</string>
+				<string>Rua Boa Vista (Rua F)</string>
+				<string>Rua 07 de Janeiro</string>
+				<string>Rua Macabú</string>
+				<string>Rua Manaíra</string>
+				<string>Rua Bandeirantes (Renascer)</string>
+				<string>Av. Arenapólis (Renascer)</string>
+				<string>Av. Arquimedes Pereira Lima (sentido Osmar Cabral)</string>
+				<string>Av. Dr. Meirelles</string>
+				<string>Av. Rad. Edson Luis da Silva (Espigao)</string>
+				<string>Av. Dr. Meirelles</string>
+				<string>Av. Carlos A. de Souza</string>
+				<string>Av. 1 (Av. Carlos de Souza)</string>
+				<string>Rua 13 - Osmar Cabral</string>
+				<string>Rua 1- Osmar Cabral ( Ponto Final)</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>503</string>
+		<key>nome</key>
+		<string>OSMAR CABRAL / RODOVIÁRIA</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Bar do Vidal</string>
+				<string>Av. Presidente Eurico Dutra</string>
+				<string>Rua Bom Sucesso</string>
+				<string>Rua 6</string>
+				<string>Av. Eng° José Hercílio Neto</string>
+				<string>Rua 16- Jd. Fortaleza</string>
+				<string>Rua 12- Jd. Fortaleza</string>
+				<string>Av. 02- Jd. Fortaleza</string>
+				<string>Av. Domingos Alves da Costa</string>
+				<string>Av. 01- Osmar Cabral</string>
+				<string>Rua 13- Osmar Cabral</string>
+				<string>Rua 01- Osmar Cabral</string>
+				<string>Rua 14- Osmar Cabral</string>
+				<string>Av. 01- Osmar Cabral</string>
+				<string>Av. Carlos A. de Souza</string>
+				<string>Av. Dr. Meirelles</string>
+				<string>Av. Edson Luis da Silva</string>
+				<string>Espigao</string>
+				<string>Av. Dr. Meirelles</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. Cel. Escolástico</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Av. Estevao de Mendonça</string>
+				<string>Av. Miguel Sutil</string>
+				<string>Av. República do Líbano</string>
+				<string>Retorno em frente a Rodoviária</string>
+				<string>Av. República do Líbano</string>
+				<string>Av. Miguel Sutil</string>
+				<string>Acesso Garagem TUT</string>
+				<string>Av. Madri</string>
+				<string>Rua Projetada 01</string>
+				<string>Res. Lavras do Sutil</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Res. Lavras do Sutil</string>
+				<string>Rua Projetada 1</string>
+				<string>Av. Madri</string>
+				<string>Rua Berlim</string>
+				<string>Rua Berna</string>
+				<string>Av. República do Líbano</string>
+				<string>Av. Miguel Sutil</string>
+				<string>Av. Afonso Pena</string>
+				<string>Rua José Linhares</string>
+				<string>Av. Filinto Muller</string>
+				<string>Av. Isaac Póvoas</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Cel. Escolástico</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. Dr. Meirelles</string>
+				<string>Av. Edson Luis da Silva</string>
+				<string>Espigao</string>
+				<string>Av. Dr. Meirelles</string>
+				<string>Av. Carlos A.de Souza</string>
+				<string>Av. 1- Osmar Cabral</string>
+				<string>Rua 14- Osmar Cabral</string>
+				<string>Rua 01- Osmar Cabral</string>
+				<string>Rua 13- Osmar Cabral</string>
+				<string>Av. 01- Osmar Cabral</string>
+				<string>Av. 02- Jd. Fortaleza</string>
+				<string>Av. Domingos Alves da Costa</string>
+				<string>Rua 12- Jardim Fortaleza</string>
+				<string>Rua 16- Jardim Fortaleza</string>
+				<string>Rua Eng° José Hercílio Neto</string>
+				<string>Rua 6</string>
+				<string>Rua Bom Sucesso</string>
+				<string>Av. Presidente Eurico Dutra</string>
+				<string>Bar do Vidal</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>504</string>
+		<key>nome</key>
+		<string>SANTA LAURA / SENHOR DOS PASSOS</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Av. Rad. Edson Luis da Silva (Espigao)</string>
+				<string>Av. Dr. Meirelles</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. General Valle</string>
+				<string>Rua Clóvis Hugueney</string>
+				<string>Av. Ten. Cel Duarte</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Praça República</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Praça da República</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Rua Barao de Melgaço</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Rua Clóvis Hugueney</string>
+				<string>Av. Gen. Mello</string>
+				<string>Rua Miranda Reis</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. Dr. Meirelles</string>
+				<string>Av. Rad. Edson Luis da Silva (Espigao)</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>507</string>
+		<key>nome</key>
+		<string>TIJUCAL / CENTRO</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Av. 14 - Osmar Cabral</string>
+				<string>Av. 1</string>
+				<string>Av. Carlos Adoor de Souza</string>
+				<string>Av. Dr. Meirelles</string>
+				<string>Av. Rad. Edson Luis da Silva</string>
+				<string>Espigão</string>
+				<string>Av. Dr. Meirelles</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. Cel. Escolástico</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. 15 de Novembro</string>
+				<string>Av. Senador Metelo</string>
+				<string>Rua 13 de Junho</string>
+				<string>Av. 08 de Abril</string>
+				<string>Av. Beira Rio</string>
+				<string>Praça Luis de Albuquerque (Porto)</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Praça Luis de Albuquerque (Porto)</string>
+				<string>Trav. Tufik Affi</string>
+				<string>Av. Beira Rio</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Cel. Escolástico</string>
+				<string>Rua Papa João XXIII</string>
+				<string>Rua Miranda Reis</string>
+				<string>Fernando Corrêa da Costa</string>
+				<string>Av. Rad. Edson Luis da Silva</string>
+				<string>Espigão</string>
+				<string>Av. Dr. Meirelles</string>
+				<string>Av. Carlos A. de Souza</string>
+				<string>Av. 1</string>
+				<string>Rua 16</string>
+				<string>Rua 1</string>
+				<string>Av. 14- Osmar Cabral </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>509</string>
+		<key>nome</key>
+		<string>OSMAR CABRAL / PORTO (CENTRO)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Av. Presidente Dutra- Santa Laura (P. Final)</string>
+				<string>Rua Bom Sucesso- Fortaleza</string>
+				<string>Rua 06- Fortaleza</string>
+				<string>Av. José Neto- Fortaleza</string>
+				<string>Rua 16- Fortaleza</string>
+				<string>Rua 12- Fortaleza</string>
+				<string>Av. Domingos Costa (Antiga Av. 02)</string>
+				<string>Av. 01- Osmar Cabral</string>
+				<string>Rua 13- Osmar Cabral</string>
+				<string>Rua 01- Osmar Cabral</string>
+				<string>Rua 14- Osmar Cabral</string>
+				<string>Av. 01- Osmar Cabral</string>
+				<string>Av. Carlos Adoor de Souza</string>
+				<string>Av. Dr. Meirelles</string>
+				<string>Av. Edson Silva (Espigão)- Tijucal</string>
+				<string>Av. S-4 (Setor 2)- Tijucal</string>
+				<string>Rua 227- Tijucal</string>
+				<string>Rua 212- Tijucal</string>
+				<string>Av. Edson Silva (Espigão)- Tijucal</string>
+				<string>Av. Dr. Meirelles</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. Manoel de Arruda (Beira Rio)</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Praça da República (Riachuelo)</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Av. Generoso Ponce</string>
+				<string>Av. Tenente Cel. Duarte</string>
+				<string>Av. 15 de Novembro</string>
+				<string>Av. Senador Metello</string>
+				<string>Rua 13 de Junho</string>
+				<string>Av. 08 de Abril</string>
+				<string>Av. Manoel de Arruda (Beira Rio)</string>
+				<string>Av. Mário Côrrea</string>
+				<string>Rua Comandante Suído</string>
+				<string>Travessa Tufik Affi</string>
+				<string>Av. Manoel de Arruda (Beira Rio)</string>
+				<string>Av. Fernando Côrrea da Costa</string>
+				<string>Av. Dr.° Meirelles</string>
+				<string>Av. Edson Silva (Espigão)</string>
+				<string>Rua 212- Tijucal</string>
+				<string>Rua 227- Tijucal</string>
+				<string>Av. S-4 (Setor 2)- Tijucal</string>
+				<string>Av. Edson Silva (Espigão)</string>
+				<string>Av. Dr.° Meirelles</string>
+				<string>Av. Carlos Addor de Souza</string>
+				<string>Av. Domingos Costa (Av. 02)</string>
+				<string>Rua 12- Fortaleza</string>
+				<string>Rua 16- Fortaleza</string>
+				<string>Av. José Neto dos Santos- Fortaleza</string>
+				<string>Rua 06- Fortaleza</string>
+				<string>Rua Bom Sucesso- Fortaleza</string>
+				<string>Av. Presidente Dutra- Santa Laura</string>
+				<string>Rua Castro Alves- Santa Laura</string>
+				<string>Travessa João Dias- Santa Laura</string>
+				<string>Av. das Cerejeiras- Santa Laura</string>
+				<string>Av. Presidente Dutra- Santa Laura (P. Final) </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>512</string>
+		<key>nome</key>
+		<string>SANTA LAURA / CENTRO (VIA SETOR 2</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array/>
+			<key>volta</key>
+			<array/>
+		</dict>
+		<key>linha</key>
+		<string>514</string>
+		<key>nome</key>
+		<string>SANTA LAURA / TERMINAL CPA I (VIA OSMAR CABRAL /UFMT / JARDIM ITÁLIA)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Rua 26 (Antigo Ponto Final do Universitário)</string>
+				<string>Rua Samambaia (Rua 19)- Imperial II</string>
+				<string>Rua Ipê (Rua F)- Imperial II</string>
+				<string>Avenida das Torres</string>
+				<string>Rua Quina - Imperial II</string>
+				<string>Rua 2000 - Imperial</string>
+				<string>Rua 2400 - Imperial I</string>
+				<string>Alameda 2600 - Imperial I</string>
+				<string>Av. das Palmeiras</string>
+				<string>Retorno Residencial Belvedere</string>
+				<string>Via de acesso ao Res. Maria de Lourdes</string>
+				<string>Rua 01 - Rec. dos Pássaros</string>
+				<string>Rua 9 - Rec. dos Pássaros</string>
+				<string>Rua 16 (Res. Mª de Lourdes)</string>
+				<string>Rua 27 (Res. Mª de Lourdes)</string>
+				<string>Rua 09 (Res. Mª de Lourdes)</string>
+				<string>Rua 9 - Rec. dos Pássaros</string>
+				<string>Av. das Torres</string>
+				<string>Av. das Palmeiras</string>
+				<string>Av. Rui Barbosa</string>
+				<string>Av. Arquimedes Pereira Lima</string>
+				<string>Rua 20 - Boa Esperança</string>
+				<string>Av. Alziro Zarur</string>
+				<string>Via Universitária</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. General Valle</string>
+				<string>Rua Clóvis Hugueney</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Praça da República</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Praça da República</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>R. Barão de Melgaço</string>
+				<string>Av. Generoso Ponce</string>
+				<string>R. Clóvis Hugueney</string>
+				<string>Av. General Mello</string>
+				<string>R. Miranda Reis</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Via Universitária</string>
+				<string>Av. Alziro Zarur</string>
+				<string>Avenida Edgar Vieira - Boa Esperança</string>
+				<string>Rua 25 - Boa Esperança</string>
+				<string>Rua 16 - Boa Esperança</string>
+				<string>Av. Arquimedes Pereira Lima</string>
+				<string>Av. Rui Barbosa</string>
+				<string>Av. das Palmeiras</string>
+				<string>Rua 11 - Rec. dos Pássaros</string>
+				<string>Rua 09 - Rec. dos Pássaros</string>
+				<string>Rua 09 - Res. Maria de Lourdes</string>
+				<string>Rua 27 - Res. Maria de Lourdes</string>
+				<string>Rua 16 - Res. Maria de Lourdes</string>
+				<string>Rua 09 - Rec. dos Pássaros</string>
+				<string>Rua 01 - Rec. dos Pássaros</string>
+				<string>Av. das Palmeiras</string>
+				<string>Rua Alameda 2600- Imperial I</string>
+				<string>Rua 2300 - Imperial I</string>
+				<string>Rua 2000 - Imperial I</string>
+				<string>Rua Quina - Imperial I</string>
+				<string>Avenida das Torres</string>
+				<string>Rua Ipê (Rua F) - Imperial II</string>
+				<string>Rua Samambaia (Rua 19) - Imperial II</string>
+				<string>Rua 24 (Antigo P. Final do Universitário)</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>519</string>
+		<key>nome</key>
+		<string>JARDIM IMPERIAL II / CENTRO (RESIDENCIAL MARIA DE LOURDES E RECANTO SALVADOR)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Rua A - Marechal Rondon</string>
+				<string>Av. Rio Branco</string>
+				<string>Rua sem nome</string>
+				<string>Rua E</string>
+				<string>Rua B - Nice Paes Barreto</string>
+				<string>Rua sem nome</string>
+				<string>Rua M - Alice Novak</string>
+				<string>Rua B - Alice Novak</string>
+				<string>Rua E - Alice Novak</string>
+				<string>Av. Antônio da silva Pinheiro (Recanto do Sol)</string>
+				<string>Bar do Gabriel (Av. das Flores)</string>
+				<string>Av. das Flores - São Francisco</string>
+				<string>Rua das Acácias - São Franscisco</string>
+				<string>Travessa 16 - Jardim Passaredo</string>
+				<string>Rua F - Jardim Passaredo</string>
+				<string>Rua 406- Setor IV- Tijucal</string>
+				<string>Rua E- Lagoa Azul</string>
+				<string>Rua 402- Setor IV - Tijucal</string>
+				<string>Av. Secundária 04 - Setor IV - Tijucal</string>
+				<string>Av. Secundária 05 - Setor III - Tijucal</string>
+				<string>Av. Espigão</string>
+				<string>Av. Secundária 01 - Setor III - Tijucal</string>
+				<string>Av. Espigão</string>
+				<string>Av. Drº. Meirelles</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. General Valle</string>
+				<string>Rua Clóvis Hugueney</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Praça da República (Loja Riachuelo)</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Av. Getúlio Vargas</string>
+				<string>Rua Barão de Melgaço</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Cel. Escolástico</string>
+				<string>Rua Papa João XXIII</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. Dr. Meirelles</string>
+				<string>Av. Espigão</string>
+				<string>Av. Secundária 01 - Setor III - Tijucal</string>
+				<string>Av. Espigão</string>
+				<string>Via Secundária 5 - Setor III - Tijucal</string>
+				<string>Av. Secundária 4 - Setor IV- Tijucal</string>
+				<string>Rua 402 - Setor IV - Tijucal</string>
+				<string>Rua E - Lagoa Azul</string>
+				<string>Rua 406- Setor IV - Tijucal</string>
+				<string>Rua F - Jardim Passaredo</string>
+				<string>Travessa 16 - Jardim Passaredo</string>
+				<string>Rua das Acácias - São Francisco</string>
+				<string>Av. das Flores - São Francisco</string>
+				<string>Bar do Gabriel (Av. das Flores)</string>
+				<string>Av. Antônio da silva Pinheiro (Recanto do Sol)</string>
+				<string>Rua E - Alice Novak</string>
+				<string>Rua B - Alice Novak</string>
+				<string>Rua M - Alice Novak</string>
+				<string>Rua sem nome</string>
+				<string>Rua B - Nice Paes Barreto</string>
+				<string>Rua E</string>
+				<string>Rua sem nome</string>
+				<string>Av. Rio Branco</string>
+				<string>Rua A - Marechal Rondon</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>520</string>
+		<key>nome</key>
+		<string>SÃO FRANCISCO / CENTRO (VIA LAGOA AZUL, PASSAREDO, TIJUCAL)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Residencial Marchetti</string>
+				<string>Quadra 09 A - Residencial Marchetti</string>
+				<string>Acesso Vicinal</string>
+				<string>Avenida das Torres</string>
+				<string>Rua C</string>
+				<string>Rua 2800</string>
+				<string>Rua 2000</string>
+				<string>Rua 2400</string>
+				<string>Alameda 2600</string>
+				<string>Avenida das Palmeiras - Jd. Imperial I</string>
+				<string>Rua 1 - Recanto dos Pássaros</string>
+				<string>Rua 09 - Recanto dos Pássaros</string>
+				<string>Rua 16 - Residencial Maria de Lourdes</string>
+				<string>Rua 27 - Residencial Maria de Lourdes</string>
+				<string>Rua 09 - Residencial Maria de Lourdes</string>
+				<string>Rua 9 - Recanto dos Pássaros</string>
+				<string>Avenida das Torres</string>
+				<string>Rua Castro Alves - Santa Cruz</string>
+				<string>Av. Arquimedes Pereira Lima</string>
+				<string>Retorno na rótula</string>
+				<string>Av. Arquimedes Pereira Lima</string>
+				<string>Rua 20 - Boa Esperança</string>
+				<string>Avenida Emanuel Pinheiro (Av. Alziro Zarur)</string>
+				<string>Via Universitária (Campus da UFMT)</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. General Vale</string>
+				<string>Rua Clóvis Hugueney</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Avenida Getúlio Vargas</string>
+				<string>Praça da República (Loja Riachuelo)</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Av. Getúlio Vargas</string>
+				<string>Rua Barao de Melgaço</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Cel. Escolástico</string>
+				<string>Rua Papa Joao XXIII</string>
+				<string>Rua Miranda Reis</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Via Universitária (Campus da UFMT)</string>
+				<string>Av. Emanuel Pinheiro (Av. Alziro Zarur)</string>
+				<string>Av. Pedro Celestino (Rua 15)</string>
+				<string>Rua Francisco de Paula (Rua 25)</string>
+				<string>Rua 16 - Boa Esperança</string>
+				<string>Av. Arquimedes Pereira LIma</string>
+				<string>Rua Castro Alves - Santa Cruz</string>
+				<string>Avenida das Torres</string>
+				<string>Rotatória Av. das Palmeiras</string>
+				<string>Rua 11 - Recanto dos Pássaros</string>
+				<string>Rua 09 - Recanto dos Pássaros</string>
+				<string>Rua 09 - Res. Maria de Lourdes</string>
+				<string>Rua 27 - Res. Maria de Lourdes</string>
+				<string>Rua 16 - Res. Maria de Lourdes</string>
+				<string>Rua 09 - Recanto dos Pássaros</string>
+				<string>Av. das Palmeiras - Jardim Imperial</string>
+				<string>Alameda 2600 - Jardim Imperial</string>
+				<string>Rua 2300 - Jardim Imperial</string>
+				<string>Rua 2000 - Jardim Imperial</string>
+				<string>Rua 2800 - Jardim Imperial</string>
+				<string>Rua C - Jardim Imperial</string>
+				<string>Avenida das Torres</string>
+				<string>Retorno</string>
+				<string>Avenida das Torres</string>
+				<string>Acesso Resid. Marchetti</string>
+				<string>Quadra 11 A - Residencial Marchetti</string>
+				<string>Quadra 09 A - Residencial Marchetti </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>525</string>
+		<key>nome</key>
+		<string>RESIDENCIAL MARIA DE LOURDES / CENTRO (VIA SANTA CRUZ)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Avenida Tancredo Neves - São Sebastião (Ponto Final</string>
+				<string>Rua das Flores - Manduri</string>
+				<string>Rua 15 - Residencial Costas Marques</string>
+				<string>Avenida das Torres</string>
+				<string>Av. Dr. Meirelles</string>
+				<string>Av. Espigão</string>
+				<string>Av. Dr. Meirelles</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. General Vale</string>
+				<string>Rua Clóvis Hugueney</string>
+				<string>Praça Maria Taquara</string>
+				<string>Av. Tenente Coronel Duarte</string>
+				<string>Av. Getúlio Vargas (Riachuelo)</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Av. Getúlio Vargas</string>
+				<string>Rua Barão de Melgaço</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Av. Tenente Coronel Duarte</string>
+				<string>Rua Coronel Escolástico</string>
+				<string>Rua Papa João XXIII</string>
+				<string>Rua Miranda Reis</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. Dr. Meirelles</string>
+				<string>Av. Espigão</string>
+				<string>Av. Dr. Meirelles</string>
+				<string>Avenida das Torres</string>
+				<string>Rua 15 - Resid. Costas Marques</string>
+				<string>Rua das Flores - Manduri</string>
+				<string>Avenida Tancredo Neves - São Sebastião (Ponto Final)</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>540</string>
+		<key>nome</key>
+		<string>SÃO SEBASTIÃO / CENTRO (VIA RESIDENCIAL COSTA MARQUES)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Bar do Baiano (P. Final)</string>
+				<string>Colina Verde</string>
+				<string>Av. João Goulart – Liberdade</string>
+				<string>Rua 13 – Osmar Cabral</string>
+				<string>Rua 01 – Osmar Cabral</string>
+				<string>Rua 14 – Osmar Cabral</string>
+				<string>Av. 01 – Osmar Cabral</string>
+				<string>Av. 02 – Osmar Cabral</string>
+				<string>Rua 54 – São João Del Rei</string>
+				<string>Rua Alberto Ferreira Tavares - São João Del Rei</string>
+				<string>Rua do Linhão</string>
+				<string>Av. Integração – Novo Milênio</string>
+				<string>Av. Dr. Meirelles</string>
+				<string>Av. Espigão</string>
+				<string>Av. Dr. Meirelles</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. General Valle</string>
+				<string>Rua Clóvis Hugueney (Maria Taquara)</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Rua Clóvis Hugueney (Maria Taquara)</string>
+				<string>Av. Tenente Coronel Duarte</string>
+				<string>Av. Coronel Escolástico</string>
+				<string>Rua Papa João XXIII</string>
+				<string>Rua Miranda Reis</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. Dr. Meirelles</string>
+				<string>Av. Espigão</string>
+				<string>Av. Dr. Meirelles</string>
+				<string>Acesso ao Novo Milênio</string>
+				<string>Av. Integração – Novo Milênio</string>
+				<string>Rua do Linhão</string>
+				<string>Av. Carlos Addor de Souza – Osmar Cabral</string>
+				<string>Av. 01 – Osmar Cabral</string>
+				<string>Av. João Goulart – Liberdade</string>
+				<string>Colina Verde</string>
+				<string>Bar do Baiano (P. Final)</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>541</string>
+		<key>nome</key>
+		<string>LIBERDADE / CENTRO (ESPIGÃO/NOVO MILÊNIO)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Ponto Final- Itapajé</string>
+				<string>Av. Principal</string>
+				<string>Av. E- Itapajé</string>
+				<string>Av. D- Itapajé</string>
+				<string>Av. C- Parque Residencial</string>
+				<string>Rua 04- Pq. Residencial</string>
+				<string>Av. M- Mossoró</string>
+				<string>Rua A- Mossoró</string>
+				<string>Rua L- Mossoró</string>
+				<string>Rua B- Mossoró</string>
+				<string>Rua D- Mossoró</string>
+				<string>Rua A- Mossoró</string>
+				<string>Rod. Palmiro Paes de Barros</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. Carmindo de Campos</string>
+				<string>Rua Jacques Brunini</string>
+				<string>Av. Manoel José de Arruda- (Beira Rio)</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Praça da República (Riachuelo)</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Praça da República (Riachuelo)</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Rua Barão de Melgaço</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. 15 de Novembro</string>
+				<string>Av. Senador Metello</string>
+				<string>Rua 13 de Junho</string>
+				<string>Av. 08 de Abril</string>
+				<string>Av. Beira Rio</string>
+				<string>Av. Mário Corrêa</string>
+				<string>Rua Comandante Suído</string>
+				<string>Trav. Tufik  Affi</string>
+				<string>Av. Beira Rio</string>
+				<string>Rua Jorn. Jacques Brunini</string>
+				<string>Av. Carmindo de Campos</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Rod. Palmiro Paes de Barros</string>
+				<string>Rua A- Mossoró</string>
+				<string>Rua D- Mossoró</string>
+				<string>Rua B- Mossoró</string>
+				<string>Rua L- Mossoró</string>
+				<string>Rua A- Mossoró</string>
+				<string>Av. M- Mossoró</string>
+				<string>Rua 4- Pq. Residêncial</string>
+				<string>Rua C- Pq. Residêncial</string>
+				<string>Av. D- Itapajé</string>
+				<string>Av. E- Itapajé</string>
+				<string>Av. Principal</string>
+				<string>Ponto Final- Itapajé </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>602</string>
+		<key>nome</key>
+		<string>ITAPAJÉ / PORTO</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Ponto Final - Vila Verde</string>
+				<string>Rua Nova Independência - Vila Verde</string>
+				<string>Rua Nova Araçá - Vila Verde</string>
+				<string>Rua Nova Floresta - Vila Verde</string>
+				<string>Rua Nova Friburgo - Vila Verde</string>
+				<string>Alameda L - Jd. Presidente</string>
+				<string>Rua F - Jd. Presidente</string>
+				<string>Rua 08 - Jd. Presidente</string>
+				<string>Rua 01 - Jd. Presidente</string>
+				<string>Rua R - Jd. Presidente</string>
+				<string>Rua J - Jd. Presidente</string>
+				<string>Rua 29 - Jd. Presidente</string>
+				<string>Av. D - Resid. Coxipó</string>
+				<string>Av. C - Parq. Residencial</string>
+				<string>Rua 04 - Parq. Residencial</string>
+				<string>Av. A - Parq. Residencial</string>
+				<string>Rua M - Jd. Mossoró</string>
+				<string>Rua 22 - São Gonçalo</string>
+				<string>Av. B - São Gonçalo</string>
+				<string>Rua 09 - São Gonçalo</string>
+				<string>Av. A - São Gonçalo</string>
+				<string>Rua 19</string>
+				<string>Rua O15 Nossa Senhora Aparecida</string>
+				<string>Travessa Z-24</string>
+				<string>Rua N14</string>
+				<string>Rua B2</string>
+				<string>Rua K11</string>
+				<string>Rua C3</string>
+				<string>Rua I9</string>
+				<string>Rua H8</string>
+				<string>Rod. Palmiro Paes de Barros</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. General Valle</string>
+				<string>Rua Clóvis Hugueney</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Praça da Repúbllica (Riachuelo)</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Praça da República (Riachuelo)</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Rua Barão de Melgaço</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Rua Clóvis Hugueney</string>
+				<string>Av. Gen. Mello</string>
+				<string>R. Miranda Reis</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Rod. Palmiro Paes de Barros</string>
+				<string>Rua H8</string>
+				<string>Rua I9</string>
+				<string>Rua C3</string>
+				<string>Rua K11</string>
+				<string>Rua B2</string>
+				<string>Rua N14</string>
+				<string>Travessa Z24</string>
+				<string>Rua O15</string>
+				<string>Rua 19</string>
+				<string>Av. A - São Gonçalo</string>
+				<string>Av. C - São Gonçalo</string>
+				<string>Rua 04 - Parq. Residencial</string>
+				<string>Av. C - Parq. Residencial</string>
+				<string>Av. D - Parq. Residencial</string>
+				<string>Rua 29 - Jd. Presidente</string>
+				<string>Rua J - Jd. Presidente</string>
+				<string>Rua R - Jd. Presidente</string>
+				<string>Rua 01 - Jd. Presidente</string>
+				<string>Rua 08 - Jd. Presidente</string>
+				<string>Rua F - Jd. Presidente</string>
+				<string>Alameda L - Jd. Presidente</string>
+				<string>Rua Nova Friburgo - Vila Verde</string>
+				<string>Rua Nova Floresta - Vila Verde</string>
+				<string>Rua Nova Araçá - Vila Verde</string>
+				<string>Rua Nova Independência - Vila Verde</string>
+				<string>Ponto Final - Vila Verde </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>603</string>
+		<key>nome</key>
+		<string>VILA VERDE / CENTRO (SÃO GONÇALO)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Hospital Adauto Botelho</string>
+				<string>Rua Adauto Botelho</string>
+				<string>Rua Nova Iguaçu</string>
+				<string>Rua Maringá</string>
+				<string>Rua República</string>
+				<string>Rua Imburana</string>
+				<string>Rua Copaíba (Mangueiral)</string>
+				<string>Rua Angelim</string>
+				<string>Rua Canarana</string>
+				<string>Rua Angico</string>
+				<string>Rua Tremenbé</string>
+				<string>Rua Nova Iguaçu</string>
+				<string>Rua Itumbiara</string>
+				<string>Rua Antônio Dorileo</string>
+				<string>Av. Fernando Côrrea da Costa</string>
+				<string>Av. Cel. Escolástico</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Av. Lava-pés</string>
+				<string>Av. Miguel Sutil</string>
+				<string>Av. Bernardo Antônio de Oliveira</string>
+				<string>Centro de Eventos Pantanal</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Centro de Eventos Pantanal</string>
+				<string>Av. Bernardo Antônio de Oliveira</string>
+				<string>Av. Miguel Sutil</string>
+				<string>Rua S/N</string>
+				<string>Av. Mário Palma</string>
+				<string>Rua Alfenas</string>
+				<string>Trav. Araguari</string>
+				<string>Rua Patos de Minas</string>
+				<string>Av. Álvaro de Oliveira</string>
+				<string>Av. Antártica</string>
+				<string>Av. Lava-pés</string>
+				<string>Av. Isaac Póvoas</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Cel. Escolástico</string>
+				<string>Rua Papa Jo?o XXIII</string>
+				<string>Rua Miranda Reis</string>
+				<string>Av. Fernando Côrrea da Costa</string>
+				<string>Rua Antônio Dorileo</string>
+				<string>Rua Itumbiara</string>
+				<string>Rua Nova Iguaçu</string>
+				<string>Rua Tremembé</string>
+				<string>Rua Angico</string>
+				<string>Rua Cajarana</string>
+				<string>Rua Angelim</string>
+				<string>Rua Copaíba (Mangueiral)</string>
+				<string>Rua Imburana</string>
+				<string>Rua República</string>
+				<string>Rua Maringá</string>
+				<string>Rua Nova Iguaçu</string>
+				<string>Rua Adauto Botelho</string>
+				<string>Hospital Adauto Botelho</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>604</string>
+		<key>nome</key>
+		<string>JARDIM GRAMADO / CENTRO DE EVENTOS DO PANTANAL</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Ponto Final- Itapajé</string>
+				<string>Av. Principal</string>
+				<string>Av. E</string>
+				<string>Av. D- Residencial Coxipó</string>
+				<string>Av. Sem Nome</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. Cel Escolástico</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Av. Lava-pés</string>
+				<string>Rua Alcides de Souza</string>
+				<string>Av. Ramiro de Noronha</string>
+				<string>Rua das Papoulas</string>
+				<string>Av. das Flores</string>
+				<string>Rua das Camélias</string>
+				<string>Rua das Dálias</string>
+				<string>Av. das Flores</string>
+				<string>Av. Senador Metello</string>
+				<string>Rua Lima Avelino</string>
+				<string>Rua da Caridade</string>
+				<string>Rua da Fé</string>
+				<string>Av. Agrícola Paes de Barros</string>
+				<string>Rua Wilson Diniz</string>
+				<string>Rua Celso M. Quintela</string>
+				<string>Rua Castro Alves</string>
+				<string>Rua &quot;E&quot;</string>
+				<string>Rua Neuza Lula Rodrigues</string>
+				<string>Ponto Final- Sta. Amália</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Ponto Final- Sta. Amália</string>
+				<string>Rua Prof. Neuza Lula Rodrigues</string>
+				<string>Av. Principal</string>
+				<string>Rua Proj. 13</string>
+				<string>Rua José Luis Borges Garcia</string>
+				<string>Av. Castro Alves</string>
+				<string>Rua Celso M. Quintela</string>
+				<string>Rua Ver. Wilson Diniz</string>
+				<string>Av. Agrícola Paes de Barros</string>
+				<string>Rua da Fé</string>
+				<string>Rua da Caridade</string>
+				<string>Rua Lima Avelino</string>
+				<string>Av. Senador Metello</string>
+				<string>Av. das Flores</string>
+				<string>Rua das Papoulas</string>
+				<string>Av. Ramiro de Noronha</string>
+				<string>Rua Alcides de Souza</string>
+				<string>Av. Lava-pés</string>
+				<string>Av. Isaac Póvoas</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Cel. Escolástico</string>
+				<string>Rua Papa João XXII</string>
+				<string>Rua Miranda Reis</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. Sem Nome</string>
+				<string>Av. D</string>
+				<string>Av. E</string>
+				<string>Av. Principal</string>
+				<string>Ponto Final- Itapajé </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>605</string>
+		<key>nome</key>
+		<string>ITAPAJÉ / SANTA AMÁLIA</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Ponto Final (Altos do São Gonçalo)</string>
+				<string>Rua J- Pq. Atalaia</string>
+				<string>Rua G- Pq. Atalaia</string>
+				<string>Rua R- Pq. Atalaia</string>
+				<string>Rua H- Pq. Atalaia</string>
+				<string>Rua S- Pq. Atalaia</string>
+				<string>Rua F- Pq. Atalaia</string>
+				<string>Rua N- Pq. Atalaia</string>
+				<string>Rua C- Pq. Atalaia</string>
+				<string>Rua J- Pq. Atalaia</string>
+				<string>Av. 2- Parque Cuiabá (Av. Altamiro Ari Rutz)</string>
+				<string>Av. 4- Parque Cuiabá (Av. Damien Biancardini)</string>
+				<string>Av. 6- Parque Cuiabá (Av. Valter Galluci)</string>
+				<string>Av. 5- Parque Cuiabá</string>
+				<string>Av. 2- Parque Cuiabá (Av. Altamiro Ari Rutz)</string>
+				<string>Rodovia Palmiro Paes de Barros</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. Manoel José de Arruda (Av.Beira Rio)</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Praça da República (Riachuelo)</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Praça da República (Riachuelo)</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Rua Barão de Melgaço</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. 15 de Novembro</string>
+				<string>Av. Senador Metelo</string>
+				<string>Rua 13 de Junho</string>
+				<string>Av. 08 de Abril</string>
+				<string>Av. Manoel José de Arruda (Av. Beira Rio)</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. Palmiro Paes de Barros</string>
+				<string>Av. 2- Parque Cuiabá (Av. Altamiro Ari Rutz)</string>
+				<string>Av. 5- Parque Cuiabá</string>
+				<string>Av. 6- Parque Cuiabá (Av. Valter Galluci)</string>
+				<string>Av. 4- Parque Cuiabá (Av. Damien Biancardini)</string>
+				<string>Av. 2- Parque Cuiabá (Av. Altamiro Ari Rutz)</string>
+				<string>Rua J- Pq. Atalaia</string>
+				<string>Ponto Final (Altos do São Gonçalo)</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>606</string>
+		<key>nome</key>
+		<string>PARQUE CUIABÁ / PORTO</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Rua Q – casa 19 (Ponto Final)</string>
+				<string>Rua H</string>
+				<string>Rua R</string>
+				<string>Rua F</string>
+				<string>Rua J</string>
+				<string>Rua F</string>
+				<string>Rua N</string>
+				<string>Rua C</string>
+				<string>Rua J</string>
+				<string>Rod. Palmiro Paes de Barros</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. General Vale</string>
+				<string>Rua Clóvis Hugueney</string>
+				<string>Av. Tenente Coronel Duarte</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Praça da República (Riachuelo)</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Praça da República (Riachuelo)</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Rua Barão de Melgaço</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Av. Tenente Coronel Duarte</string>
+				<string>Av. Coronel Escolástico</string>
+				<string>Rua Papa João XXIII</string>
+				<string>Rua Miranda Reis</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Rod. Palmiro Paes de Barros</string>
+				<string>Rua J</string>
+				<string>Rua C</string>
+				<string>Rua N</string>
+				<string>Rua F</string>
+				<string>Rua J</string>
+				<string>Rua F</string>
+				<string>Rua R</string>
+				<string>Rua G</string>
+				<string>Rua Q – casa 19 (Ponto Final)</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>607</string>
+		<key>nome</key>
+		<string>PARQUE ATALAIA / CENTRO</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Ponto Final (Rua 9 x Rua 8)</string>
+				<string>Rua 9- Parque Residencial</string>
+				<string>Rua 15- Parque Residencial</string>
+				<string>Rua 13- Parque Residencial</string>
+				<string>Av. C- Parque Residencial</string>
+				<string>Rua 4- Parque Residencial</string>
+				<string>Av. A- Parque Residencial</string>
+				<string>Rua M- Parque Residencial</string>
+				<string>Av. C- S?o Gonçalo</string>
+				<string>Rua 22</string>
+				<string>Av. B</string>
+				<string>Rua 9</string>
+				<string>Av. A</string>
+				<string>Av. Palmiro Paes de Barros</string>
+				<string>Av. Fernando Côrrea da Costa</string>
+				<string>Av. General Valle</string>
+				<string>Rua Clóvis Hugueney</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Getúlio Vargas (Pça Alencastro)</string>
+				<string>Av. Lava-Pés</string>
+				<string>Rua Alcides de Souza</string>
+				<string>Av. Ramiro de Noronha</string>
+				<string>Ponto Final (Rua 9 x Rua 8)</string>
+				<string>Rua 9- Parque Residencial</string>
+				<string>Rua 15- Parque Residencial</string>
+				<string>Rua 13- Parque Residencial</string>
+				<string>Av. C- Parque Residencial</string>
+				<string>Rua 4- Parque Residencial</string>
+				<string>Av. A- Parque Residencial</string>
+				<string>Rua M- Parque Residencial</string>
+				<string>Av. C- S?o Gonçalo</string>
+				<string>Rua 22</string>
+				<string>Av. B</string>
+				<string>Rua 9</string>
+				<string>Av. A</string>
+				<string>Av. Palmiro Paes de Barros</string>
+				<string>Av. Fernando Côrrea da Costa</string>
+				<string>Av. Generl Valle</string>
+				<string>Rua Clóvis Hugueney</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Praça da República (Richuelo)</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Av. Ramiro de Noronha</string>
+				<string>Av. Miguel Sutil</string>
+				<string>Av. Lava-Pés</string>
+				<string>Av. Isaac Póvoas</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Rua Clóvis Hugueney</string>
+				<string>Av. Gen. Mello</string>
+				<string>Rua Miranda Reis</string>
+				<string>Av. Fernando Côrrea da Costa</string>
+				<string>Av. Palmiro Paes de Barros</string>
+				<string>Av. A- S?o Gonçalo</string>
+				<string>Av. C- S?o Gonçalo</string>
+				<string>Rua M- Parque Residencial</string>
+				<string>Av. A- Parque Residencial</string>
+				<string>Rua 4- Parque Residencial</string>
+				<string>Av. C- Parque Residencial</string>
+				<string>Rua 13 -Parque Residencial</string>
+				<string>Rua 15- Parque Residencial</string>
+				<string>Rua 9- Parque Residencial</string>
+				<string>Ponto Final (Rua 9 x Rua 8)</string>
+				<string>Praça da República (Riachuelo)</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Rua Bar?o de Melgaço</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Rua Clóvis Hugueney</string>
+				<string>Av. Gen. Mello</string>
+				<string>Rua Miranda Reis</string>
+				<string>Av. Fernando Côrrea da Costa</string>
+				<string>Av. Palmiro Paes de Barros</string>
+				<string>Av. A- S?o Gonçalo</string>
+				<string>Av. C- S?o Gonçalo</string>
+				<string>Rua M- Parque Residencial</string>
+				<string>Av. A- Parque Residencial</string>
+				<string>Rua 4- Parque Residencial</string>
+				<string>Av. C- Parque Residencial</string>
+				<string>Rua 13 -Parque Residencial</string>
+				<string>Rua 15- Parque Residencial</string>
+				<string>Rua 9- Parque Residencial</string>
+				<string>Ponto Final (Rua 9 x Rua 8)</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>608</string>
+		<key>nome</key>
+		<string>PARQUE RESIDENCIAL / JARDIM CUIABÁ (CENTRO)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Caixa D&#39;água - Ponto Final</string>
+				<string>Av. 5 - Parque Cuiabá</string>
+				<string>Av. 2 - Parque Cuiabá</string>
+				<string>Rod. Palmiro Paes de Barros</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. Cel. Escolástico</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Av. S?o Sebasti?o</string>
+				<string>Av. Agrícola Paes de Barros</string>
+				<string>Av. Central - Santa Isabel</string>
+				<string>Rua Ademar de Barros</string>
+				<string>Rua Clara Nunes</string>
+				<string>Rua Antero Paes de Barros</string>
+				<string>Rua Santa Isabel</string>
+				<string>Av. Agrícola Paes de Barros</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Av. Agrícola Paes de Barros</string>
+				<string>Av. S?o Sebasti?o</string>
+				<string>Av. Dom Bosco</string>
+				<string>Av. Estev?o de Mendonça</string>
+				<string>Av. Isaac Póvoas</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Cel Escolástico</string>
+				<string>Rua Papa Jo?o XXIII</string>
+				<string>Rua Miranda Reis</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Rod. Palmiro Paes de Barros</string>
+				<string>Av. 02 - Parque Cuiabá</string>
+				<string>Av. 05</string>
+				<string>Caixa D&#39;água - Ponto Final</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>609</string>
+		<key>nome</key>
+		<string>PARQUE CUIABÁ / SANTA ISABEL</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Mercearia N. S. Aparecida</string>
+				<string>Rua 6- Jd.Paulicéia</string>
+				<string>Av. 2- Jd. Paulicéia</string>
+				<string>Av. 2- Real Parque</string>
+				<string>Rua I- Real Parque</string>
+				<string>Rua D- Real Parque</string>
+				<string>Av. 04- Real Parque</string>
+				<string>Av. Damien Biancardini</string>
+				<string>Av. 04- Parque Cuiabá</string>
+				<string>Av. Altamiro Ari Rutz</string>
+				<string>Av. 02- Parque Cuiabá</string>
+				<string>Av. Palmiro Paes de Barros</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. Gal Valle</string>
+				<string>Rua Clóvis Hugueney</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Rua Barão de Melgaço</string>
+				<string>Banco Bradesco)</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Rua Barão de Melgaço</string>
+				<string>Banco Bradesco</string>
+				<string>Rua Barão de Melgaço</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Rua Clóvis Hugueney</string>
+				<string>Av. General Mello</string>
+				<string>Rua Mianda Reis</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. Palmiro Paes de Barros</string>
+				<string>Av. Altamiro Ari Rutz</string>
+				<string>Av. 02- Parque Cuiabá</string>
+				<string>Av. Damien Biancardini</string>
+				<string>Av. 04- Parque Cuiabá</string>
+				<string>Av. 04- Real Parque</string>
+				<string>Rua D- Real Parque</string>
+				<string>Rua I- Real Parque</string>
+				<string>Av. 2- Real Parque</string>
+				<string>Av. 2- Jd. Paulicéia</string>
+				<string>Rua 6- Jd.Paulicéia</string>
+				<string>Mercearia N. S. Aparecida</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>610</string>
+		<key>nome</key>
+		<string>REAL PARQUE / CENTRO (JARDIM PAULICÉIA)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Draga (São Gonçalo Beira Rio)</string>
+				<string>Av. Principal (São Gonçalo Beria Rio)</string>
+				<string>Rua Cabeceira</string>
+				<string>Av. Camboriú - Parque Geórgia</string>
+				<string>Av. Campina Verde</string>
+				<string>Rua Carandaí - Jd. Gramado</string>
+				<string>Rua Cajarana</string>
+				<string>Rua Imburana</string>
+				<string>Rua República</string>
+				<string>Rua Maringá</string>
+				<string>Rua Nova Iguaçu (Adauto Botelho)</string>
+				<string>Rua João Batista de Oliveira (Itaparica)</string>
+				<string>Rua E</string>
+				<string>Av. Fernando Correa da Costa</string>
+				<string>Retorno Escola Maria Dimpina</string>
+				<string>Av. Fernando Correa da Costa</string>
+				<string>Av. Nestor de Lara Pinto (Av. Pau Brasil)</string>
+				<string>Rua Vitória Régia</string>
+				<string>Av. dos Pinhais</string>
+				<string>Av. das Seringueiras</string>
+				<string>Av. Nestor de Lara Pinto (Av. Pau Brasil)</string>
+				<string>Av. das Palmeiras</string>
+				<string>Rua Nossa Senhora da Guia</string>
+				<string>Rua Nova</string>
+				<string>Rua X</string>
+				<string>Rua Alexandre de Barros (R. Nestor de L. Pinto)</string>
+				<string>Av. Fernando Côrrea da Costa</string>
+				<string>Av. General Valle</string>
+				<string>Rua Clóvis Hugueney</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Praça da República (Riachuelo)</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Praça da República (Riachuelo)</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Rua Barao de Melgaço</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Rua Clóvis Hugueney</string>
+				<string>Av. General Mello</string>
+				<string>Av. Miranda Reis</string>
+				<string>Av. Fernando Correa da Costa</string>
+				<string>Retorno na Gráfica Sereia</string>
+				<string>Av. Fernando Correa da Costa</string>
+				<string>Rua Alexandre de Barros</string>
+				<string>Rua X</string>
+				<string>Rua Nova</string>
+				<string>Rua Nossa Senhora da Guia</string>
+				<string>Avenida das Palmeiras</string>
+				<string>Av. Nestor de Lara Pinto</string>
+				<string>Av. das Seringueiras</string>
+				<string>Avenida dos Pinhais</string>
+				<string>Rua Vitória Régia</string>
+				<string>Av. Nestor de Lara Pinto</string>
+				<string>Av. Fernando Correa da Costa</string>
+				<string>Rua E</string>
+				<string>Rua João Batista de Oliveira (Itaparica)</string>
+				<string>Rua Nova Iguaçu (Adauto Botelho)</string>
+				<string>Rua Maringá</string>
+				<string>Rua República</string>
+				<string>Rua Imburana</string>
+				<string>Rua Cajarana</string>
+				<string>Rua Carandaí</string>
+				<string>Rua Campina Verde</string>
+				<string>Av. Camboriú</string>
+				<string>R. Cabeceira</string>
+				<string>Av. Principal (São Gonçalo Beira Rio)</string>
+				<string>Draga (São Gonçalo Beira Rio)</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>613</string>
+		<key>nome</key>
+		<string>SAO GONÇALO BEIRA RIO / CENTRO (VIA PARQUE GEÓRGIA  E CHÁCARA DOS PINHEIROS)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Caixa D&#39;água - Ponto Final</string>
+				<string>Av. 5 - Parque Cuiabá</string>
+				<string>Av. 2 - Parque Cuiabá</string>
+				<string>Rod. Palmiro Paes de Barros</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. General Vale</string>
+				<string>Rua Clóvis Hugueney</string>
+				<string>Av. Tenente Coronel Duarte</string>
+				<string>Praça Bispo Dom José</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Praça Bispo Dom José</string>
+				<string>Av. Tenente Coronel Duarte</string>
+				<string>Av. Coronel Escolástico</string>
+				<string>Rua Papa João XXIII</string>
+				<string>Rua Miranda Reis</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Rod. Palmiro Paes de Barros</string>
+				<string>Av. 2 - Parque Cuiabá</string>
+				<string>Av. 5 - Parque Cuiabá</string>
+				<string>Caixa D&#39;água - Ponto Final</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>614</string>
+		<key>nome</key>
+		<string>PARQUE CUIABÁ / CENTRO</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Ponto Final - Pedra 90</string>
+				<string>Rua Jandaia</string>
+				<string>Rua 50</string>
+				<string>Av. U</string>
+				<string>Av. Newton Rabelo de Castro</string>
+				<string>Av. V1 (Av. Linhão)</string>
+				<string>Av. V2</string>
+				<string>Av. B</string>
+				<string>Av. 30 (Industriário)</string>
+				<string>Av. Ayrton Senna</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. Manoel José de Arruda</string>
+				<string>Av. Beira Rio</string>
+				<string>Av. Ten. Cel Duarte</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Rua Barão de Melgaço</string>
+				<string>Banco Bradesco</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Banco Bradesco</string>
+				<string>Rua Barão de Melgaço</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. 15 de Novembro</string>
+				<string>Av. Senador Metelo</string>
+				<string>Rua 13 de Junho</string>
+				<string>Av. 8 de Abril</string>
+				<string>Av. Manoel José de Arruda</string>
+				<string>Av. Beira Rio</string>
+				<string>Av. Mário Corrêa</string>
+				<string>Rua Comandante Suído</string>
+				<string>Trav. Tufik Affi</string>
+				<string>Av. Beira Rio</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. Ayrton Senna</string>
+				<string>Av. 30 (Industriário)</string>
+				<string>Av. B</string>
+				<string>Av. V2</string>
+				<string>Av. V1 (Av. Linhão)</string>
+				<string>Av. Newton Rabelo de Castro</string>
+				<string>Av. U</string>
+				<string>Rua 50</string>
+				<string>Rua Jandaia</string>
+				<string>Ponto Final - Pedra 90 </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>704</string>
+		<key>nome</key>
+		<string>PEDRA 90 / PORTO (VIA BEIRA RIO)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Ponto Final- Pedra 90</string>
+				<string>Rua Jandaia</string>
+				<string>Rua 50</string>
+				<string>Av. U</string>
+				<string>Av. Newton Rabelo de Castro</string>
+				<string>Av. V-1</string>
+				<string>Av. V-2</string>
+				<string>Av. B</string>
+				<string>Av. 30 (Industriário)</string>
+				<string>Av. Ayrton Senna (BR-364)</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. Gal. Valle</string>
+				<string>Rua Clóvis Hugueney</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Praça 8 de Abril (Choppão)</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Praça 8 de Abril (Choppão)</string>
+				<string>Av. Isaac Póvoas</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Rua Clóvis Hugueney</string>
+				<string>Av. Gal. Mello</string>
+				<string>Rua Miranda Reis</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. Ayrton Senna</string>
+				<string>Av. 30 (Industriário)</string>
+				<string>Av. B</string>
+				<string>Av. V-2</string>
+				<string>Av. V-1</string>
+				<string>Av. Newton Rabelo de Castro</string>
+				<string>Av. U</string>
+				<string>Rua 50</string>
+				<string>Rua Jandaia</string>
+				<string>Ponto Fina l- Pedra 90 </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>705</string>
+		<key>nome</key>
+		<string>PEDRA 90 / CENTRO (CHOPPÃO)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Ponto Final</string>
+				<string>Tv. São Sebastião</string>
+				<string>Av. Tancredo Neves</string>
+				<string>Rua das Flores (Manduri)</string>
+				<string>Rua 15 (Res. Costa Marques)</string>
+				<string>Av. das Torres</string>
+				<string>Acesso Res. Avelino Lima Barros</string>
+				<string>Rua A (Avelino Lima Barros)</string>
+				<string>Rua I (Avelino Lima Barros)</string>
+				<string>Rua D (Avelino Lima Barros)</string>
+				<string>Rua L (Avelino Lima Barros)</string>
+				<string>Rua A (Avelino Lima Barros)</string>
+				<string>Rua São Gerônimo (São Sebastião)</string>
+				<string>Rua Francisco de Jesus</string>
+				<string>Av. Brasil</string>
+				<string>Rua Antônio Lira</string>
+				<string>Rua Benedito Antônio</string>
+				<string>Rua José da Rosa</string>
+				<string>Rua Antônio de Jesus</string>
+				<string>Av. 30 (Industriário)</string>
+				<string>Av. Airton Sena</string>
+				<string>Av. de Acesso ao Resid. M. Rondon</string>
+				<string>Rua A (Res. Marechal Rondon)</string>
+				<string>Rua I (Res. Marechal Rondon)</string>
+				<string>Rua B (Res. Marechal Rondon)</string>
+				<string>Rua L (Res. Marechal Rondon)</string>
+				<string>Rua A (Res. Marechal Rondon)</string>
+				<string>Av. Airton Sena</string>
+				<string>Acesso ao Residencial Recanto do Sol</string>
+				<string>Av. Antonio Pinheiro (Recanto do Sol)</string>
+				<string>Rua Angola (Recanto do Sol)</string>
+				<string>Rua Itália (Recanto do Sol)</string>
+				<string>Rua França (Recanto do Sol)</string>
+				<string>Av. Brasil (Recanto do Sol)</string>
+				<string>Rua Coréia (Recanto do Sol)</string>
+				<string>Av. Brasil (Recanto do Sol)</string>
+				<string>Rua Angola (Recanto do Sol)</string>
+				<string>Av. Antonio Pinheiro (Recanto do Sol)</string>
+				<string>Av. Airton Sena</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. General Valle</string>
+				<string>Rua Clóvis Hugueney</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Praça da República (Riachuelo)</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Praça da República (Riachuelo)</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Rua Barão de Melgaço</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Cel. Escolástico</string>
+				<string>Rua Papa João XXIII</string>
+				<string>Rua Miranda Reis</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. Airton Sena</string>
+				<string>Av. 30 (Industriário)</string>
+				<string>Rua Antônio de Jesus</string>
+				<string>Rua José da Rosa</string>
+				<string>Rua Benedito Antônio</string>
+				<string>Rua Antônio Lira</string>
+				<string>Av. Brasil</string>
+				<string>Rua Francisco de Jesus</string>
+				<string>Av. Tancredo Neves</string>
+				<string>Rua São Gerônimo (São Sebastião)</string>
+				<string>Rua A (Avelino Lima Barros)</string>
+				<string>Rua L (Avelino Lima Barros)</string>
+				<string>Rua D (Avelino Lima Barros)</string>
+				<string>Rua I (Avelino Lima Barros)</string>
+				<string>Rua A (Avelino Lima Barros)</string>
+				<string>Acesso Res. Avelino Lima Barros</string>
+				<string>Av. das Torres</string>
+				<string>Rua 15 (Res. Costa Marques)</string>
+				<string>Rua das Flores (Manduri)</string>
+				<string>Av. Tancredo Neves</string>
+				<string>Ponto Final</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>706</string>
+		<key>nome</key>
+		<string>SÃO SEBASTIÃO / CENTRO</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Ponto Final - Pedra 90</string>
+				<string>Rua Jandaia</string>
+				<string>Rua 50</string>
+				<string>Av. U</string>
+				<string>Av. Newton Rabelo de Castro</string>
+				<string>Av. V1 (Av. Linhão)</string>
+				<string>Av. V2</string>
+				<string>Av. B</string>
+				<string>Rua 30 (Industriário)</string>
+				<string>Av. Ayrton Senna</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. Cel. Escolástico</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. 15 de Novembro</string>
+				<string>Rua Caetano Santana</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Ponto de ônibus da AGER</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Ponto de ônibus da AGER</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Cel. Escolástico</string>
+				<string>Rua Papa João XXIII</string>
+				<string>Rua Miranda Reis</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. Ayrton Senna</string>
+				<string>Rua 30 (Industriário)</string>
+				<string>Av. B</string>
+				<string>Av. V2</string>
+				<string>Av. V1 (Av. Linhão)</string>
+				<string>Av. Newton Rabelo de Castro</string>
+				<string>Av. U</string>
+				<string>Rua 50</string>
+				<string>Rua Jandaia</string>
+				<string>Ponto Final - Pedra 90 </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>708</string>
+		<key>nome</key>
+		<string>PEDRA 90 / FIENTEC</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Ponto Final - Pedra 90</string>
+				<string>Rua Jandaia</string>
+				<string>Rua 50</string>
+				<string>Av. U</string>
+				<string>Av. Newton Rabelo de Castro</string>
+				<string>Av. V1 (Av. Linhão)</string>
+				<string>Av. V2</string>
+				<string>Av. B</string>
+				<string>Rua 30 (Industriário)</string>
+				<string>Av. Ayrton Senna</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. General Valle</string>
+				<string>Rua Clóvis Hugueney</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Praça do Choppão</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Praça do Choppão</string>
+				<string>Av. Isaac Póvoas</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Cel. Escolástico</string>
+				<string>Rua Papa João XXIII</string>
+				<string>Rua Miranda Reis</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. Ayrton Senna</string>
+				<string>Rua 30 (Industriário)</string>
+				<string>Av. B</string>
+				<string>Av. V1 (Av. Linhão)</string>
+				<string>Av. V2</string>
+				<string>Av. V1 (Av. Linhão)</string>
+				<string>Av. Newton Rabelo de Castro</string>
+				<string>Av. U</string>
+				<string>Rua 50</string>
+				<string>Rua Jandaia</string>
+				<string>Ponto Final - Pedra 90 </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>711</string>
+		<key>nome</key>
+		<string>PEDRA 90 / CENTRO (CHOPPÃO)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Ponto Final Pedra 90</string>
+				<string>Rua Jandaia</string>
+				<string>Rua 50</string>
+				<string>Rua U</string>
+				<string>Av. Newton Rabelo de Castro</string>
+				<string>Rua 27</string>
+				<string>Av. Integração III</string>
+				<string>Rua 15</string>
+				<string>Rua Véu das Noivas</string>
+				<string>Rua Centro Geodésico</string>
+				<string>Rua J</string>
+				<string>Rua 11</string>
+				<string>Rua 7</string>
+				<string>Av. Newton Rabelo de Castro</string>
+				<string>Av. 1  - Nova Esperança</string>
+				<string>Av. 2</string>
+				<string>Av. B</string>
+				<string>Av. 30  - Industriário</string>
+				<string>Av. Ayrton Senna – BR364</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. General Valle</string>
+				<string>Rua Clóvis Hugueney</string>
+				<string>Praça Maria Taquara</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Praça Maria Taquara</string>
+				<string>Av. Tenente Coronel Duarte</string>
+				<string>Av. Coronel Escolástico</string>
+				<string>Rua Papa João XXIII</string>
+				<string>Rua Miranda Reis</string>
+				<string>Av. Fernando Corrêa da Costa</string>
+				<string>Av. Ayrton Senna</string>
+				<string>Av. 30 - Industriário</string>
+				<string>Av. B</string>
+				<string>Av. 2 - Nova Esperança</string>
+				<string>Av. 1  - Nova Esperança</string>
+				<string>Av. Newton Rabelo de Castro</string>
+				<string>Rua 7</string>
+				<string>Av. Integração III</string>
+				<string>Rua 11</string>
+				<string>Rua J</string>
+				<string>Rua Centro Geodésico</string>
+				<string>Rua Véu das Noivas</string>
+				<string>Rua Mata Fria</string>
+				<string>Rua 15</string>
+				<string>Av. Integração III</string>
+				<string>Rua 27</string>
+				<string>Av. Newton Rabelo de Castro</string>
+				<string>Rua U</string>
+				<string>Rua 50</string>
+				<string>Rua Jandaia</string>
+				<string> Ponto Final Pedra 90</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>720</string>
+		<key>nome</key>
+		<string>VOLUNTÁRIOS DA PÁTRIA / CENTRO</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Ponto Final Pedra 90</string>
+				<string>Rua Jandaia</string>
+				<string>Rua 50</string>
+				<string>Rua U</string>
+				<string>Av. Newton Rabelo de Castro</string>
+				<string>Rua 27</string>
+				<string>Av. Integração III</string>
+				<string>Rua 15</string>
+				<string>Rua Véu das Noivas</string>
+				<string>Rua Centro Geodésico</string>
+				<string>Rua J</string>
+				<string>Rua 11</string>
+				<string>Rua 7</string>
+				<string>Av. Newton Rabelo de Castro</string>
+				<string>Av. 1  - Nova Esperança</string>
+				<string>Av. 2</string>
+				<string>Av. B</string>
+				<string>Rua Antônio de Jesus (P. Ramos)</string>
+				<string>Rua José da Rosa</string>
+				<string>Av. Brasil</string>
+				<string>Rua Francisco de Jesus</string>
+				<string>Av. Tancredo Neves – São Sebastião</string>
+				<string>Av. das Torres</string>
+				<string>Av. Gonçalo Antunes (Av. Jurumirim)</string>
+				<string>Av. Aclimação – Bosque da Saúde</string>
+				<string>Av. Rubens de Mendonça (Shopping Pantanal)</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Av. Rubens de Mendonça (Shopping Pantanal)</string>
+				<string>Av. Juliano Marques</string>
+				<string>Av. Oátomo Canavarros</string>
+				<string>Av. Gonçalo de Barros (Av. Jurumirim)</string>
+				<string>Av. das Torres</string>
+				<string>Av. Tancredo Neves – São Sebastião</string>
+				<string>Rua Francisco de Jesus</string>
+				<string>Av. Brasil</string>
+				<string>Rua José da Rosa</string>
+				<string>Rua Antônio de Jesus (P. Ramos)</string>
+				<string>Av. B</string>
+				<string>Av. 2 - Nova Esperança</string>
+				<string>Av. 1  - Nova Esperança</string>
+				<string>Av. Newton Rabelo de Castro</string>
+				<string>Rua 7</string>
+				<string>Av. Integração III</string>
+				<string>Rua 11</string>
+				<string>Rua J</string>
+				<string>Rua Centro Geodésico</string>
+				<string>Rua Véu das Noivas</string>
+				<string>Rua Mata Fria</string>
+				<string>Rua 15</string>
+				<string>Av. Integração III</string>
+				<string>Rua 27</string>
+				<string>Av. Newton Rabelo de Castro</string>
+				<string>Rua U</string>
+				<string>Rua 50</string>
+				<string>Rua Jandaia</string>
+				<string> Ponto Final Pedra 90</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>721</string>
+		<key>nome</key>
+		<string>VOLUNTÁRIOS DA PÁTRIA / SHOPPING PANTANAL</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Igreja Matriz</string>
+				<string>Av. Getúlio Vargas</string>
+				<string>Av. Marechal Deodoro</string>
+				<string>Av. República do Líbano</string>
+				<string>Estrada da Guia (MT 10)</string>
+				<string>Portão do Res. Florais Cuiabá</string>
+				<string>Estrada da Guia (MT 10)</string>
+				<string>Rua Benedito Jordim de Figueiredo (Guia)</string>
+				<string>Rua Nossa Senhora da Guia (Guia)</string>
+				<string>Rua São Benedito (Guia)</string>
+				<string>Rua Abelardo Branco (Guia)</string>
+				<string>Rua Benedito Jordim de Figueiredo (Guia)</string>
+				<string>Rua Maturino Eustáquio (Guia)</string>
+				<string>Rua Nossa Senhora da Guia (Guia)</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Rua Nossa Senhora da Guia (Guia)</string>
+				<string>Rua Maturino Eustáquio (Guia)</string>
+				<string>Rua Benedito Jordim de Figueiredo (Guia)</string>
+				<string>Rua Abelardo Branco (Guia)</string>
+				<string>Rua São Benedito (Guia)</string>
+				<string>Rua Nossa Senhora da Guia (Guia)</string>
+				<string>Rua Benedito Jordim de Figueiredo (Guia)</string>
+				<string>Estrada da Guia (MT 10)</string>
+				<string>Portão do Res. Florais Cuiabá</string>
+				<string>Estrada da Guia (MT 10)</string>
+				<string>Av. República do Líbano</string>
+				<string>Av. Presidente Marques</string>
+				<string>Av. Mato Grosso</string>
+				<string>Rua Barão de Melgaço</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Rua Joaquim Murtinho</string>
+				<string>Igreja Matriz </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>800</string>
+		<key>nome</key>
+		<string>DISTRITO DA GUIA / CENTRO</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Terminal do CPA I</string>
+				<string>Rua Pelotas</string>
+				<string>Rua Joinville</string>
+				<string>Rua Óbidos</string>
+				<string>Av. Historiador Rubens de Mendonça</string>
+				<string>Av. José Torquato</string>
+				<string>Rua 7 – Jardim Vitória</string>
+				<string>Av. B – Jardim Vitória</string>
+				<string>Rua 25 – Jardim Vitória</string>
+				<string>Av. José Torquato</string>
+				<string>Rodovia Emanuel Pinheiro</string>
+				<string>Atacadão</string>
+				<string>Rotatória</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Rotatória</string>
+				<string>Atacadão</string>
+				<string>Rodovia Emanuel Pinheiro</string>
+				<string>Rua 21 – Jardim Florianópolis</string>
+				<string>Rua 11 – Jardim Florianópolis</string>
+				<string>Rodovia Emanuel Pinheiro</string>
+				<string>Av. José Torquato – Jd. Vitória</string>
+				<string>Rua 25 – Jd. Vitória</string>
+				<string>Av. B – Jardim Vitória</string>
+				<string>Rua 7 – Jardim Vitória</string>
+				<string>Av. José Torquato</string>
+				<string>Av. Historiador Rubens de Mendonça</string>
+				<string>Rua Alenquer</string>
+				<string>Rua Joinville</string>
+				<string>Rua Sorocaba (Rua Renato Spinelli)</string>
+				<string>Terminal do CPA I</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>A01</string>
+		<key>nome</key>
+		<string>ALIMENTADORA JARDIM FLORIANÓPOLIS / TERMINAL CPA I</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Rua Cristiane de Souza</string>
+				<string>Rua Antônio Alves de Souza</string>
+				<string>Av. das Crianças</string>
+				<string>Rua José Augusto Curvo</string>
+				<string>Av. Marcelo Ribeiro</string>
+				<string>Rua João Eloy</string>
+				<string>Rua Clóvis Pompeu de Barros</string>
+				<string>Av. José Torquato da Silva</string>
+				<string>Av. Rubens de Mendonça</string>
+				<string>Rua Alenquer</string>
+				<string>Rua Joinville</string>
+				<string>Rua Renato Spinelli</string>
+				<string>Rua Sorocaba</string>
+				<string>Terminal do CPA I</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Terminal CPA I</string>
+				<string>Rua Pelotas</string>
+				<string>Rua Joinville</string>
+				<string>Rua Óbidos</string>
+				<string>Av. Rubens de Mendonça</string>
+				<string>Av. José Torquato da Silva</string>
+				<string>Av. Jaime Campos</string>
+				<string>Rua Cristiane de Souza</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>A02</string>
+		<key>nome</key>
+		<string>ALIMENTADORA NOVO PARAÍSO / TERMINAL DO CPA I (VIA BARREIRO BRANCO)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Ponto Final (Av. B – Altos da Glória)</string>
+				<string>Rua 20 - Altos da Glória</string>
+				<string>Av. Principal (Nova Canaã)</string>
+				<string>Rua Jurumirim</string>
+				<string>Av. Hélio Barbosa</string>
+				<string>Rua 9 – Três Barras</string>
+				<string>Rua 24 – Três Barras</string>
+				<string>Rua 18 – Três Barras</string>
+				<string>Av. Curió</string>
+				<string>Av. Expedicionários</string>
+				<string>Rua Gralha do Campo</string>
+				<string>Rua J</string>
+				<string>Rua Carlos Luís Mattos</string>
+				<string>Rua Ouro Preto</string>
+				<string>Av. Prof. Alice Freire</string>
+				<string>Rua Paraíba</string>
+				<string>Av. Brasil</string>
+				<string>Rua Jorn. Caramuru de C. Maciel (R.Bahia)</string>
+				<string>Terminal - CPA I</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Terminal- CPA I</string>
+				<string>Av. Pernambuco</string>
+				<string>Rua Prof. Alice Freire</string>
+				<string>Rua 59 - CPA IV - 5ª Etapa</string>
+				<string>Rua L - CPA IV</string>
+				<string>Rua H</string>
+				<string>Rua Expedicionários</string>
+				<string>Av. Curió</string>
+				<string>Rua 18</string>
+				<string>Rua 24 – Três Barras</string>
+				<string>Rua 9 – Três Barras</string>
+				<string>Av. Hélio Barbosa</string>
+				<string>Rua Jurumirim</string>
+				<string>Av. Principal (Res. Nova Canaã</string>
+				<string>Rua 20 – Umuarama</string>
+				<string>Av. B – Altos da Glória</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>A06</string>
+		<key>nome</key>
+		<string>ALIMENTADORA ALTOS DA GLÓRIA / TERMINAL CPA I (GAMALIEL)</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Rua das Dálias - Serra Dourada</string>
+				<string>Avenida das Hortências - Serra Dourada</string>
+				<string>Avenida Historiador Rubens de Mendonça</string>
+				<string>Rua Londrina - Ouro Fino</string>
+				<string>Rua São Francisco - Ouro Fino</string>
+				<string>Rua 7 de Setembro - Ouro Fino</string>
+				<string>Rua Santos - Ouro Fino</string>
+				<string>Avenida Ouro Preto - Ouro Fino</string>
+				<string>Avenida Brasil</string>
+				<string>Rua Bahia</string>
+				<string>Rua São José do Rio Preto - Terminal CPA I</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Rua São José do Rio Preto - Terminal CPA I</string>
+				<string>Rua Pernambuco</string>
+				<string>Avenida Brasil</string>
+				<string>Avenida Ouro Preto - Ouro Fino</string>
+				<string>Rua Santos</string>
+				<string>Rua Campinas</string>
+				<string>Rua São Francisco</string>
+				<string>Rua Londrina</string>
+				<string>Avenida Historiador Rubens de Mendonça</string>
+				<string>Rua D-1 - Residencial Pádova</string>
+				<string>Rua C-1 - Residencial Pádova</string>
+				<string>Rua Acesso-1 - Residencial Pádova</string>
+				<string>Rua A-1 - Residencial Pádova</string>
+				<string>Rua das Borboletas - Serra Dourada</string>
+				<string>Rua das Dálias - Serra Dourada</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>A07</string>
+		<key>nome</key>
+		<string>ALIMENTADORA TERMINAL CPA I / SERRA DOURADA (VIA RES. PÁDOVA</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Rua A (Residencial Buritis)</string>
+				<string>Rua M (Residencial Buritis)</string>
+				<string>Rua C (Residencial Jamil Nadaf)</string>
+				<string>Rua J (Residencial Jamil Nadaf)</string>
+				<string>Av. B (Residencial Buritis)</string>
+				<string>Av. B (Residencial Picolli)</string>
+				<string>Av. A (Residencial Picolli)</string>
+				<string>Av. A (Residencial Wantuil de Freitas)</string>
+				<string>Av. Auta de Souza (1° de Março)</string>
+				<string>Rua J (Nova Conquista)</string>
+				<string>Av. 3</string>
+				<string>Av. Soares de Andrade</string>
+				<string>Av. J</string>
+				<string>Av. Tuiuiú</string>
+				<string>Rua Antero Paes de Barros</string>
+				<string>Av. Brasil</string>
+				<string>Rua Jornalista Caramuru</string>
+				<string>Rua Amaro Falcão</string>
+				<string>Terminal do CPA 1</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Terminal do CPA 1</string>
+				<string>Rua Pernambuco</string>
+				<string>Av. Alice Freire</string>
+				<string>Rua 59 (CPA-4)</string>
+				<string>Rua L</string>
+				<string>Rua 63</string>
+				<string>Av. J</string>
+				<string>Av. Soares de Andrade</string>
+				<string>Rua D (1° de Março)</string>
+				<string>Rua N</string>
+				<string>Rua P</string>
+				<string>Rua Y</string>
+				<string>Rua Projetada</string>
+				<string>Av. Auta de Souza</string>
+				<string>Av. A (Residencial Wantuil de Freitas)</string>
+				<string>Rua A (Residencial Picolli)</string>
+				<string>Rua O (Residencial Picolli)</string>
+				<string>Rua A (Residencial Jonas Pinheiro)</string>
+				<string>Av. Principal (Residencial Jonas Pinheiro)</string>
+				<string>Av. Brasil (Residencial Jonas Pinheiro)</string>
+				<string>Rua G (Residencial Jonas Pinheiro)</string>
+				<string>Rua A (Residencial Jonas Pinheiro)</string>
+				<string>Rua O (Residencial Picolli)</string>
+				<string>Rua A (Residencial Picolli)</string>
+				<string>Rua L (Residencial Picolli)</string>
+				<string>Av. B (Residencial Picolli)</string>
+				<string>Av. B (Residencial Buritis)</string>
+				<string>Rua R (Residencial Buritis)</string>
+				<string>Rua A (Residencial Buritis)</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>A08</string>
+		<key>nome</key>
+		<string>ALIMENTADORA TERMINAL CPA I / RESIDENCIAL PICOLLI (VIA WANTUIL DE FREITAS</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Itinerário em Dias Úteis)IDA - Dia útil</string>
+				<string>Centro de Ressocialização do Carumbé</string>
+				<string>Av. Gonçalo de Barros (Av. Jurumirim)</string>
+				<string>Rua P</string>
+				<string>Rua Floriano Peixoto</string>
+				<string>Rua das Rosas</string>
+				<string>Rua 57</string>
+				<string>Alameda 06- CPA III</string>
+				<string>Rua 61</string>
+				<string>Instituto dos Cegos</string>
+				<string>Rua 48</string>
+				<string>Alameda 06- CPA III</string>
+				<string>Av. Dr.° Ulisses Guimarães</string>
+				<string>Alameda 8- CPA III</string>
+				<string>Rua 83</string>
+				<string>Rua Prof. Alice Freire</string>
+				<string>Rua Tangará da Serra</string>
+				<string>Av. Brasil (Benjamim Pedroso da Silva)</string>
+				<string>Rua Jorn. Caramuru de Campos Maciel (Rua Bahia)</string>
+				<string>Rua São José do Rio Preto</string>
+				<string>Terminal - CPA I</string>
+				<string>IDA - Dia útil</string>
+				<string>Alameda 06- CPA III</string>
+				<string>Av. Dr.° Ulisses Guimarães</string>
+				<string>Alameda 8- CPA III</string>
+				<string>Rua 83</string>
+				<string>Rua Prof. Alice Freire</string>
+				<string>Rua Tangará da Serra</string>
+				<string>Av. Brasil (Benjamim Pedroso da Silva)</string>
+				<string>Rua Jorn. Caramuru de Campos Maciel (Rua Bahia)</string>
+				<string>Rua São José do Rio Preto</string>
+				<string>Terminal - CPA I (Itinerário em Finais de Semana e Feriados)IDA</string>
+				<string>Alameda 06- CPA III</string>
+				<string>Rua 61</string>
+				<string>Instituto dos Cegos</string>
+				<string>Rua 48</string>
+				<string>Alameda 06- CPA III</string>
+				<string>Av. Dr.° Ulisses Guimarães</string>
+				<string>Alameda 8- CPA III</string>
+				<string>Rua 83</string>
+				<string>Rua Prof. Alice Freire</string>
+				<string>Rua Tangará da Serra</string>
+				<string>Av. Brasil (Benjamim Pedroso da Silva)</string>
+				<string>Rua Jorn. Caramuru de Campos Maciel (Rua Bahia)</string>
+				<string>Rua São José do Rio Preto</string>
+				<string>Terminal - CPA I</string>
+				<string>Alameda 06- CPA III</string>
+				<string>Rua 61</string>
+				<string>Instituto dos Cegos</string>
+				<string>Rua 48</string>
+				<string>Alameda 06- CPA III</string>
+				<string>Av. Dr.° Ulisses Guimarães</string>
+				<string>Alameda 8- CPA III</string>
+				<string>Rua 83</string>
+				<string>Rua Prof. Alice Freire</string>
+				<string>Rua Tangará da Serra</string>
+				<string>Av. Brasil (Benjamim Pedroso da Silva)</string>
+				<string>Rua Jorn. Caramuru de Campos Maciel (Rua Bahia)</string>
+				<string>Rua São José do Rio Preto</string>
+				<string>Terminal - CPA I</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Itinerário em Dias Úteis)VOLTA - Dia útil</string>
+				<string>Terminal- CPA I</string>
+				<string>Rua Pernambuco</string>
+				<string>Rua Prof. Alice Freire</string>
+				<string>Alameda 8- CPA III</string>
+				<string>Av. Dr° Ulisses Guimarães</string>
+				<string>Alameda 06- CPA III</string>
+				<string>Rua 56</string>
+				<string>Alameda 6- CPA III</string>
+				<string>Rua das Rosas</string>
+				<string>Rua Floriano Peixoto</string>
+				<string>Rua P</string>
+				<string>R. Gonçalo de Barros (Av. Jurumirim)</string>
+				<string>Centro de Ressocialização do Carumbé</string>
+				<string>VOLTA - Dia útil</string>
+				<string>Terminal- CPA I</string>
+				<string>Rua Pernambuco</string>
+				<string>Rua Prof. Alice Freire</string>
+				<string>Alameda 8- CPA III</string>
+				<string>Av. Dr° Ulisses Guimarães</string>
+				<string>Alameda 06- CPA III</string>
+				<string>Rua 56</string>
+				<string>Alameda 6- CPA III(Itinerário em Finais de Semana e Feriados)VOLTA</string>
+				<string>Terminal- CPA I</string>
+				<string>Rua Pernambuco</string>
+				<string>Rua Prof. Alice Freire</string>
+				<string>Alameda 8- CPA III</string>
+				<string>Av. Dr° Ulisses Guimarães</string>
+				<string>Alameda 06- CPA III</string>
+				<string>Rua 56</string>
+				<string>Alameda 6- CPA III</string>
+				<string>Terminal- CPA I</string>
+				<string>Rua Pernambuco</string>
+				<string>Rua Prof. Alice Freire</string>
+				<string>Alameda 8- CPA III</string>
+				<string>Av. Dr° Ulisses Guimarães</string>
+				<string>Alameda 06- CPA III</string>
+				<string>Rua 56</string>
+				<string>Alameda 6- CPA III </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>A10</string>
+		<key>nome</key>
+		<string>ALIMENTADORA SETOR 3 E 4 / TERMINAL CPA I</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Terminal- CPA III</string>
+				<string>Av. dos Trabalhadores</string>
+				<string>Av. Coxipó Mirim</string>
+				<string>Rua Antônio Batista</string>
+				<string>Rua Várzea Grande</string>
+				<string>Av. Wilson Santos</string>
+				<string>Rua dos Trabalhadores</string>
+				<string>Rua S/N</string>
+				<string>Rua do Flamengo</string>
+				<string>Rua Bahia</string>
+				<string>Rua Brasil</string>
+				<string>Av. Milton Figueiredo</string>
+				<string>Rua Porto Alegre</string>
+				<string>Av. Várzea Grande</string>
+				<string>Terminal- CPA III</string>
+				<string>Av. dos Trabalhadores</string>
+				<string>Av. Coxipó Mirim</string>
+				<string>Rua Rondonópolis</string>
+				<string>Rua Sapezal</string>
+				<string>Av. Airton Senna</string>
+				<string>Rua Matupá</string>
+				<string>Rua Paraná</string>
+				<string>Rua Várzea Grande</string>
+				<string>Av. Wilson Santos</string>
+				<string>Rua dos Trabalhadores</string>
+				<string>Rua S/N</string>
+				<string>Rua do Flamengo</string>
+				<string>Rua Bahia</string>
+				<string>Rua Brasil</string>
+				<string>Av. Milton Figueiredo</string>
+				<string>Rua Porto Alegre</string>
+				<string>Av. Várzea Grande</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Rua Várzea Grande</string>
+				<string>Rua Paraná</string>
+				<string>Rua Matupá</string>
+				<string>Rua Ayrton Senna</string>
+				<string>Rua Sapezal</string>
+				<string>Rua Rondonópolis</string>
+				<string>Av. Coxipó Mirim</string>
+				<string>Av. dos Trabalhadores</string>
+				<string>Terminal- CPA III</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>A14</string>
+		<key>nome</key>
+		<string>DR. FÁBIO / TERMINAL CPA III</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Terminal- CPA III</string>
+				<string>Rua 08 - CPA III</string>
+				<string>Av. dos Trabalhadores</string>
+				<string>Av. Amazonas</string>
+				<string>Ponte Novo Horizonte</string>
+				<string>Av. Governador Valadares</string>
+				<string>Rua Guanabara</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Rua Guanabara</string>
+				<string>Rua 53</string>
+				<string>Rua Matupá</string>
+				<string>Rua Ayrton Senna</string>
+				<string>Rua Sapezal</string>
+				<string>Rua 27</string>
+				<string>Ponte Novo Horizonte</string>
+				<string>Av. Amazonas</string>
+				<string>Av. dos Trabalhadores</string>
+				<string>Rua 08</string>
+				<string>Terminal- CPA III</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>A15</string>
+		<key>nome</key>
+		<string>ALTOS DA SERRA / TERMINAL CPA III</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Terminal Antártica</string>
+				<string>Estrada Velha da Guia</string>
+				<string>Av. Mangueiral</string>
+				<string>Rua das Flores</string>
+				<string>Rua São Benedito</string>
+				<string>Av. Mangueiral</string>
+				<string>Estrada Velha da Guia</string>
+				<string>Bandeira</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Bandeira</string>
+				<string>Estrada Velha da Guia</string>
+				<string>Av. Mangueiral</string>
+				<string>Rua São Benedito</string>
+				<string>Rua das Flores</string>
+				<string>Av. Mangueiral</string>
+				<string>Estrada Velha da Guia</string>
+				<string>Terminal da Antártica</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>A22</string>
+		<key>nome</key>
+		<string>ALIMENTADORA SUCURI / CENTRO</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Avenida E (Ponto Final)- Nova Esperança</string>
+				<string>Rua 29- Nova Esperança</string>
+				<string>Avenida A- Nova Esperança</string>
+				<string>Rua 30- Nova Esperança</string>
+				<string>Avenida Pequizeiro- Nova Esperança</string>
+				<string>Rodovia Palmiro Paes de Barros</string>
+				<string>Avenida Salim Felício- Rel Parque</string>
+				<string>Avenida 02- Real Parque</string>
+				<string>Rua 01- Real Parque</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Rua 01- Real Parque</string>
+				<string>Avenida 02- Real Parque</string>
+				<string>Avenida Salim Felício- Real Parque</string>
+				<string>Rodovia Palmiro Paes de Barros</string>
+				<string>Avenida A- Nova Esperança</string>
+				<string>Rua 29- Nova Esperança</string>
+				<string>Avenida E (Ponto Final)- Nova Esperança </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>A40</string>
+		<key>nome</key>
+		<string>NOVA ESPERANÇA / PARQUE CUIABÁ</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Rua X (AEDIC)</string>
+				<string>Rua N</string>
+				<string>Rua Y</string>
+				<string>Rua O</string>
+				<string>Rua Z</string>
+				<string>Rodovia BR-364</string>
+				<string>Posto Senna (BR-364)</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Posto Senna (BR-364)</string>
+				<string>Rodovia BR-364</string>
+				<string>Rua Z</string>
+				<string>Rua O</string>
+				<string>Rua Y</string>
+				<string>Rua N</string>
+				<string>Rua X (AEDIC)</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>A65</string>
+		<key>nome</key>
+		<string>ALIMENTADORA DISTRITO INDUSTRIAL / BR 364</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Rua Ponto Final do Pedra 90</string>
+				<string>Rua Sem Nome</string>
+				<string>Linhão CEMAT</string>
+				<string>Rua 12</string>
+				<string>Rua 05</string>
+				<string>Rua 04</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Rua 04</string>
+				<string>Linha 07</string>
+				<string>Linha 06</string>
+				<string>Linha 05</string>
+				<string>Rua Rio dos Peixes (Vista da Chapada)</string>
+				<string>Rua Véu das Noivas</string>
+				<string>Travessa Centro Geodésico</string>
+				<string>Rua J- Voluntários</string>
+				<string>Rua 15- Pedra 90</string>
+				<string>Av. Integração III</string>
+				<string>Rua 07- Pedra 90</string>
+				<string>Av. Newton Castro</string>
+				<string>Av. U</string>
+				<string>Rua 50</string>
+				<string>Rua Jandaia</string>
+				<string>Ponto Final do Pedra 90 </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>A67</string>
+		<key>nome</key>
+		<string>PEDRA 90 / CINTURÃO VERDE</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Rua X (AEDIC)</string>
+				<string>Rua N</string>
+				<string>Rua V</string>
+				<string>Rua O</string>
+				<string>Rodovia dos Imigrantes</string>
+				<string>Posto Locatelli (Km 05)</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Posto Locatelli (Km 05)</string>
+				<string>Rodovia dos Imigrantes</string>
+				<string>Rua O</string>
+				<string>Rua V</string>
+				<string>Rua N</string>
+				<string>Rua X (AEDIC)</string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>A69</string>
+		<key>nome</key>
+		<string>ALIMENTADORA DISTRITO INDUSTRIAL / RODOVIA DOS IMIGRANTES</string>
+	</dict>
+	<dict>
+		<key>itinerario</key>
+		<dict>
+			<key>ida</key>
+			<array>
+				<string>Terminal CPA III</string>
+				<string>Avenida Ulisses Guimarães</string>
+				<string>Avenida Djalma Ferreira de Souza</string>
+				<string>Av. Dr. Vicente Emílio Vuolo</string>
+				<string>Avenida Hist. Rubens de Mendonça</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Dom Bosco</string>
+			</array>
+			<key>volta</key>
+			<array>
+				<string>Av. Dom Bosco</string>
+				<string>Rua Joaquim Murtinho</string>
+				<string>Av. Generoso Ponce</string>
+				<string>Av. Ten. Cel. Duarte</string>
+				<string>Av. Hist. Rubens de Mendonça</string>
+				<string>Av. Djalma Ferreira de Souza</string>
+				<string>Av. Dr. Vicente Emílio Vuolo</string>
+				<string>Av. Ulisses Guimaraes</string>
+				<string>Terminal CPA III </string>
+			</array>
+		</dict>
+		<key>linha</key>
+		<string>E01</string>
+		<key>nome</key>
+		<string>EXPRESSO TERMINAL CPA III / CENTRO</string>
+	</dict>
+</array>
+</plist>

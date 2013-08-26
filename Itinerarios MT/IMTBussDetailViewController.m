@@ -6,22 +6,21 @@
 //  Copyright (c) 2013 Agiratec. All rights reserved.
 //
 
-#import "IMTDetailViewController.h"
+#import "IMTBussDetailViewController.h"
 
-@interface IMTDetailViewController ()
+@interface IMTBussDetailViewController ()
 @property (strong, nonatomic) UIPopoverController *masterPopoverController;
 - (void)configureView;
 @end
 
-@implementation IMTDetailViewController
+@implementation IMTBussDetailViewController
 
 #pragma mark - Managing the detail item
 
-- (void)setDetailItem:(id)newDetailItem
+- (void)setBuss:(id)newBuss
 {
-    if (_detailItem != newDetailItem) {
-        _detailItem = newDetailItem;
-        
+    if (_buss != newBuss) {
+        _buss = newBuss;
         // Update the view.
         [self configureView];
     }
@@ -34,17 +33,56 @@
 - (void)configureView
 {
     // Update the user interface for the detail item.
-
-    if (self.detailItem) {
-        self.detailDescriptionLabel.text = [self.detailItem description];
+    if (self.buss) {
+        [self.tblItinerary reloadData];
     }
 }
 
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
     [self configureView];
+}
+
+#pragma mark - Table View
+
+- (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView
+{
+    return 1;
+}
+
+-(NSString *)tableView:(UITableView *)tableView titleForHeaderInSection:(NSInteger)section{
+    return self.buss.name;
+}
+- (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
+{
+    if(self.smcItineraryType.selectedSegmentIndex == 0){
+        return self.buss.tripItinerary.count;
+    }else{
+        return self.buss.returnItinerary.count;
+    }
+}
+
+- (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
+{
+    UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"Cell" forIndexPath:indexPath];
+    
+    if(cell == nil){
+        cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleSubtitle reuseIdentifier:@"Cell"];
+    }
+    NSString *path = @"";
+    if(self.smcItineraryType.selectedSegmentIndex == 0){
+        path = self.buss.tripItinerary[indexPath.row];
+    }else{
+        path = self.buss.returnItinerary[indexPath.row];
+    }
+    cell.textLabel.text = path;
+    
+    return cell;
+}
+
+- (IBAction)smcItineraryValueChanged:(UISegmentedControl *)sender {
+    [self.tblItinerary reloadData];
 }
 
 - (void)didReceiveMemoryWarning
@@ -68,5 +106,6 @@
     [self.navigationItem setLeftBarButtonItem:nil animated:YES];
     self.masterPopoverController = nil;
 }
+
 
 @end
