@@ -1,0 +1,5048 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>address</key>
+		<string>RUA AYRTON SENNA, nº 03 - Bairro: DOUTOR FABIO LEITE - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>A P MERCADO ALIMENTÍCIO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA UIRAPURU, nº 13 - Bairro: PARQUE DO LAGO - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.665355</string>
+			<key>lon</key>
+			<string>-56.093868</string>
+		</dict>
+		<key>name</key>
+		<string>ABC SUPERMERCADO (VENDA FIXA)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA UM, nº 22 - Bairro: NOVA ESPERANÇA - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.607333</string>
+			<key>lon</key>
+			<string>-56.178411</string>
+		</dict>
+		<key>name</key>
+		<string>ABELHA DISTRIBUIDORA DE AGUA E GAS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA ALBANO MARTINS, nº 302 - Bairro: UBIRAJARA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>AÇOUQUE E MERCEARIA VITÓRIA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA TAUBATÉ, nº 95 - Bairro: NOVO TERCEIRO - /</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.551875</string>
+			<key>lon</key>
+			<string>-56.049392</string>
+		</dict>
+		<key>name</key>
+		<string>AGRO NOVA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. BRASIL, nº 1845 - Bairro: CPA ll - /</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.565532</string>
+			<key>lon</key>
+			<string>-56.053265</string>
+		</dict>
+		<key>name</key>
+		<string>ÁGUA DOCE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA COUTO MAGALHÃES (EM FRENTE AO BRADESCO ), nº 222 - Bairro: CENTRO  - /MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>ALCINA CARTÕES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA BENJAMIM PEDROSO DA SILVA, nº 963 - Bairro: CPA ll - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>ALECRIM RESTAURANTES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA ALEMANHA, nº S/N - Bairro: NOVA ERA - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>ALLAN DISTRIBUIDORA E MERCEARIA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA DEPUTADO MILTON TEIXEIRA DE FIGUEIREDO, nº 642 - Bairro: SETOR NORTE - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>AMORAH SORVETES E CAFÉ</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA NOVE, nº 16 - Bairro: JARDIM MARAJOARA - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>AMORENINHA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA BOM JARDIM, nº 26 - Bairro: NOVO MATO GROSSO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.578087</string>
+			<key>lon</key>
+			<string>-56.037575</string>
+		</dict>
+		<key>name</key>
+		<string>ANDRESSA CONFECCOES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA GENERAL CAMISÃO, nº 46 - Bairro: DOM AQUINO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.615225</string>
+			<key>lon</key>
+			<string>-56.09072</string>
+		</dict>
+		<key>name</key>
+		<string>ANGELA CENTRO DE BELEZA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA AYRTON SENNA, nº 3 - Bairro: DOUTOR FÁBIO LEITE - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>AP MERCADO ALIMENTICIO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. CORONEL ESCOLÁSTICO, nº 741 - Bairro: BANDEIRANTES - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.600103</string>
+			<key>lon</key>
+			<string>-56.088761</string>
+		</dict>
+		<key>name</key>
+		<string>APS COMPANY</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA  VINTE E SEIS, nº 91 - Bairro: RESIDENCIAL COXIPÓ - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.649207</string>
+			<key>lon</key>
+			<string>-56.031222</string>
+		</dict>
+		<key>name</key>
+		<string>AQUARELA PRESENTES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. TENENTE CORONEL DUARTE, nº 1961 - Bairro: DOM AQUINO - /</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.608207</string>
+			<key>lon</key>
+			<string>-56.099224</string>
+		</dict>
+		<key>name</key>
+		<string>ARMAZÉM COMÉRCIO DE UTILIDADES D L EPP</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA JULIÃO DE BRITO, nº 445 - Bairro: JARDIM MARINGÁ - /MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.666321</string>
+			<key>lon</key>
+			<string>-56.091037</string>
+		</dict>
+		<key>name</key>
+		<string>ARMAZÉM GERAL (VENDA FIXA)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rodovia Emanoel Pinheiro, nº S/N - Bairro: RODOVIÁRIA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>ATACADÃO (PONTO VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA QUATRO, nº 555 - Bairro: SANTA RITA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.588309</string>
+			<key>lon</key>
+			<string>-56.036301</string>
+		</dict>
+		<key>name</key>
+		<string>ATESCO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA JOAQUIM MURTINHO, nº S/N - Bairro: CENTRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.594061</string>
+			<key>lon</key>
+			<string>-56.100577</string>
+		</dict>
+		<key>name</key>
+		<string>ATRÁS DA IGREJA MATRIZ (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV MIGUEL SUTIL, nº 11615 - Bairro: COOPHAMIL - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.623437</string>
+			<key>lon</key>
+			<string>-56.117264</string>
+		</dict>
+		<key>name</key>
+		<string>AUTO POSTO ANAPOLINA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>(PROMOTOR DE VENDA), nº S/N - Bairro: ITAPAJÉ - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>BAIRRO ITAPAJÉ (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>(PROMOTOR DE VENDA), nº S/N - Bairro: OSMAR CABRAL - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.606835</string>
+			<key>lon</key>
+			<string>-55.992851</string>
+		</dict>
+		<key>name</key>
+		<string>BAIRRO OSMAR CABRAL (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>(PROMOTOR DE VENDA), nº S/N - Bairro: PEDRA 90 - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.631532</string>
+			<key>lon</key>
+			<string>-55.952565</string>
+		</dict>
+		<key>name</key>
+		<string>BAIRRO PEDRA 90 (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>(PROMOTOR DE VENDA), nº S/N - Bairro: SANTA LAURA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.624194</string>
+			<key>lon</key>
+			<string>-55.983238</string>
+		</dict>
+		<key>name</key>
+		<string>BAIRRO SANTA LAURA (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA VINTE E UM, nº 923 - Bairro: JARDIM FLORIANÓPOLIS - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.553908</string>
+			<key>lon</key>
+			<string>-56.08438</string>
+		</dict>
+		<key>name</key>
+		<string>BAIXINHO RAÇÕES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA GENEROSO PONCE (EM FRENTE AO MERCADO MUNICIPAL), nº 458 - Bairro: CENTRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>BANCA CARVALHO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV GENEROSO PONCE, nº 458 - Bairro: CENTRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.59859</string>
+			<key>lon</key>
+			<string>-56.098674</string>
+		</dict>
+		<key>name</key>
+		<string>BANCA CARVALHO (EM FRENTE MERCADO MUNICIPAL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA TUFIK AFIF, nº 560 - Bairro: CENTRO SUL - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.613846</string>
+			<key>lon</key>
+			<string>-56.103005</string>
+		</dict>
+		<key>name</key>
+		<string>BANCA MATO GROSSO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA SENADOR FILINTO MULLER, nº 1041 - Bairro: QUILOMBO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.613846</string>
+			<key>lon</key>
+			<string>-56.103005</string>
+		</dict>
+		<key>name</key>
+		<string>BANCA OLIVEIRA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA CORONEL PEIXOTO, nº 29 - Bairro: CENTRO SUL - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.602902</string>
+			<key>lon</key>
+			<string>-56.101672</string>
+		</dict>
+		<key>name</key>
+		<string>BANCA PINHEIRO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA ENGENHEIRO RICARDO FRANCO, nº 9 - Bairro: CENTRO NORTE - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.594298</string>
+			<key>lon</key>
+			<string>-56.096094</string>
+		</dict>
+		<key>name</key>
+		<string>BANCA RACHID JAUDY</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA D, nº 1 - Bairro: RESIDENCIA PAIAGUÁS - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.562831</string>
+			<key>lon</key>
+			<string>-56.083596</string>
+		</dict>
+		<key>name</key>
+		<string>BANCA RESIDENCIAL PAIAGUÁS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA MINISTRO FERNANDO COSTA, nº 26 - Bairro: AREÃO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.60001</string>
+			<key>lon</key>
+			<string>-56.080049</string>
+		</dict>
+		<key>name</key>
+		<string>BAR ARISTIDES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV TEN CEL DUARTE, nº . - Bairro: PRAINHA  - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>BAR DA FLÁVIA </string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV NEWTON RABELO DE CASTRO, nº 24 - Bairro: PEDRA 90 - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.62674</string>
+			<key>lon</key>
+			<string>-55.958834</string>
+		</dict>
+		<key>name</key>
+		<string>BAR DO BIMAEL</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA JORNALISTA ALVES DE OLIVEIRA, nº 321 - Bairro: CIDADE ALTA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.610299</string>
+			<key>lon</key>
+			<string>-56.122609</string>
+		</dict>
+		<key>name</key>
+		<string>BAR E LANCHONETE SÃO JORGE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA S QUADRA 37, nº 28 - Bairro: NOVA ESPERANÇA 1 - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.682376</string>
+			<key>lon</key>
+			<string>-55.952565</string>
+		</dict>
+		<key>name</key>
+		<string>BAR E MERCEARIA MARTINS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA JORNALISTA ROBERTO JACQUES BRUNINI, nº 1 - Bairro: JARDIM EUROPA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>BAZAR &amp; PAPELARIA PROGRESSO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA MARECHAL DEODORO, nº 186 - Bairro: CENTRO NORTE - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.592769</string>
+			<key>lon</key>
+			<string>-56.099617</string>
+		</dict>
+		<key>name</key>
+		<string>BAZAR BARROS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV NEWTON RABELO DE CASTRO, nº 24 - Bairro: PEDRA 90 - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.62674</string>
+			<key>lon</key>
+			<string>-55.958834</string>
+		</dict>
+		<key>name</key>
+		<string>BELATIVA COSMÉTICOS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA 15 DE NOVEMBRO, nº 1054 - Bairro: PORTO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.610029</string>
+			<key>lon</key>
+			<string>-56.102623</string>
+		</dict>
+		<key>name</key>
+		<string>BIJOUTERIA 15</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV 15 DE NOVEMBRO, nº 1054 - Bairro: PORTO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.614584</string>
+			<key>lon</key>
+			<string>-56.104679</string>
+		</dict>
+		<key>name</key>
+		<string>BIJOUTERIA 15</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA ALMA DE GATO, nº 1 - Bairro: CPA IV - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.560125</string>
+			<key>lon</key>
+			<string>-56.041593</string>
+		</dict>
+		<key>name</key>
+		<string>BRECHÓ PEDACINHO DO CÉU</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA TENENTE THOGO DA SILVA PEREIRA, nº 75 - Bairro: CENTRO SUL - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.602902</string>
+			<key>lon</key>
+			<string>-56.101672</string>
+		</dict>
+		<key>name</key>
+		<string>BRUNA BRECHO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. TUIUIÚ (PROMOTOR DE VENDA), nº S/N - Bairro: CPA IV - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.564148</string>
+			<key>lon</key>
+			<string>-56.035958</string>
+		</dict>
+		<key>name</key>
+		<string>CAIXA D&#39;ÁGUA CPA IV (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV TENENTE CORONEL DUARTE, nº 1815B - Bairro: DOM AQUINO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.607037</string>
+			<key>lon</key>
+			<string>-56.098625</string>
+		</dict>
+		<key>name</key>
+		<string>CALIFORNIA RESTAURANTE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA MARCILIO DIAS, nº 5 - Bairro: JARDIM PAULA II - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.662439</string>
+			<key>lon</key>
+			<string>-56.150553</string>
+		</dict>
+		<key>name</key>
+		<string>CANELAO MATERIAIS PARA CONSTRUCAO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA BARÃO DE MELGAÇO, nº 222 - Bairro: PORTO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.617767</string>
+			<key>lon</key>
+			<string>-56.118633</string>
+		</dict>
+		<key>name</key>
+		<string>CANTINA UNIC BARÃO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA DEDSON LUIZ DA SILVA, nº SET01 - Bairro: TIJUCA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.634277</string>
+			<key>lon</key>
+			<string>-56.021782</string>
+		</dict>
+		<key>name</key>
+		<string>CANTO A PAPELARIA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA MIGUEL SUTIL, nº 9981 - Bairro: SANTA ROSA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.587456</string>
+			<key>lon</key>
+			<string>-56.122595</string>
+		</dict>
+		<key>name</key>
+		<string>CASA DA SERIGRAFIA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA TENENTE-CORONEL DUARTE, nº 845 - Bairro: DOM AQUINO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.62717</string>
+			<key>lon</key>
+			<string>-56.080828</string>
+		</dict>
+		<key>name</key>
+		<string>CASA DAS VACINAS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA MATO GROSSO, nº 25 - Bairro: MAPIM - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.636522</string>
+			<key>lon</key>
+			<string>-56.173702</string>
+		</dict>
+		<key>name</key>
+		<string>CASA DE CARNE BOI BRANCO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA PETROVINA, nº 263 - Bairro: PLANALTO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.582164</string>
+			<key>lon</key>
+			<string>-56.03681</string>
+		</dict>
+		<key>name</key>
+		<string>CASA DE CARNE BOM GOSTO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA JORNALISTA ALVES DE OLIVEIRA , nº 179 - Bairro: CIDADE ALTA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.610478</string>
+			<key>lon</key>
+			<string>-56.121906</string>
+		</dict>
+		<key>name</key>
+		<string>CASA DE CARNE SÃO PEDRO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV ESPIGÃO, nº 36 - Bairro: TIJUCAL - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.634419</string>
+			<key>lon</key>
+			<string>-56.021498</string>
+		</dict>
+		<key>name</key>
+		<string>CASA DE CARNE SKINÃO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA MATO GROSSO, nº 25 - Bairro: MAPIM - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.682213</string>
+			<key>lon</key>
+			<string>-55.952682</string>
+		</dict>
+		<key>name</key>
+		<string>CASA DE CARNES BOI BRANCO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA LEÔNCIO LOPES DE MIRANDA, nº 415 - Bairro: RESIDENCIAL DEPUTADO - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>CASA DO GELO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA MANOEL FERREIRA DE MENDONÇA (PROMOTOR DE VENDA), nº S/N - Bairro: BANDEIRANTES - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.598634</string>
+			<key>lon</key>
+			<string>-56.092212</string>
+		</dict>
+		<key>name</key>
+		<string>CEMAT (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>(PROMOTOR DE VENDA), nº S/N - Bairro: PRIMEIRO DE MARÇO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.558883</string>
+			<key>lon</key>
+			<string>-56.049113</string>
+		</dict>
+		<key>name</key>
+		<string>CENTRO COMUNITÁRIO (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>(PROMOTOR DE VENDA), nº S/N - Bairro: CIDADE ALTA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.607827</string>
+			<key>lon</key>
+			<string>-56.122627</string>
+		</dict>
+		<key>name</key>
+		<string>CENTRO DE SAÚDE (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA BENEDITO MONTEIRO, nº 445 - Bairro: CENTRO - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.644425</string>
+			<key>lon</key>
+			<string>-56.128175</string>
+		</dict>
+		<key>name</key>
+		<string>CENTRO OESTE CLIMATIZACAO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>R. CÂNDIDO MARIANO, nº 226 - Bairro: CENTRO NORTE - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.596526</string>
+			<key>lon</key>
+			<string>-56.095518</string>
+		</dict>
+		<key>name</key>
+		<string>CERVEJARIA CRYSTAL</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV 15 DE NOVEMBRO, nº 576 - Bairro: PORTO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.610405</string>
+			<key>lon</key>
+			<string>-56.102865</string>
+		</dict>
+		<key>name</key>
+		<string>CHAVEIRO BRASIL</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA A, nº 100 - Bairro: MAPIM - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>CHICA LOUCA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA FERNANDO CORREA DA COSTA (EM FRENTE A UFMT), nº   - Bairro: BOA ESPERANÇA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>CHICO LANCHES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA SENADOR METELO, nº 1009 - Bairro: VISTA ALEGRE - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.635372</string>
+			<key>lon</key>
+			<string>-56.050782</string>
+		</dict>
+		<key>name</key>
+		<string>CHILLER AR CONDICIONADO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA ÍRIS SIQUEIRA, nº 12 - Bairro: JARDIM UNIÃO - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>CICLO UNIBIKE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA BARÃO DE DIAMANTINO, nº 15 - Bairro: JARDIM ITORORÓ - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>CINTHIA PRESENTES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. TENENTE CORONEL DUARTE (PROMOTOR DE VENDA), nº S/N - Bairro: CENTRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.603525</string>
+			<key>lon</key>
+			<string>-56.098546</string>
+		</dict>
+		<key>name</key>
+		<string>CITY LAR (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA COMANDANTE BALDUINO, nº 158 - Bairro: PORTO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.614135</string>
+			<key>lon</key>
+			<string>-56.108303</string>
+		</dict>
+		<key>name</key>
+		<string>CLA EMBALAGENS (VENDA FIXA)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA JULIÃO DE BRITO, nº 3251 - Bairro: JARDIM MARINGÁ - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.666321</string>
+			<key>lon</key>
+			<string>-56.091037</string>
+		</dict>
+		<key>name</key>
+		<string>CLA EMBALAGENS (VENDA FIXA)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA FREI COIMBRA, nº 8 - Bairro: NOVA VÁRZEA GRANDE - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>CLEIA MODA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA MARTINS AFONSO, nº 09 - Bairro: MAPIM - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.633401</string>
+			<key>lon</key>
+			<string>-56.167917</string>
+		</dict>
+		<key>name</key>
+		<string>CLIQUE INFORMÁTICA &amp; PAPELARIA </string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. COMANDANTE COSTA (PROMOTOR DE VENDA), nº S/N - Bairro: CENTRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.607827</string>
+			<key>lon</key>
+			<string>-56.122627</string>
+		</dict>
+		<key>name</key>
+		<string>COLÉGIO CORAÇÃO DE JESUS (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. HISTORIADOR RUBENS DE MENDONÇA (PROMOTOR DE VENDAS), nº S/N - Bairro: CPA I - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.551612</string>
+			<key>lon</key>
+			<string>-56.055355</string>
+		</dict>
+		<key>name</key>
+		<string>COMANDO GERAL (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA EDUARDO GOMES, nº 930 - Bairro: AGUA LIMPA - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.644445</string>
+			<key>lon</key>
+			<string>-56.128163</string>
+		</dict>
+		<key>name</key>
+		<string>COMERCIAL COSTA VERDE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA BARÃO DE AGUAPEI, nº 01 - Bairro: JARDIM ITORORÓ - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>COMERCIAL DISQUE BIG</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Avenida A, (esquina com Rua 5), nº S/N - Bairro: Jardim Fortaleza - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.61651</string>
+			<key>lon</key>
+			<string>-55.990168</string>
+		</dict>
+		<key>name</key>
+		<string>COMERCIAL MINEIRO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA DAS PALMEIRAS, nº 42 - Bairro: JARDIM IMPERIAL - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.608727</string>
+			<key>lon</key>
+			<string>-56.02765</string>
+		</dict>
+		<key>name</key>
+		<string>COMERCIAL PALMEIRA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA A, nº 214 - Bairro: COHAB PRIMAVERA - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>COMERCIAL POPULAR</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA A, nº 15 - Bairro: RESIDENCIAL PAIAGUÁS - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.565043</string>
+			<key>lon</key>
+			<string>-56.082374</string>
+		</dict>
+		<key>name</key>
+		<string>COMERCIAL TUIUIU</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>ROD. HELDER CANDIA (PROMOTOR DE VENDA), nº S/N - Bairro:   - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.547906</string>
+			<key>lon</key>
+			<string>-56.098251</string>
+		</dict>
+		<key>name</key>
+		<string>COND. FLOR DO CERRADO (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>BR 364 (PROMOTOR DE VENDA), nº S/N - Bairro: SÃO FRANCISCO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.64296</string>
+			<key>lon</key>
+			<string>-56.017129</string>
+		</dict>
+		<key>name</key>
+		<string>COND. MORADA DO FAVAL (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA ALMIRANTE BARROSO, nº 502 - Bairro: CENTRO SUL - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.598917</string>
+			<key>lon</key>
+			<string>-56.094894</string>
+		</dict>
+		<key>name</key>
+		<string>CONFECÇÕES E UNIFORMES (VENDA FIXA)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA VILHENA, nº 13 - Bairro: PARQUE DO LAGO - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>CONSTRUFORT</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA FERNANDO CORREA DA COSTA, nº 5300 - Bairro: JARDIM ALENCASTRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.615281</string>
+			<key>lon</key>
+			<string>-56.073034</string>
+		</dict>
+		<key>name</key>
+		<string>CONVENIENCIA FARMED</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV IPIRANGA, nº 1485 - Bairro: PORTO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>CONVENIÊNCIAS 2014</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA TRINTA E QUATRO, nº 31 - Bairro: CPA III - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>CPC EMBALAGENS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA F-6, nº 14 - Bairro: JARDIM FORTALEZA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>CRAVO E CANELA CONFECÇÕES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. FERNANDO CORRÊA DA COSTA (PROMOTOR DE VENDA), nº S/N - Bairro: PARQUE OHARA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.63665</string>
+			<key>lon</key>
+			<string>-56.043132</string>
+		</dict>
+		<key>name</key>
+		<string>CUIABÁ DIESEL (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. FERNANDO CORRÊA DA COSTA (PROMOTOR DE VENDA), nº S/N - Bairro: VISTA ALEGRE - /MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.64835</string>
+			<key>lon</key>
+			<string>-56.050744</string>
+		</dict>
+		<key>name</key>
+		<string>DANIEL PEÇAS (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA 24 DE MAIO (EM FRENTE AO BANCO DO BRASIL COUTO MAGALHÃES), nº 63 - Bairro: CENTRO - /MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>DELTA MOTOS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA FERNANDO CORREA DA COSTA, nº 4469 - Bairro: JARDIM ALENCASTRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.661222</string>
+			<key>lon</key>
+			<string>-56.064005</string>
+		</dict>
+		<key>name</key>
+		<string>DIGORESTE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. FILINTO MULLER, nº 280 - Bairro: CENTRO - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.651517</string>
+			<key>lon</key>
+			<string>-56.123972</string>
+		</dict>
+		<key>name</key>
+		<string>DISK TUDO GÁS E ÁGUA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. FERNANDO CORRÊA DA COSTA (PROMOTOR DE VENDA), nº S/N - Bairro: BOA ESPERANÇA - /MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.617755</string>
+			<key>lon</key>
+			<string>-56.069046</string>
+		</dict>
+		<key>name</key>
+		<string>DISMAFE (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA TRES, nº 6 - Bairro: JARDIM INDUSTRIARIO  - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.609487</string>
+			<key>lon</key>
+			<string>-56.02253</string>
+		</dict>
+		<key>name</key>
+		<string>DISTRIBUIDORA 24 HORAS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA SINFRONIO DE CARVALHO, nº SN - Bairro: DISTRITO DA GUIA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>DISTRIBUIDORA COPAGAZ</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA SAPADOR, nº 19 - Bairro: RES. DEPUTADO GILSON - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>DISTRIBUIDORA DE BEBIDAS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA DAS GARÇAS, nº 01 - Bairro: HÉLIO PONCE DE ARRUD - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.654817</string>
+			<key>lon</key>
+			<string>-56.100483</string>
+		</dict>
+		<key>name</key>
+		<string>DISTRIBUIDORA E COMÉRCIO DE BEBIDAS (VENDA FIXA)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA DA GUARITA, nº 17 - Bairro: FIGUEIRINHA - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>DISTRIBUIDORA JUNIORS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA DA GUARITA, nº 17 - Bairro: FIGUEIRINHA - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>DISTRIBUIDORA JUNIORS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA MARACANA, nº SN - Bairro: JARDIM MARINGÁ - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.66664</string>
+			<key>lon</key>
+			<string>-56.087727</string>
+		</dict>
+		<key>name</key>
+		<string>DISTRIBUIDORA MARINGA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA WALDIR MORBECK, nº 31 - Bairro: COOPHAMIL - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.618532</string>
+			<key>lon</key>
+			<string>-56.129601</string>
+		</dict>
+		<key>name</key>
+		<string>DISTRIBUIDORA MIL</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA A, nº 11 - Bairro: COHAB ASA BELA - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>DISTRIBUIDORA PAIS E FILHOS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA A, nº 24 - Bairro: QUINZE DE MAIO - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.635522</string>
+			<key>lon</key>
+			<string>-56.110543</string>
+		</dict>
+		<key>name</key>
+		<string>DISTRIBUIDORA REIS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA DOUTOR DOMINGOS MONTEIRO, nº LT - Bairro: GONCALO BOTELHO DE C - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.615267</string>
+			<key>lon</key>
+			<string>-56.073017</string>
+		</dict>
+		<key>name</key>
+		<string>DISTRIBUIDORA SABINO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA M, nº S/N - Bairro: TRINTA E UM DE MARÇO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>DOG RAÇÕES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Avenida Julis Rimet, nº S/N - Bairro: Alvorada - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.58136</string>
+			<key>lon</key>
+			<string>-56.085459</string>
+		</dict>
+		<key>name</key>
+		<string>DROGA FAMA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA 4, nº   - Bairro: RECANTO DOS PASSAROS - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>DROGA LINS </string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RODODOVIA DOS IMIGRANTES   , nº 10 - Bairro: SÃO MATEUS - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.651671</string>
+			<key>lon</key>
+			<string>-56.001703</string>
+		</dict>
+		<key>name</key>
+		<string>DROGA LUZ</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. GOV. JÚLIO JOSÉ DE CAMPOS, nº 4.345 - Bairro: JARDIM GLÓRIA I - /MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.642957</string>
+			<key>lon</key>
+			<string>-56.160479</string>
+		</dict>
+		<key>name</key>
+		<string>DROGA LUZ</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA HISTORIADOR RUBENS DE MENDONCA, nº 1 - Bairro: BOSQUE DA SAUDE - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.588842</string>
+			<key>lon</key>
+			<string>-56.079361</string>
+		</dict>
+		<key>name</key>
+		<string>DROGA LUZ</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA GOVERNADOR JULIO CAMPOS, nº 4345 - Bairro: JARDIM GLORIA II - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.638071</string>
+			<key>lon</key>
+			<string>-56.157476</string>
+		</dict>
+		<key>name</key>
+		<string>DROGA LUZ</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV GOV. DANTE DE OLVEIRA (AV. DOS TRABALHADORES), nº . - Bairro: . - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.575097</string>
+			<key>lon</key>
+			<string>-56.033905</string>
+		</dict>
+		<key>name</key>
+		<string>DROGA RAFA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV.PRINCIPAL, nº . - Bairro: JARDIM IMPERIAL  - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>DROGA VIDA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. 15 DE NOVEMBRO, nº 953 - Bairro: CENTRO SUL - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>DROGA VIVA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA PRINCIPAL , nº SN - Bairro: OSMAR CABRAL - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.606828</string>
+			<key>lon</key>
+			<string>-55.992954</string>
+		</dict>
+		<key>name</key>
+		<string>DROGA WALTER</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA PRESIDENTE LUIZ DE ALBUQUERQUE, nº 121 - Bairro: CRISTO REI - /MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>DROGA ZÉ</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. D, nº 500 - Bairro: REIDENCIAL COXIPÓ - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>DROGARIA BÁRBARA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA MANOEL PEREIRA CUIABANO, nº 189 - Bairro: CARUMBÉ - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.586986</string>
+			<key>lon</key>
+			<string>-56.057751</string>
+		</dict>
+		<key>name</key>
+		<string>DROGARIA BELA VISTA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA CASTELO BRANCO (CENTRO EMP. VG - EM FRENTE AO TERMINAL A. MAGGI), nº 325 - Bairro: CENTRO SUL - /MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>DROGARIA BEM BARATO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA NEWTON RABELO DE CASTRO, nº 24 - Bairro: PEDRA 90 - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.633615</string>
+			<key>lon</key>
+			<string>-55.954409</string>
+		</dict>
+		<key>name</key>
+		<string>DROGARIA BEM ESTAR</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA 01, nº 10 - Bairro: NOVA ESPERANÇA - /MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>DROGARIA BEM ESTAR VG</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA ACLIMAÇÃO, nº 243 - Bairro: BOSQUE DA SAÚDE - /</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.588842</string>
+			<key>lon</key>
+			<string>-56.079361</string>
+		</dict>
+		<key>name</key>
+		<string>DROGARIA BOSQUE DA SAÚDE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV GENERAL MELLO,, nº 1636 - Bairro: POÇÃO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.615885</string>
+			<key>lon</key>
+			<string>-56.081789</string>
+		</dict>
+		<key>name</key>
+		<string>DROGARIA CAMPO VELHO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. ESPIGÃO, nº 58 - Bairro: TIJUCAL - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>DROGARIA CELESTE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA JOAO SANTOS, QD 31 , nº 4 - Bairro: COOPHAMIL - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.624059</string>
+			<key>lon</key>
+			<string>-56.128175</string>
+		</dict>
+		<key>name</key>
+		<string>DROGARIA COOPHARMA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA BRIGADEIRO EDUARDO GOMES, nº 112 - Bairro: COSTA VERDE - /MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>DROGARIA COSTA VERDE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. PRINCIPAL , nº . - Bairro: PARQUE CUIABÁ - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.669555</string>
+			<key>lon</key>
+			<string>-56.038934</string>
+		</dict>
+		<key>name</key>
+		<string>DROGARIA DROGA MAIS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA 30, QUADRA 20 , nº S/M - Bairro: JARDIM INDUSTRIARIO - /</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.653723</string>
+			<key>lon</key>
+			<string>-55.977632</string>
+		</dict>
+		<key>name</key>
+		<string>DROGARIA FARMA PLUS </string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. COROnel ESCOLÁSTICO, nº 466 - Bairro: BANDEIRANTES - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>DROGARIA FARMA VIDA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. NEWTON RABELLO DE CASTRO, nº 02 - Bairro: PEDRA 90 - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>DROGARIA FARMA VIDA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. NEWTON RABELLO DE CASTRO, nº 02 - Bairro: PEDRA 90 - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>DROGARIA FARMA VIDA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA DOM ORLANDO CHAVES, nº 393 - Bairro: MANGA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.635386</string>
+			<key>lon</key>
+			<string>-56.11283</string>
+		</dict>
+		<key>name</key>
+		<string>DROGARIA FARMACENTER</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV 01, nº 01 - Bairro: NOVA ESPERANÇA - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>DROGARIA FARMAZAN</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA NOVA ZELÂNDIA, nº 17 - Bairro: JARDIM IMPERIAL - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.622821</string>
+			<key>lon</key>
+			<string>-56.172306</string>
+		</dict>
+		<key>name</key>
+		<string>DROGARIA IMPERIAL</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA JULIO RIMET - PRÓXIMO A ROTATÓRIA DA RODOVIÁRIA, nº . - Bairro: ALVORADA  - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.581331</string>
+			<key>lon</key>
+			<string>-56.086621</string>
+		</dict>
+		<key>name</key>
+		<string>DROGARIA LIDERANÇA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV GENEROSO MALHEIROS , nº 03 - Bairro: CIDADE VERDE - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.607042</string>
+			<key>lon</key>
+			<string>-56.102886</string>
+		</dict>
+		<key>name</key>
+		<string>DROGARIA LIG BULA DELIVERY</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV GETULIO VARGAS(PROXIMO A LOJA DA VIVO), nº SN - Bairro: GOIABEIRAS - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.594061</string>
+			<key>lon</key>
+			<string>-56.100577</string>
+		</dict>
+		<key>name</key>
+		<string>DROGARIA LIG BULA DELIVERY</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA MANAURA, nº 308 - Bairro: SANTO ANTÔNIO DO PED - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.597901</string>
+			<key>lon</key>
+			<string>-56.07065</string>
+		</dict>
+		<key>name</key>
+		<string>DROGARIA LISBOA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA PARA, nº 1002 - Bairro: NOVA VARZEA GRANDE - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.657529</string>
+			<key>lon</key>
+			<string>-56.144917</string>
+		</dict>
+		<key>name</key>
+		<string>DROGARIA LUANA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA UM, nº 01 - Bairro: NOVA ESPERANÇA - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>DROGARIA MAIS SAÚDE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. 5, LOTE 18, QDA 58   (AV. PRINCIPAL), nº . - Bairro: PARQUE CUIABÁ - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.657772</string>
+			<key>lon</key>
+			<string>-56.143935</string>
+		</dict>
+		<key>name</key>
+		<string>DROGARIA MAIS VIDA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA COUTO MAGALHÃES, nº 1140 - Bairro: CENTRO - /MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>DROGARIA MARIZABEL</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. PRINCIPAL, nº 982 - Bairro: JARDIM 1º DE MARÇO  - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.550078</string>
+			<key>lon</key>
+			<string>-56.031966</string>
+		</dict>
+		<key>name</key>
+		<string>DROGARIA MASTER FARMA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV FERNANDO CORREA DA COSTA (EM FRENTE A MERCEDES BENZ), nº 5604 - Bairro: PARQUE OHARA - COXIP - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.637225</string>
+			<key>lon</key>
+			<string>-56.042649</string>
+		</dict>
+		<key>name</key>
+		<string>DROGARIA MED FARMA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA DA FEB (EM FRENTE A CHURRASCARIA BOI BÃO), nº 134 - Bairro: PONTE NOVA - /MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>DROGARIA MIX FEB </string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA CEL. PEIXOTO  EM FRENTE AO CARLOS CHAGAS, ACESSO PARA A PRAÇA BISPO DOM JOSÉ. , nº . - Bairro: . - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.601978</string>
+			<key>lon</key>
+			<string>-56.094818</string>
+		</dict>
+		<key>name</key>
+		<string>DROGARIA NIPPON</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. MILTON RABELLO DE CASTRO  (Praça do CAIC) CBÁ, nº . - Bairro: PEDRA 90  - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.637047</string>
+			<key>lon</key>
+			<string>-55.951524</string>
+		</dict>
+		<key>name</key>
+		<string>DROGARIA NOVA VIDA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV JOSÉ TORQUATO SILVA, nº 2579 - Bairro: NOVO PARAÍSO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.541648</string>
+			<key>lon</key>
+			<string>-56.064306</string>
+		</dict>
+		<key>name</key>
+		<string>DROGARIA OPÇÃO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA CORONEL ESCOLASTICO, nº 422 - Bairro: BANDEIRANTES - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.59793</string>
+			<key>lon</key>
+			<string>-56.089776</string>
+		</dict>
+		<key>name</key>
+		<string>DROGARIA PAOLLA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA IARA (EM FRENTE AO SUPERMERCADO GAMA), nº 602 - Bairro: JARDIM GLÓRIA I - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.636841</string>
+			<key>lon</key>
+			<string>-56.15108</string>
+		</dict>
+		<key>name</key>
+		<string>DROGARIA REIMAR</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. DOUTOR MEIRELLES (PROMOTOR DE VENDA), nº S/N - Bairro: TIJUCAL - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.632078</string>
+			<key>lon</key>
+			<string>-56.015028</string>
+		</dict>
+		<key>name</key>
+		<string>DROGARIA ROSÁRIO (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA ANTONIO BATISTA, nº 02 - Bairro: NOVO COLORADO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>DROGARIA SÃO GABRIEL</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA ANTARTICA, nº 12 - Bairro: NOVO TEMPO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>DROGARIA SÃO GABRIEL</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA FILINTO MULLER, nº 01 - Bairro: SÃO MATHEUS - /MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>DROGARIA SARA REAL</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA LUCINDO NEPOMUCENO CEBALIO, nº 1262 - Bairro: MORADA DA SERRA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.565759</string>
+			<key>lon</key>
+			<string>-56.041722</string>
+		</dict>
+		<key>name</key>
+		<string>DROGARIA SOL</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. BRASÍLIA, nº 420 - Bairro: JARDIM DAS AMERICAS - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>DROGARIA SOL </string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. PRINCIPAL (PROMOTOR DE VENDA), nº S/N - Bairro: OSMAR CABRAL - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.612836</string>
+			<key>lon</key>
+			<string>-55.997402</string>
+		</dict>
+		<key>name</key>
+		<string>DROGARIA SOUZA (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA V-2, nº 15 - Bairro: PARQUE NOVA ESPERANÇ - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>DROGARIA SUL AMÉRICA </string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA NOVA ZELÂNDIA, nº 13 - Bairro: JARDIM IMPERIAL - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.62283</string>
+			<key>lon</key>
+			<string>-56.172302</string>
+		</dict>
+		<key>name</key>
+		<string>DROGARIA VITÓRIA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA MATO GROSSO (PROXIMO AO SUPERMERCADO MONTE REAL), nº 46 - Bairro: MAPIM - /MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>DROGARIZA FARMAZAN</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. PRINCIPAL , nº . - Bairro: OSMAR CABRAL  - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.606828</string>
+			<key>lon</key>
+			<string>-55.992954</string>
+		</dict>
+		<key>name</key>
+		<string>DROGAVALTER</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA MÁRIO PALMA, nº 753 - Bairro: RIBEIRÃO DO LIPA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>DUDA GAZ E ÁGUA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. NEWTON RABELO DE CASTRO, nº 48 - Bairro: PEDRA 90 - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.633615</string>
+			<key>lon</key>
+			<string>-55.954409</string>
+		</dict>
+		<key>name</key>
+		<string>DUDA&#39;S PRESENTES E VARIEDADES (VENDA FIXA)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA JULES RIMET, nº SN - Bairro: JARDIM ALVORADA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.623676</string>
+			<key>lon</key>
+			<string>-56.073624</string>
+		</dict>
+		<key>name</key>
+		<string>DVD E NOVIDADES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV DOM ORLANDO CHAVES, nº 1310 - Bairro: MANGA - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>ECLYPSE LANCHES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA CLOVIS HUGUENEY (PRAÇA MARIA TAQUARA), nº 198 - Bairro: CENTRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.60162</string>
+			<key>lon</key>
+			<string>-56.095821</string>
+		</dict>
+		<key>name</key>
+		<string>EDIT ATELIE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA PERU, nº 04 - Bairro: PARQUE DAS NAÇÕES - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>ELAINE SABATINE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA V-2, nº 19 - Bairro: NOVA ESPERANÇA I - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.682376</string>
+			<key>lon</key>
+			<string>-55.952565</string>
+		</dict>
+		<key>name</key>
+		<string>ELETRO CELL CELULAR</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV ISAAC PÓVOAS, nº S/N - Bairro: QUILOMBO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>EM FRENTE A FARMÁCIA PRAMIM (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA CEL PEIXOTO, nº S/N - Bairro: CENTRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.601141</string>
+			<key>lon</key>
+			<string>-56.096342</string>
+		</dict>
+		<key>name</key>
+		<string>EM FRENTE A LOJA FLAMBOYANT (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Avenida Presidente Getúlio Vargas, nº S/N - Bairro: CENTRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.601141</string>
+			<key>lon</key>
+			<string>-56.096342</string>
+		</dict>
+		<key>name</key>
+		<string>EM FRENTE A LOJA FLAMBOYANT GETÚLIO VARGAS (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV ISAAC PÓVOAS, nº S/N - Bairro: CENTRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.594881</string>
+			<key>lon</key>
+			<string>-56.101925</string>
+		</dict>
+		<key>name</key>
+		<string>EM FRENTE À LOJA OI (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA RICARDO FRANCO, nº S/N - Bairro: CENTRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.601141</string>
+			<key>lon</key>
+			<string>-56.096342</string>
+		</dict>
+		<key>name</key>
+		<string>EM FRENTE A LOJA RIACHUELO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV PRAINHA, nº S/N - Bairro: CENTRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.596801</string>
+			<key>lon</key>
+			<string>-56.095187</string>
+		</dict>
+		<key>name</key>
+		<string>EM FRENTE A SAÚDE ESTADUAL</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA BARÃO DE MELGAÇO, nº S/N - Bairro: CENTRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.594061</string>
+			<key>lon</key>
+			<string>-56.100577</string>
+		</dict>
+		<key>name</key>
+		<string>EM FRENTE AO BANCO BRADESCO (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV ISAAC PÓVOAS, nº S/N - Bairro: QUILOMBO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.594881</string>
+			<key>lon</key>
+			<string>-56.101925</string>
+		</dict>
+		<key>name</key>
+		<string>EM FRENTE AO CEBRAC (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV CORONEL ESCOLÁSTICO, nº S/N - Bairro: BANDEIRANTES - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.596801</string>
+			<key>lon</key>
+			<string>-56.095187</string>
+		</dict>
+		<key>name</key>
+		<string>EM FRENTE AO FOTO SAKURA (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV ISAAC PÓVOAS, nº S/N - Bairro: QUILOMBO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>EM FRENTE AO MERCADO MUNICIPAL (PONDO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV GENERAL VALLE, nº S/N - Bairro: ARÁES - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.596801</string>
+			<key>lon</key>
+			<string>-56.095187</string>
+		</dict>
+		<key>name</key>
+		<string>EM FRENTE AO PRONTO SOCORRO (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV GENERAL VALLE, nº S/N - Bairro: ARÁES - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.596801</string>
+			<key>lon</key>
+			<string>-56.095187</string>
+		</dict>
+		<key>name</key>
+		<string>EM FRENTE AO PROSOL (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV PRAINHA, nº S/N - Bairro: CENTRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.596801</string>
+			<key>lon</key>
+			<string>-56.095187</string>
+		</dict>
+		<key>name</key>
+		<string>EM FRENTE AO SHOPPING POPULAR (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV PRAINHA, nº S/N - Bairro: CENTRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.596801</string>
+			<key>lon</key>
+			<string>-56.095187</string>
+		</dict>
+		<key>name</key>
+		<string>EM FRENTE AO SUPERMERCADO MODELO (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>ROD. PALMIRO PAES DE BARROS (PROMOTOR DE VENDA), nº S/N - Bairro: SÃO GONÇALO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.648412</string>
+			<key>lon</key>
+			<string>-56.050744</string>
+		</dict>
+		<key>name</key>
+		<string>ENTRADA DO BAIRRO SÃO GONÇALO (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA FREI COIMBRA, nº 510 - Bairro: NOVA VÁRZEA GRANDE - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>ÉPOCA BAZAR E PAPELARIA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA UM, nº 34 - Bairro: COHAB SÃO GONÇALO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>ERIKA MODA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. BARÃO DE MELGAÇO (PROMOTOR DE VENDA), nº S/N - Bairro: PORTO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.60992</string>
+			<key>lon</key>
+			<string>-56.110746</string>
+		</dict>
+		<key>name</key>
+		<string>ESCOLA JOSÉ DE MESQUITA (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA TREZENTOS E UM, nº 02 - Bairro: TIJUCAL - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>ESPETÁCULO ESPETOS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA B, nº 15 - Bairro: MORADA DA SERRA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.565759</string>
+			<key>lon</key>
+			<string>-56.041722</string>
+		</dict>
+		<key>name</key>
+		<string>ESTACAO DA CARNE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. GENEROSO PONCE (ISAAC PÓVOAS), nº 856 - Bairro: CENTRO NORTE - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>EURODATA INTERATIVA (EM FRENTE AO SEBRAC)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. GENEROSO PONCE (ISAAC PÓVOAS), nº 856 - Bairro: CENTRO NORTE - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>EURODATA INTERATIVA (EM FRENTE AO SEBRAC)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. GENEROSO PONCE (ISAAC PÓVOAS), nº 856 - Bairro: CENTRO NORTE - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>EURODATA INTERATIVA (EM FRENTE AO SEBRAC)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA CORONEL ESCOLASTICO, nº 466 - Bairro: BANDEIRANTES - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.603528</string>
+			<key>lon</key>
+			<string>-56.098552</string>
+		</dict>
+		<key>name</key>
+		<string>FARMA VIDA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA NEWTO9N RABELO DE CASTRO, QDA 138 , nº 02 - Bairro: PEDRA 90 - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.633615</string>
+			<key>lon</key>
+			<string>-55.954409</string>
+		</dict>
+		<key>name</key>
+		<string>FARMA VIDA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA NOVA ZELÂNDIA, nº 17 - Bairro: JARDIM IMPERIAL  - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>FARMÁCIA E LAB IMPERIAL</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA DOZE, nº 04 - Bairro: COHAB SÃO GONÇALO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>FARMÁCIA SANTA RITA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA JULIÃO DE BRITO, QD 42 , nº 11 - Bairro: PARQUE DO LAGO - /MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>FARMACLIN</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA VEREADOR JORGE WITZAK, nº 112 - Bairro: CRISTO REI - /MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>FARMACLIN </string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. DR. MEIRELLES - (AVENIDA  ESPIGÃO), nº . - Bairro: TIJUCAL - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.634154</string>
+			<key>lon</key>
+			<string>-56.018686</string>
+		</dict>
+		<key>name</key>
+		<string>FARMAMERICA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA DR MEIRELLES, ENTRADA DO BAIRRO TJUCAL, nº SN - Bairro: TIJUCAL - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.638298</string>
+			<key>lon</key>
+			<string>-56.025558</string>
+		</dict>
+		<key>name</key>
+		<string>FARMAMERICA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. ALZIRA SANTANA, nº 1001 - Bairro: SÃO JORGE - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>FASHION MIX</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. JOÃO GOMES MONTEIRO SOBRINHO, nº 963 - Bairro: LIXEIRA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>FERMIX MODA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA TANCREDO NEVES, nº 220 - Bairro: PRAIERO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.626716</string>
+			<key>lon</key>
+			<string>-56.077614</string>
+		</dict>
+		<key>name</key>
+		<string>FESTANNY ALIMENTOS (VENDA FIXA)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. FILINTO MULLER, nº 1976 - Bairro: CENTRO - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.649554</string>
+			<key>lon</key>
+			<string>-56.138591</string>
+		</dict>
+		<key>name</key>
+		<string>FLOR DE JAMBO MODAS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV ALZIRA SANTANA, nº 330 - Bairro: NOSSA SENHORA DA GUI - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>GAGUINHO CHAVEIRO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. ISAAV POVÓS (PRÓXIMO A PRAÇA IPIRANGA), nº S/N - Bairro: CENTRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>GALERIA CHÃO GOIANO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. FERNANDO CORRÊA DA COSTA (PROMOTOR DE VENDA), nº S/N - Bairro: JARDIM DAS AMÉRICAS - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.612156</string>
+			<key>lon</key>
+			<string>-56.074916</string>
+		</dict>
+		<key>name</key>
+		<string>GALERIA ITÁLIA CENTER (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. FERNANDO CORRÊA DA COSTA (PROMOTOR DE VENDA), nº S/N - Bairro:   - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.627824</string>
+			<key>lon</key>
+			<string>-56.056488</string>
+		</dict>
+		<key>name</key>
+		<string>GARAGEM NORTE SUL - BAIRRO (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>(PROMOTOR DE VENDA), nº S/N - Bairro: CENTRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.594298</string>
+			<key>lon</key>
+			<string>-56.096094</string>
+		</dict>
+		<key>name</key>
+		<string>GARAGEM NORTE SUL - CENTRO (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA CORONEL ESCOLASTICO, nº 568 - Bairro: BANDEIRANTES - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.599416</string>
+			<key>lon</key>
+			<string>-56.092608</string>
+		</dict>
+		<key>name</key>
+		<string>GELAR</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA SETE, nº 25 - Bairro: OURO VERDE - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>GOLDEN GLEEM</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA CÓRDOVA, nº 928 - Bairro: PLANALTO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>GRACIELA COSMÉTICOS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA 25 (PONTO FINAL), nº 20 - Bairro: JD FLORIANOPOLIS - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.548146</string>
+			<key>lon</key>
+			<string>-56.079361</string>
+		</dict>
+		<key>name</key>
+		<string>GRANJEIRO RESTAURANTE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. NEWTON RABELO DE CASTRO, nº 48 - Bairro: PEDRA 90 - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>HELETRO CELL</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA BAHIA, nº 22 - Bairro: CPA II - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>HIDROLOPES ELÉTRICA E HIDRAÚLICA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA TIRADENTES, nº 03 - Bairro: JARDIM MANAIRA - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>HIPER GÁS </string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA D, nº 04 - Bairro: JARDIM PRIMEIRO DE M - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>IDEAL MODAS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA JURUMIRIM, nº 2109 - Bairro: BOSQUE DA SAUDE II - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>INDUSTRIA VELAS VELASCO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA 61 (PROMOTOR DE VENDAS), nº S/N - Bairro: CPA III - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.571293</string>
+			<key>lon</key>
+			<string>-56.041214</string>
+		</dict>
+		<key>name</key>
+		<string>INSTITUTO DOS CEGOS (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. GETULIO VARGAS, PRÓXIMO A PREFEITURA DE CUIABÁ, nº . - Bairro: Centro - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.597679</string>
+			<key>lon</key>
+			<string>-56.09647</string>
+		</dict>
+		<key>name</key>
+		<string>ISABELA MODAS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA 13 DE JUNHO , nº SN - Bairro: CENTRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.607022</string>
+			<key>lon</key>
+			<string>-56.102875</string>
+		</dict>
+		<key>name</key>
+		<string>ISABELA MODAS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA TRÊS, nº 13 - Bairro: COHAB SETE DE MAIO - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>IVAN MODAS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA JOSÉ ESTEVÃO TORQUATO DA SILVA, nº 2710 - Bairro: NOVO PARAÍSO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>JL CONFECÇÕES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA QUINZE , nº 23 - Bairro: PEDRA 90 - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>JM CONVENIÊNCIAS DISTRIBUIDORA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. GOVERNADOR JAIME CAMPOS, nº 1076 - Bairro: NOVO PARAÍSO II - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>JM MERCEARIA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA PERNAMBUCO, nº 909 - Bairro: CPA II - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>JS PAES </string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA CINCO, nº 01 - Bairro: PARQUE CUIABÁ - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>JUNIOR ESPORTE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA ÍRIS SIQUEIRA, nº 05 - Bairro: NOSSA SENHORA SANTAN - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.655396</string>
+			<key>lon</key>
+			<string>-56.091042</string>
+		</dict>
+		<key>name</key>
+		<string>KADU PET SHOP (VENDA FIXA)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA PROJETADA, nº 6 - Bairro: JARDIM OURO VERDE - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>KI DELÍCIA MARMITARIA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA VEREADOR ABELARDO DE AZEVEDO, nº 999 - Bairro: CONSTRUMAT - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>L G PRESENTES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. BEIRA RIO, nº 24 - Bairro: NOVO TERCEIRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>L P CÓPIAS </string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA CUIABÁ, nº 06 - Bairro: 13 DE SETEMBRO - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>LANCHONETE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA CORONEL PEIXOTO, nº 71 - Bairro: CENTRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>LANCHONETE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA DUZENTOS E QUARENTA  E DOIS, nº 22 - Bairro: TIJUCAL - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>LANCHONETE CHAPA QUENTE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA MANOEL LEOPOLDINO, nº 441 - Bairro: ARAÉS - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>LANCHONETE E CONVENIÊNCIA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. BEIRA RIO, nº 2001 - Bairro: JARDIM TROPICAL - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>LANCHONETE ESTRELA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA TRES, nº 1 - Bairro: JARDIM INDUSTRIARIO  - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.653723</string>
+			<key>lon</key>
+			<string>-55.977632</string>
+		</dict>
+		<key>name</key>
+		<string>LANCHONETE NOVA ALIANCA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. FERNADO CORREA DA COSTA, nº 3315 - Bairro: BOA ESPERANÇA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>LANCHONETE SANTA GULA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA TENENTE-CORONEL DUARTE, nº 881 - Bairro: DOM AQUINO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.62717</string>
+			<key>lon</key>
+			<string>-56.080828</string>
+		</dict>
+		<key>name</key>
+		<string>LANCHONTE DO PONTO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. MIGUEL SUTIL, nº 11829 - Bairro: POÇÃO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.609709</string>
+			<key>lon</key>
+			<string>-56.082497</string>
+		</dict>
+		<key>name</key>
+		<string>LAVATO 40 GRAUS (VENDA FIXA)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA J, nº 05 - Bairro: JARDIM BRASIL - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>LITA PRESENTES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA BENEDITO MELO, nº 294 - Bairro: LIXEIRA - /</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.594901</string>
+			<key>lon</key>
+			<string>-56.084938</string>
+		</dict>
+		<key>name</key>
+		<string>LIVRARIA PEDACINHO DO CÉU</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>ARY PAES BARRETO, nº 2246 - Bairro: CRISTO REI - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.641934</string>
+			<key>lon</key>
+			<string>-56.106801</string>
+		</dict>
+		<key>name</key>
+		<string>LM MODAS (VENDA FIXA)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. IARA, nº 402 - Bairro: JARDIM GLÓRIA II - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.636731</string>
+			<key>lon</key>
+			<string>-56.155314</string>
+		</dict>
+		<key>name</key>
+		<string>LOJA DE COSMÉTICOS E SALÃO NOSSA SENHORA (VENDA FIXA)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA TAUBATE, nº 5 - Bairro: NOVO TERCEIRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.61409</string>
+			<key>lon</key>
+			<string>-56.133058</string>
+		</dict>
+		<key>name</key>
+		<string>LOJA KIAMOR</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>TRAVESSA JOÃO DIAS (EM FRENTE A CASA ALBERTO), nº 12 - Bairro: CENTRO - /MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.600615</string>
+			<key>lon</key>
+			<string>-56.09618</string>
+		</dict>
+		<key>name</key>
+		<string>LOTÉRICA TRANSAMAZONICA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA TREZE, nº 15 - Bairro: JARDIM VITÓRIA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>LU SALÃO DE BELEZA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA ARY PAES BARRETO, nº 1507 - Bairro: CRISTO REI - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MAGAZINE CRISTO REI</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA F, nº S/N - Bairro: CRISTO REI - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MAIS VOCÊ COSMÉTICOS, PAPELARIA E PRESENTE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA GALDINO PIMENTEL, nº 14 - Bairro: CENTRO NORTE - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.596473</string>
+			<key>lon</key>
+			<string>-56.093425</string>
+		</dict>
+		<key>name</key>
+		<string>MALHARIA CATARINENSE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA GONCALO ANTUNES DE BARROS, nº 1551 - Bairro: BELA VISTA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.581599</string>
+			<key>lon</key>
+			<string>-56.063327</string>
+		</dict>
+		<key>name</key>
+		<string>MANO FUNILARIA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA HÉLIO BARBOSA, nº S/N - Bairro: TRÊS BARRAS - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MARCUS MATERIAS PARA CONSTRUÇÃO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA Q, nº 471 - Bairro: JARDIM PRIMEIRO DE M - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MARY MARQUES MODAS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>CALÇADÃO ANTONIO JOÃO , nº . - Bairro: . - /MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.598733</string>
+			<key>lon</key>
+			<string>-56.096427</string>
+		</dict>
+		<key>name</key>
+		<string>MERCADÃO DA MALHA </string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>CALÇADÃO DA GALDINO PIMENTEL  , nº . - Bairro: . - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.599291</string>
+			<key>lon</key>
+			<string>-56.095483</string>
+		</dict>
+		<key>name</key>
+		<string>MERCADÃO DA MALHA </string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA OITO, nº 08 - Bairro: LOTEAMENTO JARDIM DA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MERCADINHO DA GREICE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA CUIABÁ, nº 472 - Bairro: COHAB NOVA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MERCADINHO E PANIFICADORA RIBEIRO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV JORNALISTA ALVES DE OLIVEIRA, nº 204 - Bairro: CIDADE ALTA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.609678</string>
+			<key>lon</key>
+			<string>-56.128686</string>
+		</dict>
+		<key>name</key>
+		<string>MERCADINHO SANTA TEREZINHA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>(PROMOTOR DE VENDA), nº S/N - Bairro: NOVA ESPERANÇA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.638163</string>
+			<key>lon</key>
+			<string>-55.970106</string>
+		</dict>
+		<key>name</key>
+		<string>MERCADO 2005 (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA TAIAMA, nº 27 - Bairro: SANTO ANTÔNIO DO PED - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.598879</string>
+			<key>lon</key>
+			<string>-56.067489</string>
+		</dict>
+		<key>name</key>
+		<string>MERCADO ALINA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA ANÍSIO HADDAD, nº 03 - Bairro: JARDIM ELDORADO - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MERCADO AVENIDA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA JOSÉ ESTEVÃO TORQUATRO DA SILVA, nº 04 - Bairro: NOVO PARAÍSO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MERCADO BOM PREÇO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA GONÇALO DOMINGOS DE CAMPOS, nº 270 - Bairro: FIGUEIRINHA - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.652978</string>
+			<key>lon</key>
+			<string>-56.138828</string>
+		</dict>
+		<key>name</key>
+		<string>MERCADO COMPRE BEM</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA VERDÃO, nº 20 - Bairro: JARDIM MARINGÁ - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MERCADO CORAÇÃO DE JESUS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA PADRE PEDRO COMETTI, nº 02 - Bairro: JARDIM MARINGÁ - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.667234</string>
+			<key>lon</key>
+			<string>-56.088552</string>
+		</dict>
+		<key>name</key>
+		<string>MERCADO CORREIA (VENDA FIXA)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA NOVA IGUAÇU, nº 39 - Bairro: COOPHEMA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MERCADO ELDORADO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA IZAIA TORRES, nº 08 - Bairro: LIBERDADE - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MERCADO EMÍLIA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA DOUTOR CÍCERO DE CAMPOS, nº 05 - Bairro: JARDIM MARAJOARA - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MERCADO GOL</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA 21, nº 10 - Bairro: JARDIM FLORIANÓPOLIS - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MERCADO LÍDER</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA ANGICO, nº 178 - Bairro: JARDIM GRAMADO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MERCADO NOVO LAR</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA QUATROCENTOS E DOIS, nº CS02 - Bairro: TIJUCAL - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.632078</string>
+			<key>lon</key>
+			<string>-56.015028</string>
+		</dict>
+		<key>name</key>
+		<string>MERCADO PRIMAVERA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA VERÍSSIMO DOMINGOS DE CAMPOS, nº 01 - Bairro: SÃO SIMÃO - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MERCADO SILVA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA CARLOS ADDOR DE SOUZA, nº 210 - Bairro: SÃO JOÃO DEL REY - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MERCADO SILVA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA GUANABARA, nº 11 - Bairro: ALTOS DA SERRA I - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MERCADO SILVA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA ANÍSIO HADDAD, nº 01 - Bairro: JARDIM ELDORADO - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MERCADO SUPER BOM</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA CASTRO ALVES, nº 19 - Bairro: JARDIM ARAÇA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.661499</string>
+			<key>lon</key>
+			<string>-56.058891</string>
+		</dict>
+		<key>name</key>
+		<string>MERCADO VEM QUE TEM</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA J, nº 16 - Bairro: JARDIM PAULA II - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MERCADO VITÓRIA </string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA MACAPÁ, nº 13 - Bairro: JARDIM DOS ESTADOS - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MERCEARIA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA COMENDADOR HENRIQUE, nº 696 - Bairro: DOM AQUINO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MERCEARIA 3 IRMÃOS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA FLORES, nº 03 - Bairro: MANDURI - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MERCEARIA AMORIM</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>TRINTA E UM, nº 27 - Bairro: SÃO JOÃO DEL REY - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.616944</string>
+			<key>lon</key>
+			<string>-55.999919</string>
+		</dict>
+		<key>name</key>
+		<string>MERCEARIA ARRUDA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA JURITI, nº 20 - Bairro: CPA IV - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MERCEARIA ARTES DO SABOR</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA PARNAIBA, nº 46 - Bairro: PRAEIRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MERCEARIA BOM JESUS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA CAJARANA, nº 260 - Bairro: JARDIM GRAMADO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.641052</string>
+			<key>lon</key>
+			<string>-56.059553</string>
+		</dict>
+		<key>name</key>
+		<string>MERCEARIA DIAMANTE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA C, nº 546 - Bairro: RESIDENCIAL BURITI - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.598899</string>
+			<key>lon</key>
+			<string>-56.064606</string>
+		</dict>
+		<key>name</key>
+		<string>MERCEARIA DUAS IRMAS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA CINCO, nº 546 - Bairro: JARDIM UNIAO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.617697</string>
+			<key>lon</key>
+			<string>-56.129555</string>
+		</dict>
+		<key>name</key>
+		<string>MERCEARIA E ACOUGUE UNIAO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA OITO, nº 12 - Bairro: NOVO MILENIUM - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MERCEARIA E BAR DA ROSE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA DOURADO VICENTE EMÍLIO, nº 04 - Bairro: TANCREDO NEVES - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MERCEARIA E LANCHONETE Q DELÍCIA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA N, nº 10 - Bairro: PARQUE ATALAIA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.661223</string>
+			<key>lon</key>
+			<string>-56.064024</string>
+		</dict>
+		<key>name</key>
+		<string>MERCEARIA E PADARIA FAMA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA V-2, nº 2324 - Bairro: PQ NOVA ESPERANÇA II - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MERCEARIA ESPERANÇA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA A , nº 19 - Bairro: MAPIM - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MERCEARIA LIMEIRA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA CÁCERES, nº 111 - Bairro: PARQUE AMPERCO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MERCEARIA MARINHO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA FILINTO COSTA, nº 108 - Bairro: JARDIM GUANABARA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MERCEARIA MAX</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA SETE DE SETEMBRO, nº 30 - Bairro: JARDIM GLÓRIA I - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MERCEARIA MORAES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA TREZE, nº 11 - Bairro: SÃO MATHEUS - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MERCEARIA SANDRA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA ANTÔNIO JOSÉ DA SILVA, nº 04 - Bairro: SÃO SIMÃO - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MERCEARIA SÃO BENEDITO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA FREI SALVADOR, nº 388 - Bairro: CRISTO REI - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MERCEARIA SERVE LAR</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV RIO ARAGUAIA, nº 295 - Bairro: GRANDE TERCEIRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.627186</string>
+			<key>lon</key>
+			<string>-56.080811</string>
+		</dict>
+		<key>name</key>
+		<string>MERCEARIA TORRES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA TELES PIRES, nº 147 - Bairro: DOM AQUINO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MERCEARIA TROPICAL</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA A, nº 179 - Bairro: ALTOS DO COXIPÓ - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MERCEARIA VIANA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA BRIGADEIRO EDUARDO GOMES, nº 1000 - Bairro: JARDIM COSTA VERDE - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MIX CONVENIÊNCIAS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA V-2, nº 10 - Bairro: NOVA ESPERANÇA I - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MK DISTRIBUIDORA DE BEBIDAS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA DO LIVRAMENTO, nº 56 - Bairro: CENTRO - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MM LANCHES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA JORNALISTA ARQUIMEDES PEREIRA LIMA, nº 2950 - Bairro: SANTA CRUZ - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.609476</string>
+			<key>lon</key>
+			<string>-56.044509</string>
+		</dict>
+		<key>name</key>
+		<string>MOINHO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV PRAINHA, nº S/N - Bairro: CENTRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.596801</string>
+			<key>lon</key>
+			<string>-56.095187</string>
+		</dict>
+		<key>name</key>
+		<string>MORRO DA LUZ SENTIDO BAIRRO (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV PRAINHA, nº S/N - Bairro: CENTRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.596801</string>
+			<key>lon</key>
+			<string>-56.095187</string>
+		</dict>
+		<key>name</key>
+		<string>MORRO DA LUZ SENTIDO CENTRO (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA CURIO, nº 07 - Bairro: CPA IV - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MS PAPELARIA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>PRAÇA IPIRANGA, nº SN - Bairro: CENTRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.601038</string>
+			<key>lon</key>
+			<string>-56.097763</string>
+		</dict>
+		<key>name</key>
+		<string>MTU FÁCIL 1 (CABINE DE RECARGA)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>PRAÇA ALENCASTRO (EM FRENTE A PREFEITURA), nº SN - Bairro: CENTRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.600718</string>
+			<key>lon</key>
+			<string>-56.097758</string>
+		</dict>
+		<key>name</key>
+		<string>MTU FÁCIL 2 (CABINE DE RECARGA)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. RUBENS DE MENDONÇA, nº S/N - Bairro: JARDIM ACLIMAÇÃO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MTU FÁCIL 3 (CABINE DE RECARGA)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. FERNADA CORRÊA DA COSTA, nº S/N - Bairro: JARDIM TROPICAL - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MTU FÁCIL 4 (CABINE DE RECARGA)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV ARI PAES BARRETO, nº S/N - Bairro: CRISTO REI - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MTU FÁCIL 5 (CABINE DE RECARGA)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA JOAQUIM MURTINHO, nº 775 - Bairro: CENTRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.604479</string>
+			<key>lon</key>
+			<string>-56.102942</string>
+		</dict>
+		<key>name</key>
+		<string>MTU LOJA MATRIZ</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>CONSULTE A PROGRAMAÇÃO DO ITINERÁRIO ATRAVÉS DO SITE:  www.amtu.com.br, nº   - Bairro:   - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MTU MÓVEL (VAN ITINERANTE)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA BOM JARDIM, nº 25 - Bairro: NOVO MATO GROSSO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.578087</string>
+			<key>lon</key>
+			<string>-56.037575</string>
+		</dict>
+		<key>name</key>
+		<string>MULATA LANCHES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA DEPUTADO ARY LEITE DE CAMPOS, nº 26 - Bairro: JARDIM ITORORO - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>MULHER COSMÉTICOS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA DOIS, nº 360 - Bairro: SAO JOAO DEL REY - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.616944</string>
+			<key>lon</key>
+			<string>-55.999919</string>
+		</dict>
+		<key>name</key>
+		<string>MYLLA VARIEDADES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA FILINTO MULLER, , nº 1630  - Bairro: CENTRO - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>NATALIA IMPORTS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA 10, , nº 1 - Bairro: JD UNIVERSITÁRIO 2 - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>NEY MOTOS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA BRASILIA - SHOPPING 3 AMÉRICAS, nº SN - Bairro: JARDIM DAS AMÉRICAS - /</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.612042</string>
+			<key>lon</key>
+			<string>-56.073905</string>
+		</dict>
+		<key>name</key>
+		<string>NIPO FLEX ASS. DE CRÉDITO - SHOPPING 3 AMÉRICAS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA 2, QUADRA 19,, nº 515 - Bairro: SÃO JOÃO DEL REY - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>OPÇÃO LANCHES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. CASTELO BRANCO, nº 758 - Bairro: CENTRO SUL - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>ÓTICA ALA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV ARI PAES BARRETO, nº 1812 - Bairro: CRISTO REI - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>ÓTICA MENINA DOS OLHOS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. TRINTA, nº 16 - Bairro: JD. INDUSTRIÁRIO I - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.652215</string>
+			<key>lon</key>
+			<string>-55.979871</string>
+		</dict>
+		<key>name</key>
+		<string>ÓTICA ORIENTAL (VENDA FIXA)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA JULIÃO DE BRITO, nº 322 - Bairro: JARDIM MARINGÁ - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.666321</string>
+			<key>lon</key>
+			<string>-56.091037</string>
+		</dict>
+		<key>name</key>
+		<string>ÓTICA PERFIL (VENDA FIXA)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA ARI PAES BARRETO (EM FRENTE A NOVO MUNDO), nº 2136 - Bairro: CRISTO REI - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>ÓTICA VISION ( RECARGA ESTUDANTE 50% VG )</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA 2400, QDA 44,, nº 32 - Bairro: JD IMPERIAL - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>PADARIA PÃO E LEITE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. BRASIL, nº 22 - Bairro: CPA II - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.559937</string>
+			<key>lon</key>
+			<string>-56.04745</string>
+		</dict>
+		<key>name</key>
+		<string>PADARIA PÃO E SABOR (VENDA FIXA)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA QUINZE, nº 12 - Bairro: SÃO MATHEUS - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>PADARIA SÃO MATHEUS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA PRESIDENTE MANOEL DE CARVALHO, nº 02 - Bairro: COHAB CRISTO REI - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>PALOMA LOCAÇÕES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA 66, , nº 291 - Bairro: BELA VISTA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>PANIFICADORA CARAMELLAS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA JULIÃO DE BRITO, nº 511 - Bairro: JARDIM MARINGÁ - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.666321</string>
+			<key>lon</key>
+			<string>-56.091037</string>
+		</dict>
+		<key>name</key>
+		<string>PANIFICADORA CASA DO PÃO (VENDA FIXA)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>ALAMEDA SEIS, nº 2 - Bairro: CPA III - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.568238</string>
+			<key>lon</key>
+			<string>-56.044573</string>
+		</dict>
+		<key>name</key>
+		<string>PANIFICADORA J R</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA A QUADRA 02 (PROXIMO AO SUPERMERCADO FORTALEZA), nº 52 - Bairro: VILA REAL - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.567343</string>
+			<key>lon</key>
+			<string>-56.0947</string>
+		</dict>
+		<key>name</key>
+		<string>PANIFICADORA MARTINS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. ALZIRA SANTANA, nº 998 - Bairro: NOVA VÁRZEA GRANDE - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>PANIFICADORA NOVA VÁRZEA GRANDE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA BOLÍVIA, nº 36 - Bairro: JARDIM IMPERIAL - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>PANIFICADORA NOVO MUNDO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA SETENTA E SEIS, nº 01 - Bairro: CPA III - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.562604</string>
+			<key>lon</key>
+			<string>-56.044873</string>
+		</dict>
+		<key>name</key>
+		<string>PANIFICADORA REI DO PÃO (VENDA FIXA)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA CARLOS ADDOR DE SOUZA,, nº 160 - Bairro: SÃO JOÃO DEL REY - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>PANIFICADORA ROCHA VIVA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA P, nº 04 - Bairro: COHAB JAIME CAMPOS - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>PANIFICADORA SABOR DE MEL</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA GOVERNADOR DANTE MARTINS DE OLIVEIRA, QDA 23, nº 1529 - Bairro: SOL NASCENTE - /</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>PANIFICADORA SÃO CARLOS </string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA GENEROSO MALHEIROS,, nº 272 - Bairro: CIDADE VERDE - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>PANIFICADORA SHALLON </string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA PRINCIPAL, SETOR 3 , nº S/N - Bairro: DOM AQUINO - /</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>PANIFICADORA VITÓRIA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Av. Cel. Estevão Torquato, nº . - Bairro: Jardim Vitória  - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.569786</string>
+			<key>lon</key>
+			<string>-56.079285</string>
+		</dict>
+		<key>name</key>
+		<string>PANTANAL TRANSPORTES (GARAGEM)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Avenida José Torquato da Silva, nº 1478  - Bairro: JARDIM VITÓRIA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.544478</string>
+			<key>lon</key>
+			<string>-56.06541</string>
+		</dict>
+		<key>name</key>
+		<string>PANTANAL TRANSPORTES - EM FRENTE À GARAGEM (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA AIRTON SENA,, nº 546 - Bairro: JARDIM UNIÃO - /</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>PAPELARIA E AVIAMENTO UNIÃO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA JAIME DE FIGUEIREDO,, nº 240 - Bairro: LIXEIRA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>PAPELARIA EVOLUÇÃO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. COUTO MAGALHÃES, nº 1234 - Bairro: CENTRO - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>PAPELARIA MODELO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV ALZIRA SANTANA, nº 2022 - Bairro: JARDIM NOVO HORIZONT - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>PARADA OBRIGATÓRIA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA PROF NEUZA LULA RODRIGUES, QUADRA 30,, nº 30 - Bairro: SANTA AMALIA  - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>PARAIBA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA COXIPÓ MIRIM,, nº 35 - Bairro: DOUTOR FÁBIO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>PARANÁ MATERIAIS PARA CONSTRUÇÃO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA JOSÉ JANUÁRIO FÉLIX, nº 74 - Bairro: BARBADO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>PASTEL E CIA </string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA TRINTA E UM DE MARÇO, nº 14 - Bairro: UNIPARK - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>PET MIX </string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA DEZENOVE, nº 12 - Bairro: SÃO MATHEUS - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>PIZZARIA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>ROD PALMIRO PAES DE BARROS, nº S/N - Bairro: PARQUE GEORGIA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.6468</string>
+			<key>lon</key>
+			<string>-56.056194</string>
+		</dict>
+		<key>name</key>
+		<string>POINT GRILL (VENDA FIXA)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA PASCOAL, 272 , nº 272 - Bairro: PRAEIRINHO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>POLI MODAS </string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>(PROMOTOR DE VENDA), nº S/N - Bairro: TRÊS BARRAS - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.554192</string>
+			<key>lon</key>
+			<string>-56.026392</string>
+		</dict>
+		<key>name</key>
+		<string>POLÍCIA TRÊS BARRAS (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>(PROMOTOR DE VENDA), nº S/N - Bairro: PLANALTO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.582072</string>
+			<key>lon</key>
+			<string>-56.036844</string>
+		</dict>
+		<key>name</key>
+		<string>POLICLÍNICA DO PLANALTO (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV ALZIRA SANTANA, nº 667 - Bairro: NOVA VÁRZEA GRANDE - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>PONTO HELP</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA PRINCIPAL DO CPA 4 , nº   - Bairro: CPA 4 - /</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.55649</string>
+			<key>lon</key>
+			<string>-56.037081</string>
+		</dict>
+		<key>name</key>
+		<string>PORTAL PAPELARIA E INFORMATICA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>(PROMOTOR DE VENDA), nº S/N - Bairro: TIJUCAL - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.632078</string>
+			<key>lon</key>
+			<string>-56.015028</string>
+		</dict>
+		<key>name</key>
+		<string>POSTO DE SAÚDE  (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>(PROMOTOR DE VENDAS), nº S/N - Bairro: PEDREGAL - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.597121</string>
+			<key>lon</key>
+			<string>-56.072803</string>
+		</dict>
+		<key>name</key>
+		<string>POSTO FREE (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA JOAQUIM MURTINHO, nº S/N - Bairro: CENTRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>PRAÇA ALENCASTRO (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Avenida Presidente Getúlio Vargas, nº S/N - Bairro: CENTRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.601141</string>
+			<key>lon</key>
+			<string>-56.096342</string>
+		</dict>
+		<key>name</key>
+		<string>PRAÇA ALENCASTRO (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. TENENTE CORONEL DUARTE (PROMOTOR DE VENDA), nº S/N - Bairro: CENTRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.603525</string>
+			<key>lon</key>
+			<string>-56.098546</string>
+		</dict>
+		<key>name</key>
+		<string>PRAÇA BISPO DOM JOSÉ (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rua Coronel Peixoto, nº S/N - Bairro: CENTRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.601141</string>
+			<key>lon</key>
+			<string>-56.096342</string>
+		</dict>
+		<key>name</key>
+		<string>PRAÇA BISPO DOM JOSÉ - CENTRO (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Avenida Senador Filinto Müller, nº S/N - Bairro: Duque de Caxias - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.594575</string>
+			<key>lon</key>
+			<string>-56.100873</string>
+		</dict>
+		<key>name</key>
+		<string>PRAÇA CHOPÃO SENTIDO CENTRO - (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. BRASIL (PROMOTOR DE VENDA), nº S/N - Bairro: CPA II - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.56032</string>
+			<key>lon</key>
+			<string>-56.049204</string>
+		</dict>
+		<key>name</key>
+		<string>PRAÇA CULTURAL DO CPA II (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. SÃO SEBASTIÃO (PROMOTOR DE VENDA), nº S/N - Bairro: GOIABEIRA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.598155</string>
+			<key>lon</key>
+			<string>-56.108809</string>
+		</dict>
+		<key>name</key>
+		<string>PRAÇA DO CAI-CAI (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. NEWTON RABELLO DE CASTRO (PROMOTOR DE VENDA), nº S/N - Bairro: PEDRA 90 - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.633615</string>
+			<key>lon</key>
+			<string>-55.954409</string>
+		</dict>
+		<key>name</key>
+		<string>PRAÇA DO CAIC (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. FERNANDO CORRÊA DA COSTA (PROMOTOR DE VENDA), nº S/N - Bairro: COXIPÓ - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.627824</string>
+			<key>lon</key>
+			<string>-56.056488</string>
+		</dict>
+		<key>name</key>
+		<string>PRAÇA DO COXIPÓ (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV PRAINHA, nº S/N - Bairro: PORTO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.596801</string>
+			<key>lon</key>
+			<string>-56.095187</string>
+		</dict>
+		<key>name</key>
+		<string>PRAÇA DO PORTO (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rua Clóvis Hungueney, nº S/N - Bairro: CENTRO - /MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.60824</string>
+			<key>lon</key>
+			<string>-56.070271</string>
+		</dict>
+		<key>name</key>
+		<string>PRAÇA MARIA TAQUARA CENTRO (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA DOUTOR MEIRELLES, QUADRA 12, nº 11 - Bairro: TIJUCAL - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>PRINCESA MODA INTIMA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA F, QUADRA 25, , nº 3 - Bairro: JARDIM PASSAREDO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>PVP CORREIO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA CINCO, nº 13 - Bairro: PARQUE CUIABÁ - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.657325</string>
+			<key>lon</key>
+			<string>-56.051134</string>
+		</dict>
+		<key>name</key>
+		<string>QUINTA AVENIDA MODA E ACESSÓRIOS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA MANOEL JOSÉ DE ARRUDA, nº 2933 - Bairro: JARDIM EUROPA - /</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.623374</string>
+			<key>lon</key>
+			<string>-56.087727</string>
+		</dict>
+		<key>name</key>
+		<string>QUIOSQUE GRILL</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA H, nº 320 - Bairro: MAPIM - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>R E UTILIDADES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA ANTÔNIO ANTERO PÃES DE BARROS, nº 384 - Bairro: SANTA IZABEL - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>RECANTO DA BELEZA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. FERNANDO CORREA DA COSTA, nº 4822 - Bairro: COXIPÓ - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.632705</string>
+			<key>lon</key>
+			<string>-56.049526</string>
+		</dict>
+		<key>name</key>
+		<string>REDE DE DROGARIA AMÉRICA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA 5, nº . - Bairro: JARDIM INDUSTRIÁRIO  - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.645829</string>
+			<key>lon</key>
+			<string>-56.009984</string>
+		</dict>
+		<key>name</key>
+		<string>REDE DE DROGARIA AMÉRICA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA ALZIRO ZARUR, nº 30 - Bairro: BOA ESPERANÇA  - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.6094</string>
+			<key>lon</key>
+			<string>-56.058437</string>
+		</dict>
+		<key>name</key>
+		<string>REDE DE DROGARIA AMÉRICA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. JÚLIO RIMET, nº 32 - Bairro: ALVORADA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.58136</string>
+			<key>lon</key>
+			<string>-56.085459</string>
+		</dict>
+		<key>name</key>
+		<string>REDE DE DROGARIA AMÉRICA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>PRÓXIMO AO CENTRO COMUNITÁRIO , nº . - Bairro: PLANALTO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>REDE DE DROGARIA AMÉRICA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. NILTON RABELLO DE CASTRO , nº . - Bairro: PEDRA 90   - /MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.630641</string>
+			<key>lon</key>
+			<string>-55.951738</string>
+		</dict>
+		<key>name</key>
+		<string>REDE DE DROGARIA AMÉRICA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>ALZIRA SANTANA  PRÓXIMO AO PRONTO SOCORRO - ANEXO AO POSTO CANÁRIO., nº . - Bairro: . - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.664667</string>
+			<key>lon</key>
+			<string>-56.13409</string>
+		</dict>
+		<key>name</key>
+		<string>REDE DE DROGARIA AMÉRICA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Av. Gonçalo Antunes de Barros,, nº 2178 - Bairro: Carumbé - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.589292</string>
+			<key>lon</key>
+			<string>-56.069528</string>
+		</dict>
+		<key>name</key>
+		<string>REDE DE DROGARIA AMÉRICA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>GALERIA DO SUPERMERCADO COMPRE MAIS  ROD. PALMIRO PAES DE BARROS , nº . - Bairro: PARQUE CUIABÁ - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.664183</string>
+			<key>lon</key>
+			<string>-56.048468</string>
+		</dict>
+		<key>name</key>
+		<string>REDE DE DROGARIA AMÉRICA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. FILINTO MÜLLER, nº 1940 - Bairro: CENTRO  - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.649402</string>
+			<key>lon</key>
+			<string>-56.138285</string>
+		</dict>
+		<key>name</key>
+		<string>REDE DE DROGARIA AMÉRICA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. TUIUIÚ, 362 (EM FRENTE AO PAPADOG), nº 362 - Bairro: CPA 4 - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.55932</string>
+			<key>lon</key>
+			<string>-56.042316</string>
+		</dict>
+		<key>name</key>
+		<string>REDE DE DROGARIA AMÉRICA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA JULIO CAMPOS (ANTIGA DROGAFAR), nº 3501 - Bairro: JARDIM PAULA 1 - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>REDE DE DROGARIA AMÉRICA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA JULIO CAMPOS , nº 3364 - Bairro: JARDIM GLORIA 1  - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>REDE DE DROGARIA AMÉRICA - HIPERLOJA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. DOS TRABALHADORES, nº S/N - Bairro: SANTA INÊS - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.588272</string>
+			<key>lon</key>
+			<string>-56.056009</string>
+		</dict>
+		<key>name</key>
+		<string>RES. SANTA INÊS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. BARÃO DE MELGAÇO (PROMOTOR DE VENDA), nº S/N - Bairro: PONTE NOVA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.618942</string>
+			<key>lon</key>
+			<string>-56.119936</string>
+		</dict>
+		<key>name</key>
+		<string>RESIDENCIAL MINAS CUIABÁ (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. TRINTA, nº 19 - Bairro: JD. INDUSTRIÁRIO I - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.652215</string>
+			<key>lon</key>
+			<string>-55.979871</string>
+		</dict>
+		<key>name</key>
+		<string>RESTAURANTE A DELÍCIA (VENDA FIXA)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>GENEROSO PONCE  (SALÃO GALERIA - PRÓXIMO A PRAÇA IPIRANGA) 2 PDVS, nº 382 - Bairro: CENTRO SUL - /MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.600145</string>
+			<key>lon</key>
+			<string>-56.097993</string>
+		</dict>
+		<key>name</key>
+		<string>RESTAURANTE CHÃO GOIANO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA TRINTA, nº 19 - Bairro: JARDIM UNIVERSITÁRIO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>RESTAURANTE DELÍCIA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. TRINTA - PRÓX. À BR 364 (PROMOTOR DE VENDA) , nº S/N - Bairro: NOVA ESPERANÇA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.652215</string>
+			<key>lon</key>
+			<string>-55.979871</string>
+		</dict>
+		<key>name</key>
+		<string>RESTAURANTE DO GAUCHINHO (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV ESPIGÃO, nº 1480 - Bairro: TIJUCAL - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.63261</string>
+			<key>lon</key>
+			<string>-56.009472</string>
+		</dict>
+		<key>name</key>
+		<string>RESTAURANTE ESPIGÃO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA ENGENHEIRO RICARDO FRANCO, nº S/N - Bairro: CENTRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.595256</string>
+			<key>lon</key>
+			<string>-56.093518</string>
+		</dict>
+		<key>name</key>
+		<string>RESTAURANTE PARANÁ</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA TRINTA, nº 20 - Bairro: JARDIM UNIVERSITÁRIO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>RESTAURANTE PAULISTA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rua Jules Rimet, nº S/N - Bairro: Senhor dos Passos - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.580297</string>
+			<key>lon</key>
+			<string>-56.08911</string>
+		</dict>
+		<key>name</key>
+		<string>Rodoviária Sentido Ida (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rua Jules Rimet , nº S/N - Bairro: Senhor dos Passos - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.580297</string>
+			<key>lon</key>
+			<string>-56.08911</string>
+		</dict>
+		<key>name</key>
+		<string>RODOVIÁRIA SENTIDO VOLTA (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA JULIÃO DE BRITO, nº 1114 - Bairro: JARDIM MARINGÁ - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.666321</string>
+			<key>lon</key>
+			<string>-56.091037</string>
+		</dict>
+		<key>name</key>
+		<string>RODRIGO SERVIÇOS (VENDA FIXA)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA JOSÉ ESTEVÃO TORQUATRO DA SILVA, nº 2031 - Bairro: NOVO PARAÌSO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>ROSE CONFECÇÕES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>TERMINAL RODOVIÁRIO, nº ´S/N - Bairro: SENHOR DOS PASSOS - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.580297</string>
+			<key>lon</key>
+			<string>-56.08911</string>
+		</dict>
+		<key>name</key>
+		<string>ROTAS AGÊNCIA (EL SHADAY AGÊNCIA DE VIAGENS)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. FILINTO MULLER, nº 3014 - Bairro: ÁGUA VERMELHA - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>RURAL PET</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA CINCO, nº 242 - Bairro: RESIDENCIAL COXIPÓ - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.626963</string>
+			<key>lon</key>
+			<string>-56.0683</string>
+		</dict>
+		<key>name</key>
+		<string>SABOR DA TERRA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>(PROMOTOR DE VENDA), nº S/N - Bairro: MORADA DO OURO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.567616</string>
+			<key>lon</key>
+			<string>-56.067895</string>
+		</dict>
+		<key>name</key>
+		<string>SAÍDA DA MORADA DO OURO (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA PRESIDENTE MARQUES, nº 617 - Bairro: ARAÉS - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.587079</string>
+			<key>lon</key>
+			<string>-56.097773</string>
+		</dict>
+		<key>name</key>
+		<string>SANECAP (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>(PROMOTOR DE VENDA), nº S/N - Bairro: SÃO JOÃO DEL REY - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.616944</string>
+			<key>lon</key>
+			<string>-55.999919</string>
+		</dict>
+		<key>name</key>
+		<string>SÃO JOÃO DEL REY (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA JOAQUIM MURTINHO, nº 271 - Bairro: CENTRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>SEBO E CIA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>BR 364 (PROMOTOR DE VENDA), nº S/N - Bairro: DISTRITO INDUSTRIAL - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.653582</string>
+			<key>lon</key>
+			<string>-55.992947</string>
+		</dict>
+		<key>name</key>
+		<string>SENAI - ESCOLA DA CONSTRUÇÃO (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA BARNABÉ DE MESQUITA, nº 54 - Bairro: MANGA - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>SERVIÇOS DIGITAIS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA BRASIL, nº 15 - Bairro: CPA II - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.560971</string>
+			<key>lon</key>
+			<string>-56.048255</string>
+		</dict>
+		<key>name</key>
+		<string>SINAI MODAS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV BRASIL, nº 15 - Bairro: CPA II - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.55875</string>
+			<key>lon</key>
+			<string>-56.047558</string>
+		</dict>
+		<key>name</key>
+		<string>SINAL MODAS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA GENERAL VALE (EM FRENTE AO SINE), nº 636 - Bairro: CENTRO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.602364</string>
+			<key>lon</key>
+			<string>-56.092083</string>
+		</dict>
+		<key>name</key>
+		<string>SIST CÓPIAS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA BRASILIA - SHOPPING 3 AMÉRICAS, nº SN - Bairro: JARDIM DAS AMÉRICAS - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.612042</string>
+			<key>lon</key>
+			<string>-56.073905</string>
+		</dict>
+		<key>name</key>
+		<string>SKILL LAN HOUSE - SHOPPING 3 AMÉRICAS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA TENENTE CORONEL DUARTE (AO LADO DA POLICIA CIVIL), nº SN - Bairro: CENTRO - /MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.603525</string>
+			<key>lon</key>
+			<string>-56.098546</string>
+		</dict>
+		<key>name</key>
+		<string>SÓ UTILIDADES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA BENJAMIN COSTANT, nº 39 - Bairro: PARQUE UNIVERSITÁRIO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>SORVETERIA DO IBRAIN</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA QUATRO, nº 15 - Bairro: PARQUE CUIABA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.669555</string>
+			<key>lon</key>
+			<string>-56.038934</string>
+		</dict>
+		<key>name</key>
+		<string>SORVETERIA DOCE MEL</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA FERNANDO CORREA DA COSTA, nº 1899 - Bairro: JARDIM DAS AMERICAS - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.607833</string>
+			<key>lon</key>
+			<string>-56.072256</string>
+		</dict>
+		<key>name</key>
+		<string>SPERINI  REPRESENTACOES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA DOZE, nº 01 - Bairro: JARDIM UNIVERSITÁRIO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>STAR ESPETO E CONVENIÊNCIA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA MIGUEL LEITE, nº 287 - Bairro: CENTRO - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>SUFARMA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV SENADOR FILINTO MULLER, nº 690 - Bairro: QUILOMBO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.59052</string>
+			<key>lon</key>
+			<string>-56.107175</string>
+		</dict>
+		<key>name</key>
+		<string>SUFARMA DELIVERY DE MEDICAMENTOS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV CARMINHO DE CAMPOS, nº 1520 - Bairro: JARDIM PAULISTA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>SUPER ASSESSORIA DE CRÉDITOS (SUPERCRED)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA 1701, nº . - Bairro: 24 DE DEZEMBRO - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>SUPERMERCADO 3 IRMÃOS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV CLOVIS MACIEL DE FIGUEIREDO, nº 12 - Bairro: DOUTOR FÁBIO LEITE - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.600387</string>
+			<key>lon</key>
+			<string>-56.084905</string>
+		</dict>
+		<key>name</key>
+		<string>SUPERMERCADO BELEM</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. FERNANDO CORRÊA DA COSTA (PROMOTOR DE VENDA), nº S/N - Bairro: PICO DO AMOR - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.613167</string>
+			<key>lon</key>
+			<string>-56.075701</string>
+		</dict>
+		<key>name</key>
+		<string>SUPERMERCADO COMPER (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. HISTORIADOR RUBENS DE MENDONÇA (PROMOTOR DE VENDAS), nº S/N - Bairro: ALVORADA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.568061</string>
+			<key>lon</key>
+			<string>-56.071558</string>
+		</dict>
+		<key>name</key>
+		<string>SUPERMERCADO COMPER (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>ROD. PALMIRO PAES DE BARROS (PROMOTOR DE VENDA), nº S/N - Bairro: PARQUE CUIABÁ - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.669569</string>
+			<key>lon</key>
+			<string>-56.038771</string>
+		</dict>
+		<key>name</key>
+		<string>SUPERMERCADO COMPRE MAIS (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV INTEGRAÇÃO III, nº 23 - Bairro: PEDRA 90 - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.63159</string>
+			<key>lon</key>
+			<string>-55.943579</string>
+		</dict>
+		<key>name</key>
+		<string>SUPERMERCADO CRISTAL</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA JOAQUIM LOUZADA, nº 13 - Bairro: NOVO COLORADO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.569325</string>
+			<key>lon</key>
+			<string>-56.123257</string>
+		</dict>
+		<key>name</key>
+		<string>SUPERMERCADO ELDORADO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA IPIRANGA, nº 1755 - Bairro: JARDIM INDEPENDÊNCIA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>SUPERMERCADO HIMITSU</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA JULIÃO DE BRITO, nº 06 - Bairro: JARDIM MARINGÁ - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>SUPERMERCADO HIMITSU</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. FERNANDO CORRÊA DA COSTA (PROMOTOR DE VENDA), nº S/N - Bairro: JARDIM PETRÓPOLIS - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.617755</string>
+			<key>lon</key>
+			<string>-56.069046</string>
+		</dict>
+		<key>name</key>
+		<string>SUPERMERCADO MODELO (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV ALZIRA SANTANA, nº 2261 - Bairro: JARDIM COSTA VERDE - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>SUPERMERCADO POPEYE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA TRINTA E SEIS, nº S/N - Bairro: JARDIM OURO VERDE - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>SUPERMERCADO RÉGIS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>rua , nº asda - Bairro: sjdka - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.588072</string>
+			<key>lon</key>
+			<string>-56.049388</string>
+		</dict>
+		<key>name</key>
+		<string>Supermercado teste</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA PRESIDENTE CARDOSO JUNIOR, nº 19 - Bairro: COHAB CRISTO REI - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>TEC INFO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA GENEROSO MALHEIRO, nº 186 - Bairro: CIDADE VERDE - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>TEC MICRO INFORMÁTICA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA JOSÉ ESTEVÃO TORQUATRO DA SILVA, nº 2 - Bairro: NOVO PARAÍSO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>TEC SEG SISTEMA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA JÚLIO DOMINGOS DE CAMPOS, nº 73 - Bairro: JARDIM GLÓRIA I - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>TECNOFRIO AR CONDICIONADO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>., nº . - Bairro: . - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>TERMINAL ANDRÉ MAGGI </string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>TERMINAL CPA 3  PANTANAL TRANSPORTE , nº . - Bairro: . - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>TERMINAL CPA 3 </string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>TERMINAL CPA 1  PANTANAL TRANSPORTE , nº . - Bairro: . - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>TERMINAL CPAI  acesso externo e interno</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA SOROCABA (PROMOTOR DE VENDA), nº S/N - Bairro: CPA I - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.55802</string>
+			<key>lon</key>
+			<string>-56.051478</string>
+		</dict>
+		<key>name</key>
+		<string>TERMINAL DO CPA I (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA DR. ULISSES GUIMARÃES, nº S/N - Bairro: CPA III - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.573373</string>
+			<key>lon</key>
+			<string>-56.033342</string>
+		</dict>
+		<key>name</key>
+		<string>TERMINAL DO CPA III (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA POXORÉO, nº 508 - Bairro: JARDIM ALVORADA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>THT INFORMÁTICA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA V-2, nº 36 - Bairro: NOVA ESPERANÇA I - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>TOCA DO BICHO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA PROFESSOR JOÃO NUNES RIBEIRO, nº 83 - Bairro: CIDADE ALTA - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.610286</string>
+			<key>lon</key>
+			<string>-56.122684</string>
+		</dict>
+		<key>name</key>
+		<string>TOP FASCHION CABELEIREIRA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. HISTORIADOR RUBENS DE MENDONÇA (PROMOTOR DE VENDAS), nº S/N - Bairro: CENTRO POLÍTICO ADMI - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.568061</string>
+			<key>lon</key>
+			<string>-56.071558</string>
+		</dict>
+		<key>name</key>
+		<string>TRIBUNAL REGIONAL DO TRABALHO (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA POXORÉO, nº 295 - Bairro: JARDIM ALVORADA - /</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>TUGAS RESTAURANTE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. JULIÃO DE BRITO, nº 567 - Bairro: PARQUE DO LAGO - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>VAL FRALDAS </string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA QUATROCENTOS E DEZESSEIS, nº 32 - Bairro: TIJUCAL - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>VANESSA CABELEIREIRA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. UM, nº 18 - Bairro: NOVA ESPERANÇA - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.607333</string>
+			<key>lon</key>
+			<string>-56.178411</string>
+		</dict>
+		<key>name</key>
+		<string>VANILDO PIRES (VENDA FIXA)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA ARGENTINA, nº 36 - Bairro: JARDIM MARAJOARA - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.655353</string>
+			<key>lon</key>
+			<string>-56.161662</string>
+		</dict>
+		<key>name</key>
+		<string>VANILDO PIRES (VENDA FIXA)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. JÚLIO DOMINGOS DE CAMPOS, nº 865 - Bairro: JARDIM GLÓRIA I - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>VANILZA HAIR</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV BEIRA RIO, nº 4045 - Bairro: DOM AQUINO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.62088</string>
+			<key>lon</key>
+			<string>-56.095499</string>
+		</dict>
+		<key>name</key>
+		<string>VBR VIDRAÇARIA BEIRA RIO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA CASTRO ALVES, nº 19 - Bairro: JARDIM ARAÇÁ - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>VEM QUE TEM MERCADO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA IARA, nº 76 - Bairro: JARDIM GLÓRIA II - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>VERDURARIA FRANCO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>TERMINAL RODOVIÁRIO - BOX VIAÇÃO ROTAS , nº   - Bairro: CONSIL - /</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.580297</string>
+			<key>lon</key>
+			<string>-56.08911</string>
+		</dict>
+		<key>name</key>
+		<string>VIAÇÃO ROTAS (ELSHADAY AGENCIA DE VIAGENS)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. HISTORIADOR RUBENS DE MENDONÇA (PROMOTOR DE VENDAS), nº S/N - Bairro: BOSQUE DA SAÚDE - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>VIADUTO DO CPA - IDA (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AV. HISTORIADOR RUBENS DE MENDONÇA (PROMOTOR DE VENDAS), nº S/N - Bairro: BOSQUE DA SAÚDE - Cuiabá/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>VIADUTO DO CPA - VOLTA (PONTO DE VENDA MÓVEL)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA SÃO CRISTÓVÃO, nº 779 - Bairro: DOM AQUINO - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.610539</string>
+			<key>lon</key>
+			<string>-56.098372</string>
+		</dict>
+		<key>name</key>
+		<string>VIP VARIEDADES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENIDA RUBENS DE MENDONÇA (DENTRO DO SUPERMERCADO COMPER), nº 3000 - Bairro: BOSQUE DA SAÚDE - Cuiabá/MT</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<string>-15.57414</string>
+			<key>lon</key>
+			<string>-56.072246</string>
+		</dict>
+		<key>name</key>
+		<string>VIRTUAL WAY</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>RUA DOIS, nº 04 - Bairro: COHAB 24 DE DEZEMBRO - Várzea Grande/MT</string>
+		<key>location</key>
+		<dict/>
+		<key>name</key>
+		<string>VITÓRIA MODAS</string>
+	</dict>
+</array>
+</plist>
