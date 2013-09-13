@@ -8,10 +8,11 @@
 
 #import <UIKit/UIKit.h>
 #import <MapKit/MapKit.h>
+#import "OCMapView+PointOfCharge.h"
 
-@interface IMTPOCViewController : UIViewController <UITableViewDataSource,UITableViewDelegate>
+@interface IMTPOCViewController : UIViewController <UITableViewDataSource,UITableViewDelegate,MKMapViewDelegate>
 
-@property (strong, nonatomic) MKMapView *mapView;
+@property (strong, nonatomic) OCMapView *mapView;
 @property (weak, nonatomic) IBOutlet UITableView *tblView;
 @property (weak, nonatomic) IBOutlet UIBarButtonItem *btnFlip;
 - (IBAction)flipView:(id)sender;

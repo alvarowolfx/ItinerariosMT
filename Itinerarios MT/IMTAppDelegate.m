@@ -7,6 +7,7 @@
 //
 
 #import "IMTAppDelegate.h"
+#import <FlatUIKit/UIColor+FlatUI.h>
 
 @implementation IMTAppDelegate
 
@@ -18,6 +19,19 @@
         UINavigationController *navigationController = [splitViewController.viewControllers lastObject];
         splitViewController.delegate = (id)navigationController.topViewController;
     }
+    
+    //[[UINavigationBar appearance] setTintColor:[UIColor cloudsColor]];
+    [[UINavigationBar appearance] setBackgroundColor:[UIColor nephritisColor]];
+    //[[UINavigationBar appearance] setBarTintColor:[UIColor nephritisColor]];
+    [[UINavigationBar appearance] setTitleTextAttributes:@{UITextAttributeTextColor: [UIColor cloudsColor]}];
+    
+    //[[UITabBar appearance] setTintColor:[UIColor cloudsColor]];
+    //[[UITabBar appearance] setBarTintColor:[UIColor nephritisColor]];
+    [[UITabBar appearance] setBackgroundColor:[UIColor nephritisColor]];
+    
+    //[[UIApplication sharedApplication] setStatusBarStyle:UIStatusBarStyleLightContent];
+    
+    
     return YES;
 }
 							

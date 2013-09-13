@@ -9,8 +9,10 @@
 #import "IMTBussViewController.h"
 #import "IMTBussDetailViewController.h"
 #import "IMTBuss.h"
+#import <FlatUIKit/UIColor+FlatUI.h>
+#import <FlatUIKit/UITableViewCell+FlatUI.h>
 #define kDataKey       @"Root"
-#define kDataFile       @"temp.plist"
+#define kDataFile      @"temp.plist"
 
 
 @interface IMTBussViewController () {
@@ -59,6 +61,7 @@
     return _objects.count;
 }
 
+
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
 {
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"Cell" forIndexPath:indexPath];
@@ -66,14 +69,24 @@
     if(cell == nil){
         cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleSubtitle reuseIdentifier:@"Cell"];
     }
+    cell.backgroundColor = [UIColor greenSeaColor];
+    
     IMTBuss *buss = _objects[indexPath.row];
-    cell.textLabel.text = [@"Linha " stringByAppendingString:buss.line];
-    UILabel *lbl = cell.detailTextLabel;
-    lbl.numberOfLines = 2;
-    lbl.lineBreakMode = NSLineBreakByWordWrapping;
-    cell.detailTextLabel.text = [buss.name stringByReplacingOccurrencesOfString:@"/ " withString:@"\n"];
+    UILabel *lblLinha = cell.textLabel;
+    UILabel *lblNome = cell.detailTextLabel;
+        
+    lblLinha.text = [@"Linha " stringByAppendingString:buss.line];
+    lblLinha.textColor = [UIColor cloudsColor];
+    
+    lblNome.text = [buss.name stringByReplacingOccurrencesOfString:@"/ " withString:@"\n"];
+    lblNome.textColor = [UIColor cloudsColor];
+    lblNome.lineBreakMode = NSLineBreakByWordWrapping;
+    lblNome.numberOfLines = 2;
     
     return cell;
+}
+-(CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath{
+    return 80.0f;
 }
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath

@@ -4859,7 +4859,6 @@
 		<dict>
 			<key>ida</key>
 			<array>
-				<string>Itinerário em Dias Úteis)IDA - Dia útil</string>
 				<string>Centro de Ressocialização do Carumbé</string>
 				<string>Av. Gonçalo de Barros (Av. Jurumirim)</string>
 				<string>Rua P</string>
@@ -4880,49 +4879,9 @@
 				<string>Rua Jorn. Caramuru de Campos Maciel (Rua Bahia)</string>
 				<string>Rua São José do Rio Preto</string>
 				<string>Terminal - CPA I</string>
-				<string>IDA - Dia útil</string>
-				<string>Alameda 06- CPA III</string>
-				<string>Av. Dr.° Ulisses Guimarães</string>
-				<string>Alameda 8- CPA III</string>
-				<string>Rua 83</string>
-				<string>Rua Prof. Alice Freire</string>
-				<string>Rua Tangará da Serra</string>
-				<string>Av. Brasil (Benjamim Pedroso da Silva)</string>
-				<string>Rua Jorn. Caramuru de Campos Maciel (Rua Bahia)</string>
-				<string>Rua São José do Rio Preto</string>
-				<string>Terminal - CPA I (Itinerário em Finais de Semana e Feriados)IDA</string>
-				<string>Alameda 06- CPA III</string>
-				<string>Rua 61</string>
-				<string>Instituto dos Cegos</string>
-				<string>Rua 48</string>
-				<string>Alameda 06- CPA III</string>
-				<string>Av. Dr.° Ulisses Guimarães</string>
-				<string>Alameda 8- CPA III</string>
-				<string>Rua 83</string>
-				<string>Rua Prof. Alice Freire</string>
-				<string>Rua Tangará da Serra</string>
-				<string>Av. Brasil (Benjamim Pedroso da Silva)</string>
-				<string>Rua Jorn. Caramuru de Campos Maciel (Rua Bahia)</string>
-				<string>Rua São José do Rio Preto</string>
-				<string>Terminal - CPA I</string>
-				<string>Alameda 06- CPA III</string>
-				<string>Rua 61</string>
-				<string>Instituto dos Cegos</string>
-				<string>Rua 48</string>
-				<string>Alameda 06- CPA III</string>
-				<string>Av. Dr.° Ulisses Guimarães</string>
-				<string>Alameda 8- CPA III</string>
-				<string>Rua 83</string>
-				<string>Rua Prof. Alice Freire</string>
-				<string>Rua Tangará da Serra</string>
-				<string>Av. Brasil (Benjamim Pedroso da Silva)</string>
-				<string>Rua Jorn. Caramuru de Campos Maciel (Rua Bahia)</string>
-				<string>Rua São José do Rio Preto</string>
-				<string>Terminal - CPA I</string>
 			</array>
 			<key>volta</key>
 			<array>
-				<string>Itinerário em Dias Úteis)VOLTA - Dia útil</string>
 				<string>Terminal- CPA I</string>
 				<string>Rua Pernambuco</string>
 				<string>Rua Prof. Alice Freire</string>
@@ -4936,31 +4895,6 @@
 				<string>Rua P</string>
 				<string>R. Gonçalo de Barros (Av. Jurumirim)</string>
 				<string>Centro de Ressocialização do Carumbé</string>
-				<string>VOLTA - Dia útil</string>
-				<string>Terminal- CPA I</string>
-				<string>Rua Pernambuco</string>
-				<string>Rua Prof. Alice Freire</string>
-				<string>Alameda 8- CPA III</string>
-				<string>Av. Dr° Ulisses Guimarães</string>
-				<string>Alameda 06- CPA III</string>
-				<string>Rua 56</string>
-				<string>Alameda 6- CPA III(Itinerário em Finais de Semana e Feriados)VOLTA</string>
-				<string>Terminal- CPA I</string>
-				<string>Rua Pernambuco</string>
-				<string>Rua Prof. Alice Freire</string>
-				<string>Alameda 8- CPA III</string>
-				<string>Av. Dr° Ulisses Guimarães</string>
-				<string>Alameda 06- CPA III</string>
-				<string>Rua 56</string>
-				<string>Alameda 6- CPA III</string>
-				<string>Terminal- CPA I</string>
-				<string>Rua Pernambuco</string>
-				<string>Rua Prof. Alice Freire</string>
-				<string>Alameda 8- CPA III</string>
-				<string>Av. Dr° Ulisses Guimarães</string>
-				<string>Alameda 06- CPA III</string>
-				<string>Rua 56</string>
-				<string>Alameda 6- CPA III </string>
 			</array>
 		</dict>
 		<key>linha</key>

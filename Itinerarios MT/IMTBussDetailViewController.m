@@ -7,6 +7,7 @@
 //
 
 #import "IMTBussDetailViewController.h"
+#import <FlatUIKit/UIColor+FlatUI.h>
 
 @interface IMTBussDetailViewController ()
 @property (strong, nonatomic) UIPopoverController *masterPopoverController;
@@ -70,6 +71,7 @@
     if(cell == nil){
         cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleSubtitle reuseIdentifier:@"Cell"];
     }
+    cell.backgroundColor = [UIColor greenSeaColor];
     NSString *path = @"";
     if(self.smcItineraryType.selectedSegmentIndex == 0){
         path = self.buss.tripItinerary[indexPath.row];
@@ -77,6 +79,7 @@
         path = self.buss.returnItinerary[indexPath.row];
     }
     cell.textLabel.text = path;
+    cell.textLabel.textColor = [UIColor cloudsColor];
     
     return cell;
 }

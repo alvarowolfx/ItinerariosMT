@@ -7,8 +7,10 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <MapKit/MapKit.h>
+#import <OCMapView/OCGrouping.h>
 
-@interface IMTPointOfCharge : NSObject
+@interface IMTPointOfCharge : NSObject <MKAnnotation,OCGrouping>
 
 @property (nonatomic,copy) NSString *name;
 @property (nonatomic,copy) NSString *address;
@@ -18,6 +20,7 @@
 
 - (id)initWithName:(NSString *) name address:(NSString *) address latitude:(double) lat longitude:(double) lon;
 - (id)initWithName:(NSString *) name address:(NSString *) address;
+- (MKMapItem *) mapItem;
 + (NSArray *) loadWithContentOfFile:(NSString *) path;
 
 @end

@@ -7,6 +7,7 @@
 //
 
 #import "IMTPointOfCharge.h"
+#import <AddressBook/AddressBook.h>
 
 @implementation IMTPointOfCharge
 
@@ -30,6 +31,39 @@
         self.hasLocation = YES;
     }
     return self;
+}
+
+-(NSString *)title{
+    return _name;
+}
+
+-(NSString *)subtitle{
+    return _address;
+}
+
+-(CLLocationCoordinate2D)coordinate{
+    if (_hasLocation){
+        return CLLocationCoordinate2DMake(_latitude, _longitude);
+    }else{
+        return CLLocationCoordinate2DMake(0, 0);
+    }
+}
+
+- (MKMapItem *) mapItem {
+    NSDictionary *addressDict = @{(NSString*)kABPersonAddressStreetKey : _address};
+    
+    MKPlacemark *placemark = [[MKPlacemark alloc]
+                              initWithCoordinate:self.coordinate
+                              addressDictionary:addressDict];
+    
+    MKMapItem *mapItem = [[MKMapItem alloc] initWithPlacemark:placemark];
+    mapItem.name = self.title;
+    
+    return mapItem;
+}
+
+-(NSString *)groupTag{
+    return @"POC";
 }
 
 +(NSArray *)loadWithContentOfFile:(NSString *)path{
