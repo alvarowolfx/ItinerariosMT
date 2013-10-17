@@ -30,6 +30,8 @@
 		ED0E46EA17D99076001897B3 /* OCMapView+PointOfCharge.m in Sources */ = {isa = PBXBuildFile; fileRef = ED0E46E917D99076001897B3 /* OCMapView+PointOfCharge.m */; };
 		ED0E46EC17D9977B001897B3 /* loc@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = ED0E46EB17D9977B001897B3 /* loc@2x.png */; };
 		ED0E46EE17D9978E001897B3 /* loc.png in Resources */ = {isa = PBXBuildFile; fileRef = ED0E46ED17D9978E001897B3 /* loc.png */; };
+		ED6F2722180F9ABC0049AB89 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = ED6F2720180F9ABC0049AB89 /* Icon-72.png */; };
+		ED6F2723180F9ABC0049AB89 /* Icon-72@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = ED6F2721180F9ABC0049AB89 /* Icon-72@2x.png */; };
 		ED77FA4117FC9BFD00744DF5 /* IMTTracker.m in Sources */ = {isa = PBXBuildFile; fileRef = ED77FA4017FC9BFD00744DF5 /* IMTTracker.m */; };
 		EDC0FC6F17DD6F9600387367 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = EDC0FC6717DD6F9600387367 /* Icon-72.png */; };
 		EDC0FC7017DD6F9600387367 /* Icon-72@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EDC0FC6817DD6F9600387367 /* Icon-72@2x.png */; };
@@ -39,8 +41,6 @@
 		EDC0FC7417DD6F9600387367 /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EDC0FC6C17DD6F9600387367 /* Icon-Small@2x.png */; };
 		EDC0FC7517DD6F9600387367 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = EDC0FC6D17DD6F9600387367 /* Icon.png */; };
 		EDC0FC7617DD6F9600387367 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EDC0FC6E17DD6F9600387367 /* Icon@2x.png */; };
-		EDC0FC8517DD722500387367 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = EDC0FC7917DD722500387367 /* Icon-72.png */; };
-		EDC0FC8617DD722500387367 /* Icon-72@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EDC0FC7A17DD722500387367 /* Icon-72@2x.png */; };
 		EDC0FC8717DD722500387367 /* Icon-76.png in Resources */ = {isa = PBXBuildFile; fileRef = EDC0FC7B17DD722500387367 /* Icon-76.png */; };
 		EDC0FC8817DD722500387367 /* Icon-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EDC0FC7C17DD722500387367 /* Icon-76@2x.png */; };
 		EDC0FC8917DD722500387367 /* Icon-Small-50.png in Resources */ = {isa = PBXBuildFile; fileRef = EDC0FC7D17DD722500387367 /* Icon-Small-50.png */; };
@@ -97,6 +97,8 @@
 		ED0E46E917D99076001897B3 /* OCMapView+PointOfCharge.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "OCMapView+PointOfCharge.m"; sourceTree = "<group>"; };
 		ED0E46EB17D9977B001897B3 /* loc@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "loc@2x.png"; sourceTree = "<group>"; };
 		ED0E46ED17D9978E001897B3 /* loc.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = loc.png; sourceTree = "<group>"; };
+		ED6F2720180F9ABC0049AB89 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
+		ED6F2721180F9ABC0049AB89 /* Icon-72@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72@2x.png"; sourceTree = "<group>"; };
 		ED77FA3F17FC9BFD00744DF5 /* IMTTracker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IMTTracker.h; sourceTree = "<group>"; };
 		ED77FA4017FC9BFD00744DF5 /* IMTTracker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IMTTracker.m; sourceTree = "<group>"; };
 		EDC0FC6717DD6F9600387367 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
@@ -107,8 +109,6 @@
 		EDC0FC6C17DD6F9600387367 /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@2x.png"; sourceTree = "<group>"; };
 		EDC0FC6D17DD6F9600387367 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
 		EDC0FC6E17DD6F9600387367 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
-		EDC0FC7917DD722500387367 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
-		EDC0FC7A17DD722500387367 /* Icon-72@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72@2x.png"; sourceTree = "<group>"; };
 		EDC0FC7B17DD722500387367 /* Icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76.png"; sourceTree = "<group>"; };
 		EDC0FC7C17DD722500387367 /* Icon-76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76@2x.png"; sourceTree = "<group>"; };
 		EDC0FC7D17DD722500387367 /* Icon-Small-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small-50.png"; sourceTree = "<group>"; };
@@ -244,13 +244,13 @@
 		EDA83AD917D113510034073E /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				ED6F2720180F9ABC0049AB89 /* Icon-72.png */,
+				ED6F2721180F9ABC0049AB89 /* Icon-72@2x.png */,
 				EDD378EE180F8D0B00AFC413 /* Icon-Spotlight-40.png */,
 				EDD378EF180F8D0B00AFC413 /* Icon-Spotlight-40@2x.png */,
 				EDD378EC180F8C4900AFC413 /* Icon-60@2x.png */,
 				EDD378E8180F841200AFC413 /* recharge.png */,
 				EDD378E9180F841200AFC413 /* recharge@2x.png */,
-				EDC0FC7917DD722500387367 /* Icon-72.png */,
-				EDC0FC7A17DD722500387367 /* Icon-72@2x.png */,
 				EDC0FC7B17DD722500387367 /* Icon-76.png */,
 				EDC0FC7C17DD722500387367 /* Icon-76@2x.png */,
 				EDC0FC7D17DD722500387367 /* Icon-Small-50.png */,
@@ -310,6 +310,11 @@
 				CLASSPREFIX = IMT;
 				LastUpgradeCheck = 0460;
 				ORGANIZATIONNAME = Agiratec;
+				TargetAttributes = {
+					ED0178D117CAC85E005D4EDE = {
+						DevelopmentTeam = 977XK66837;
+					};
+				};
 			};
 			buildConfigurationList = ED0178CD17CAC85E005D4EDE /* Build configuration list for PBXProject "Itinerarios MT" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -335,6 +340,7 @@
 			files = (
 				ED0E46E317D9880A001897B3 /* group-icon@2x.png in Resources */,
 				EDC0FC8E17DD722500387367 /* Icon@2x.png in Resources */,
+				ED6F2723180F9ABC0049AB89 /* Icon-72@2x.png in Resources */,
 				EDD378F1180F8D0B00AFC413 /* Icon-Spotlight-40@2x.png in Resources */,
 				EDC0FC8717DD722500387367 /* Icon-76.png in Resources */,
 				EDD378F0180F8D0B00AFC413 /* Icon-Spotlight-40.png in Resources */,
@@ -353,7 +359,6 @@
 				ED0E46EE17D9978E001897B3 /* loc.png in Resources */,
 				EDC0FC8917DD722500387367 /* Icon-Small-50.png in Resources */,
 				EDC0FC7617DD6F9600387367 /* Icon@2x.png in Resources */,
-				EDC0FC8517DD722500387367 /* Icon-72.png in Resources */,
 				EDC0FC7217DD6F9600387367 /* Icon-Small-50@2x.png in Resources */,
 				ED0178EC17CAC85E005D4EDE /* Default-568h@2x.png in Resources */,
 				EDD378EB180F841200AFC413 /* recharge@2x.png in Resources */,
@@ -368,9 +373,9 @@
 				ED0E46EC17D9977B001897B3 /* loc@2x.png in Resources */,
 				EDDC87CC17CECC41005FF907 /* buss.png in Resources */,
 				EDC0FC7517DD6F9600387367 /* Icon.png in Resources */,
+				ED6F2722180F9ABC0049AB89 /* Icon-72.png in Resources */,
 				EDF5019917CF02A600557335 /* points_of_charge.plist in Resources */,
 				EDC0FC7417DD6F9600387367 /* Icon-Small@2x.png in Resources */,
-				EDC0FC8617DD722500387367 /* Icon-72@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -483,8 +488,10 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE = "F84E66E4-865C-43F4-B2C3-BAA46AD9C492";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
+				VALID_ARCHS = "armv7 armv7s";
 			};
 			name = Debug;
 		};
@@ -508,9 +515,11 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "F84E66E4-865C-43F4-B2C3-BAA46AD9C492";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
+				VALID_ARCHS = "armv7 armv7s";
 			};
 			name = Release;
 		};
@@ -518,10 +527,13 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 84D573B6FEB14B58BA72F553 /* Pods.xcconfig */;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Itinerarios MT/Itinerarios MT-Prefix.pch";
 				INFOPLIST_FILE = "Itinerarios MT/Itinerarios MT-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -530,10 +542,13 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 84D573B6FEB14B58BA72F553 /* Pods.xcconfig */;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Itinerarios MT/Itinerarios MT-Prefix.pch";
 				INFOPLIST_FILE = "Itinerarios MT/Itinerarios MT-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
