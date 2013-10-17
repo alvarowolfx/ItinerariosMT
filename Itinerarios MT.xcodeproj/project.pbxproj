@@ -22,8 +22,6 @@
 		ED0178F817CAC85E005D4EDE /* IMTBussDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ED0178F717CAC85E005D4EDE /* IMTBussDetailViewController.m */; };
 		ED01790117CAC913005D4EDE /* temp.plist in Resources */ = {isa = PBXBuildFile; fileRef = ED01790017CAC913005D4EDE /* temp.plist */; };
 		ED01790417CAD596005D4EDE /* IMTBuss.m in Sources */ = {isa = PBXBuildFile; fileRef = ED01790317CAD596005D4EDE /* IMTBuss.m */; };
-		ED0E46DB17D97D22001897B3 /* group.png in Resources */ = {isa = PBXBuildFile; fileRef = ED0E46DA17D97D22001897B3 /* group.png */; };
-		ED0E46DD17D97F7B001897B3 /* point.png in Resources */ = {isa = PBXBuildFile; fileRef = ED0E46DC17D97F7B001897B3 /* point.png */; };
 		ED0E46E217D9880A001897B3 /* group-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = ED0E46DE17D9880A001897B3 /* group-icon.png */; };
 		ED0E46E317D9880A001897B3 /* group-icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = ED0E46DF17D9880A001897B3 /* group-icon@2x.png */; };
 		ED0E46E417D9880A001897B3 /* point-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = ED0E46E017D9880A001897B3 /* point-icon.png */; };
@@ -32,6 +30,7 @@
 		ED0E46EA17D99076001897B3 /* OCMapView+PointOfCharge.m in Sources */ = {isa = PBXBuildFile; fileRef = ED0E46E917D99076001897B3 /* OCMapView+PointOfCharge.m */; };
 		ED0E46EC17D9977B001897B3 /* loc@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = ED0E46EB17D9977B001897B3 /* loc@2x.png */; };
 		ED0E46EE17D9978E001897B3 /* loc.png in Resources */ = {isa = PBXBuildFile; fileRef = ED0E46ED17D9978E001897B3 /* loc.png */; };
+		ED77FA4117FC9BFD00744DF5 /* IMTTracker.m in Sources */ = {isa = PBXBuildFile; fileRef = ED77FA4017FC9BFD00744DF5 /* IMTTracker.m */; };
 		EDC0FC6F17DD6F9600387367 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = EDC0FC6717DD6F9600387367 /* Icon-72.png */; };
 		EDC0FC7017DD6F9600387367 /* Icon-72@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EDC0FC6817DD6F9600387367 /* Icon-72@2x.png */; };
 		EDC0FC7117DD6F9600387367 /* Icon-Small-50.png in Resources */ = {isa = PBXBuildFile; fileRef = EDC0FC6917DD6F9600387367 /* Icon-Small-50.png */; };
@@ -40,8 +39,6 @@
 		EDC0FC7417DD6F9600387367 /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EDC0FC6C17DD6F9600387367 /* Icon-Small@2x.png */; };
 		EDC0FC7517DD6F9600387367 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = EDC0FC6D17DD6F9600387367 /* Icon.png */; };
 		EDC0FC7617DD6F9600387367 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EDC0FC6E17DD6F9600387367 /* Icon@2x.png */; };
-		EDC0FC8317DD722500387367 /* Icon-40.png in Resources */ = {isa = PBXBuildFile; fileRef = EDC0FC7717DD722500387367 /* Icon-40.png */; };
-		EDC0FC8417DD722500387367 /* Icon-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EDC0FC7817DD722500387367 /* Icon-40@2x.png */; };
 		EDC0FC8517DD722500387367 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = EDC0FC7917DD722500387367 /* Icon-72.png */; };
 		EDC0FC8617DD722500387367 /* Icon-72@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EDC0FC7A17DD722500387367 /* Icon-72@2x.png */; };
 		EDC0FC8717DD722500387367 /* Icon-76.png in Resources */ = {isa = PBXBuildFile; fileRef = EDC0FC7B17DD722500387367 /* Icon-76.png */; };
@@ -52,9 +49,12 @@
 		EDC0FC8C17DD722500387367 /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EDC0FC8017DD722500387367 /* Icon-Small@2x.png */; };
 		EDC0FC8D17DD722500387367 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = EDC0FC8117DD722500387367 /* Icon.png */; };
 		EDC0FC8E17DD722500387367 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EDC0FC8217DD722500387367 /* Icon@2x.png */; };
+		EDD378EA180F841200AFC413 /* recharge.png in Resources */ = {isa = PBXBuildFile; fileRef = EDD378E8180F841200AFC413 /* recharge.png */; };
+		EDD378EB180F841200AFC413 /* recharge@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EDD378E9180F841200AFC413 /* recharge@2x.png */; };
+		EDD378ED180F8C4900AFC413 /* Icon-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EDD378EC180F8C4900AFC413 /* Icon-60@2x.png */; };
+		EDD378F0180F8D0B00AFC413 /* Icon-Spotlight-40.png in Resources */ = {isa = PBXBuildFile; fileRef = EDD378EE180F8D0B00AFC413 /* Icon-Spotlight-40.png */; };
+		EDD378F1180F8D0B00AFC413 /* Icon-Spotlight-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EDD378EF180F8D0B00AFC413 /* Icon-Spotlight-40@2x.png */; };
 		EDDC87CC17CECC41005FF907 /* buss.png in Resources */ = {isa = PBXBuildFile; fileRef = EDDC87CB17CECC41005FF907 /* buss.png */; };
-		EDDC87CF17CECD0D005FF907 /* 011.png in Resources */ = {isa = PBXBuildFile; fileRef = EDDC87CD17CECD0D005FF907 /* 011.png */; };
-		EDDC87D017CECD0D005FF907 /* 012.png in Resources */ = {isa = PBXBuildFile; fileRef = EDDC87CE17CECD0D005FF907 /* 012.png */; };
 		EDDC87D217CECF6A005FF907 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EDDC87D117CECF6A005FF907 /* MapKit.framework */; };
 		EDDC87D517CEF785005FF907 /* IMTPOCViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EDDC87D417CEF785005FF907 /* IMTPOCViewController.m */; };
 		EDF5019717CF01BF00557335 /* IMTPointOfCharge.m in Sources */ = {isa = PBXBuildFile; fileRef = EDF5019617CF01BF00557335 /* IMTPointOfCharge.m */; };
@@ -88,8 +88,6 @@
 		ED01790017CAC913005D4EDE /* temp.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = temp.plist; sourceTree = "<group>"; };
 		ED01790217CAD596005D4EDE /* IMTBuss.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IMTBuss.h; sourceTree = "<group>"; };
 		ED01790317CAD596005D4EDE /* IMTBuss.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IMTBuss.m; sourceTree = "<group>"; };
-		ED0E46DA17D97D22001897B3 /* group.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = group.png; sourceTree = "<group>"; };
-		ED0E46DC17D97F7B001897B3 /* point.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = point.png; sourceTree = "<group>"; };
 		ED0E46DE17D9880A001897B3 /* group-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "group-icon.png"; sourceTree = "<group>"; };
 		ED0E46DF17D9880A001897B3 /* group-icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "group-icon@2x.png"; sourceTree = "<group>"; };
 		ED0E46E017D9880A001897B3 /* point-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "point-icon.png"; sourceTree = "<group>"; };
@@ -99,6 +97,8 @@
 		ED0E46E917D99076001897B3 /* OCMapView+PointOfCharge.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "OCMapView+PointOfCharge.m"; sourceTree = "<group>"; };
 		ED0E46EB17D9977B001897B3 /* loc@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "loc@2x.png"; sourceTree = "<group>"; };
 		ED0E46ED17D9978E001897B3 /* loc.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = loc.png; sourceTree = "<group>"; };
+		ED77FA3F17FC9BFD00744DF5 /* IMTTracker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IMTTracker.h; sourceTree = "<group>"; };
+		ED77FA4017FC9BFD00744DF5 /* IMTTracker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IMTTracker.m; sourceTree = "<group>"; };
 		EDC0FC6717DD6F9600387367 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
 		EDC0FC6817DD6F9600387367 /* Icon-72@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72@2x.png"; sourceTree = "<group>"; };
 		EDC0FC6917DD6F9600387367 /* Icon-Small-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small-50.png"; sourceTree = "<group>"; };
@@ -107,8 +107,6 @@
 		EDC0FC6C17DD6F9600387367 /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@2x.png"; sourceTree = "<group>"; };
 		EDC0FC6D17DD6F9600387367 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
 		EDC0FC6E17DD6F9600387367 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
-		EDC0FC7717DD722500387367 /* Icon-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40.png"; sourceTree = "<group>"; };
-		EDC0FC7817DD722500387367 /* Icon-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40@2x.png"; sourceTree = "<group>"; };
 		EDC0FC7917DD722500387367 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
 		EDC0FC7A17DD722500387367 /* Icon-72@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72@2x.png"; sourceTree = "<group>"; };
 		EDC0FC7B17DD722500387367 /* Icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76.png"; sourceTree = "<group>"; };
@@ -119,9 +117,12 @@
 		EDC0FC8017DD722500387367 /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@2x.png"; sourceTree = "<group>"; };
 		EDC0FC8117DD722500387367 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
 		EDC0FC8217DD722500387367 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		EDD378E8180F841200AFC413 /* recharge.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = recharge.png; sourceTree = "<group>"; };
+		EDD378E9180F841200AFC413 /* recharge@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "recharge@2x.png"; sourceTree = "<group>"; };
+		EDD378EC180F8C4900AFC413 /* Icon-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60@2x.png"; sourceTree = "<group>"; };
+		EDD378EE180F8D0B00AFC413 /* Icon-Spotlight-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Spotlight-40.png"; sourceTree = "<group>"; };
+		EDD378EF180F8D0B00AFC413 /* Icon-Spotlight-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Spotlight-40@2x.png"; sourceTree = "<group>"; };
 		EDDC87CB17CECC41005FF907 /* buss.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = buss.png; sourceTree = "<group>"; };
-		EDDC87CD17CECD0D005FF907 /* 011.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 011.png; sourceTree = "<group>"; };
-		EDDC87CE17CECD0D005FF907 /* 012.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 012.png; sourceTree = "<group>"; };
 		EDDC87D117CECF6A005FF907 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 		EDDC87D317CEF785005FF907 /* IMTPOCViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IMTPOCViewController.h; sourceTree = "<group>"; };
 		EDDC87D417CEF785005FF907 /* IMTPOCViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IMTPOCViewController.m; sourceTree = "<group>"; };
@@ -184,12 +185,12 @@
 		ED0178DB17CAC85E005D4EDE /* Itinerarios MT */ = {
 			isa = PBXGroup;
 			children = (
-				ED0178FF17CAC8F7005D4EDE /* Model */,
 				ED0178E417CAC85E005D4EDE /* IMTAppDelegate.h */,
 				ED0178E517CAC85E005D4EDE /* IMTAppDelegate.m */,
 				ED0178ED17CAC85E005D4EDE /* MainStoryboard_iPhone.storyboard */,
 				ED0178F017CAC85E005D4EDE /* MainStoryboard_iPad.storyboard */,
 				EDA83AD917D113510034073E /* Images */,
+				ED0178FF17CAC8F7005D4EDE /* Model */,
 				ED0178FE17CAC8EB005D4EDE /* Controller */,
 				ED0178DC17CAC85E005D4EDE /* Supporting Files */,
 			);
@@ -234,6 +235,8 @@
 				ED01790317CAD596005D4EDE /* IMTBuss.m */,
 				EDF5019517CF01BF00557335 /* IMTPointOfCharge.h */,
 				EDF5019617CF01BF00557335 /* IMTPointOfCharge.m */,
+				ED77FA3F17FC9BFD00744DF5 /* IMTTracker.h */,
+				ED77FA4017FC9BFD00744DF5 /* IMTTracker.m */,
 			);
 			name = Model;
 			sourceTree = "<group>";
@@ -241,8 +244,11 @@
 		EDA83AD917D113510034073E /* Images */ = {
 			isa = PBXGroup;
 			children = (
-				EDC0FC7717DD722500387367 /* Icon-40.png */,
-				EDC0FC7817DD722500387367 /* Icon-40@2x.png */,
+				EDD378EE180F8D0B00AFC413 /* Icon-Spotlight-40.png */,
+				EDD378EF180F8D0B00AFC413 /* Icon-Spotlight-40@2x.png */,
+				EDD378EC180F8C4900AFC413 /* Icon-60@2x.png */,
+				EDD378E8180F841200AFC413 /* recharge.png */,
+				EDD378E9180F841200AFC413 /* recharge@2x.png */,
 				EDC0FC7917DD722500387367 /* Icon-72.png */,
 				EDC0FC7A17DD722500387367 /* Icon-72@2x.png */,
 				EDC0FC7B17DD722500387367 /* Icon-76.png */,
@@ -267,10 +273,6 @@
 				ED0E46DF17D9880A001897B3 /* group-icon@2x.png */,
 				ED0E46E017D9880A001897B3 /* point-icon.png */,
 				ED0E46E117D9880A001897B3 /* point-icon@2x.png */,
-				ED0E46DC17D97F7B001897B3 /* point.png */,
-				ED0E46DA17D97D22001897B3 /* group.png */,
-				EDDC87CD17CECD0D005FF907 /* 011.png */,
-				EDDC87CE17CECD0D005FF907 /* 012.png */,
 				EDDC87CB17CECC41005FF907 /* buss.png */,
 			);
 			name = Images;
@@ -333,12 +335,14 @@
 			files = (
 				ED0E46E317D9880A001897B3 /* group-icon@2x.png in Resources */,
 				EDC0FC8E17DD722500387367 /* Icon@2x.png in Resources */,
+				EDD378F1180F8D0B00AFC413 /* Icon-Spotlight-40@2x.png in Resources */,
 				EDC0FC8717DD722500387367 /* Icon-76.png in Resources */,
+				EDD378F0180F8D0B00AFC413 /* Icon-Spotlight-40.png in Resources */,
 				EDC0FC8A17DD722500387367 /* Icon-Small-50@2x.png in Resources */,
 				EDC0FC6F17DD6F9600387367 /* Icon-72.png in Resources */,
 				ED0178E017CAC85E005D4EDE /* InfoPlist.strings in Resources */,
-				ED0E46DD17D97F7B001897B3 /* point.png in Resources */,
 				EDC0FC8C17DD722500387367 /* Icon-Small@2x.png in Resources */,
+				EDD378EA180F841200AFC413 /* recharge.png in Resources */,
 				ED0E46E517D9880A001897B3 /* point-icon@2x.png in Resources */,
 				ED0178E817CAC85E005D4EDE /* Default.png in Resources */,
 				EDC0FC8B17DD722500387367 /* Icon-Small.png in Resources */,
@@ -352,7 +356,9 @@
 				EDC0FC8517DD722500387367 /* Icon-72.png in Resources */,
 				EDC0FC7217DD6F9600387367 /* Icon-Small-50@2x.png in Resources */,
 				ED0178EC17CAC85E005D4EDE /* Default-568h@2x.png in Resources */,
+				EDD378EB180F841200AFC413 /* recharge@2x.png in Resources */,
 				ED0178EF17CAC85E005D4EDE /* MainStoryboard_iPhone.storyboard in Resources */,
+				EDD378ED180F8C4900AFC413 /* Icon-60@2x.png in Resources */,
 				EDC0FC8817DD722500387367 /* Icon-76@2x.png in Resources */,
 				ED0178F217CAC85E005D4EDE /* MainStoryboard_iPad.storyboard in Resources */,
 				ED01790117CAC913005D4EDE /* temp.plist in Resources */,
@@ -362,14 +368,9 @@
 				ED0E46EC17D9977B001897B3 /* loc@2x.png in Resources */,
 				EDDC87CC17CECC41005FF907 /* buss.png in Resources */,
 				EDC0FC7517DD6F9600387367 /* Icon.png in Resources */,
-				EDDC87CF17CECD0D005FF907 /* 011.png in Resources */,
-				ED0E46DB17D97D22001897B3 /* group.png in Resources */,
-				EDC0FC8317DD722500387367 /* Icon-40.png in Resources */,
 				EDF5019917CF02A600557335 /* points_of_charge.plist in Resources */,
 				EDC0FC7417DD6F9600387367 /* Icon-Small@2x.png in Resources */,
 				EDC0FC8617DD722500387367 /* Icon-72@2x.png in Resources */,
-				EDDC87D017CECD0D005FF907 /* 012.png in Resources */,
-				EDC0FC8417DD722500387367 /* Icon-40@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -416,6 +417,7 @@
 				ED0178E217CAC85E005D4EDE /* main.m in Sources */,
 				ED0178E617CAC85E005D4EDE /* IMTAppDelegate.m in Sources */,
 				ED0178F517CAC85E005D4EDE /* IMTBussViewController.m in Sources */,
+				ED77FA4117FC9BFD00744DF5 /* IMTTracker.m in Sources */,
 				ED0E46EA17D99076001897B3 /* OCMapView+PointOfCharge.m in Sources */,
 				ED0178F817CAC85E005D4EDE /* IMTBussDetailViewController.m in Sources */,
 				ED01790417CAD596005D4EDE /* IMTBuss.m in Sources */,

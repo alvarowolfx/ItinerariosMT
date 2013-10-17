@@ -8,6 +8,8 @@
 
 #import "IMTBussDetailViewController.h"
 #import <FlatUIKit/UIColor+FlatUI.h>
+#import <FlatUIKit/UIFont+FlatUI.h>
+#import "IMTTracker.h"
 
 @interface IMTBussDetailViewController ()
 @property (strong, nonatomic) UIPopoverController *masterPopoverController;
@@ -42,7 +44,26 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    self.view.backgroundColor = [UIColor cloudsColor];
+    self.navigationItem.hidesBackButton = NO;
+    if ([[[UIDevice currentDevice] systemVersion] floatValue] < 7.0){
+        self.smcItineraryType.tintColor = [UIColor peterRiverColor];
+        /*
+        self.navigationItem.leftBarButtonItem = [[UIBarButtonItem alloc] initWithTitle:@"Voltar"
+                                                                                 style:UIBarButtonItemStyleBordered target:self action:@selector(back)];
+         */
+    }else{
+        /*
+        self.navigationItem.leftBarButtonItem = [[UIBarButtonItem alloc] initWithTitle:@"Voltar"
+                                                                                  style:UIBarButtonItemStyleBordered target:self action:@selector(back)];
+         */
+    }
     [self configureView];
+    [IMTTracker sendCreateView:@"Buss Detail View"];
+}
+
+-(void) back{
+    [self.navigationController popViewControllerAnimated:YES];
 }
 
 #pragma mark - Table View
@@ -55,6 +76,7 @@
 -(NSString *)tableView:(UITableView *)tableView titleForHeaderInSection:(NSInteger)section{
     return self.buss.name;
 }
+
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
 {
     if(self.smcItineraryType.selectedSegmentIndex == 0){
@@ -71,7 +93,7 @@
     if(cell == nil){
         cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleSubtitle reuseIdentifier:@"Cell"];
     }
-    cell.backgroundColor = [UIColor greenSeaColor];
+    cell.backgroundColor = [UIColor cloudsColor];
     NSString *path = @"";
     if(self.smcItineraryType.selectedSegmentIndex == 0){
         path = self.buss.tripItinerary[indexPath.row];
@@ -79,7 +101,7 @@
         path = self.buss.returnItinerary[indexPath.row];
     }
     cell.textLabel.text = path;
-    cell.textLabel.textColor = [UIColor cloudsColor];
+    cell.textLabel.textColor = [UIColor midnightBlueColor];
     
     return cell;
 }

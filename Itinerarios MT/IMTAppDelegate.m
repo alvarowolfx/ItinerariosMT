@@ -7,7 +7,8 @@
 //
 
 #import "IMTAppDelegate.h"
-#import <FlatUIKit/UIColor+FlatUI.h>
+#import <GoogleAnalytics-iOS-SDK/GAI.h>
+#import <FlatUIKit/FlatUIKit.h>
 
 @implementation IMTAppDelegate
 
@@ -19,22 +20,44 @@
         UINavigationController *navigationController = [splitViewController.viewControllers lastObject];
         splitViewController.delegate = (id)navigationController.topViewController;
     }
-    
-    //[[UINavigationBar appearance] setTintColor:[UIColor cloudsColor]];
-    [[UINavigationBar appearance] setBackgroundColor:[UIColor nephritisColor]];
-    //[[UINavigationBar appearance] setBarTintColor:[UIColor nephritisColor]];
-    [[UINavigationBar appearance] setTitleTextAttributes:@{UITextAttributeTextColor: [UIColor cloudsColor]}];
-    
-    //[[UITabBar appearance] setTintColor:[UIColor cloudsColor]];
-    //[[UITabBar appearance] setBarTintColor:[UIColor nephritisColor]];
-    [[UITabBar appearance] setBackgroundColor:[UIColor nephritisColor]];
-    
-    //[[UIApplication sharedApplication] setStatusBarStyle:UIStatusBarStyleLightContent];
-    
+    [self setupGA];
+    [self setupTheme];
     
     return YES;
 }
-							
+
+-(void) setupGA{
+    
+    [[GAI sharedInstance] setTrackUncaughtExceptions:YES];
+    [[GAI sharedInstance] setDispatchInterval:20];
+    [[[GAI sharedInstance] logger] setLogLevel:kGAILogLevelError];
+    id<GAITracker> tracker = [[GAI sharedInstance] trackerWithTrackingId:@"UA-37452057-3"];
+    [[GAI sharedInstance] setDefaultTracker:tracker];
+    
+}
+
+-(void) setupTheme{
+    [[UINavigationBar appearance] setTitleTextAttributes:@{UITextAttributeTextColor: [UIColor cloudsColor]}];
+    if ([[[UIDevice currentDevice] systemVersion] floatValue] < 7.0){
+        [UIBarButtonItem configureFlatButtonsWithColor:[UIColor belizeHoleColor]
+                                      highlightedColor:[UIColor midnightBlueColor]
+                                          cornerRadius:3];
+    }
+    [[UINavigationBar appearance] setTintColor:[UIColor cloudsColor]];
+    [[UITabBar appearance] setTintColor:[UIColor cloudsColor]];
+    [[UIApplication sharedApplication] setStatusBarStyle:UIStatusBarStyleBlackTranslucent];
+    /*
+     [[UITabBarItem appearance] setTitleTextAttributes:@{
+     UITextAttributeTextColor: [UIColor midnightBlueColor]
+     }
+     forState:UIControlStateNormal];
+     [[UITabBarItem appearance] setTitleTextAttributes:@{
+     UITextAttributeTextColor: [UIColor cloudsColor]
+     }
+     forState:UIControlStateSelected];
+     */
+}
+
 - (void)applicationWillResignActive:(UIApplication *)application
 {
     // Sent when the application is about to move from active to inactive state. This can occur for certain types of temporary interruptions (such as an incoming phone call or SMS message) or when the user quits the application and it begins the transition to the background state.

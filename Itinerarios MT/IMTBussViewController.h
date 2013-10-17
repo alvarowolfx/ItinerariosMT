@@ -10,7 +10,7 @@
 
 @class IMTBussDetailViewController;
 
-@interface IMTBussViewController : UITableViewController
+@interface IMTBussViewController : UITableViewController <UISearchBarDelegate,UISearchDisplayDelegate>
 
 @property (strong, nonatomic) IMTBussDetailViewController *detailViewController;
 

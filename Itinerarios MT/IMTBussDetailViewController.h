@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import "IMTBuss.h"
+#import <FlatUIKit/FUISegmentedControl.h>
 
 @interface IMTBussDetailViewController : UIViewController <UISplitViewControllerDelegate,UITableViewDataSource,UITableViewDelegate>
 

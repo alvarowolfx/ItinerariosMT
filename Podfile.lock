@@ -1,13 +1,19 @@
 PODS:
   - FlatUIKit (1.2)
+  - GoogleAnalytics-iOS-SDK (3.0.1)
+  - iRate (1.8)
   - OCMapView (0.0.1)
 
 DEPENDENCIES:
   - FlatUIKit
+  - GoogleAnalytics-iOS-SDK (~> 3.0.1)
+  - iRate (~> 1.8)
   - OCMapView (~> 0.0.1)
 
 SPEC CHECKSUMS:
   FlatUIKit: 43b2acaa6f4ef57539b51b00e4ce62d506e33e11
+  GoogleAnalytics-iOS-SDK: ea0118af32b97a92ac98b25ecc2aa2a286c835c7
+  iRate: f36d1572a2d1f78cc30300e123845f7273bd9f29
   OCMapView: cec273dc95dd41b7f6af7438ee6fc0a542e9e670
 
 COCOAPODS: 0.23.0

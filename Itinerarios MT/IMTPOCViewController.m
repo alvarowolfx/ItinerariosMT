@@ -9,6 +9,7 @@
 #import "IMTPOCViewController.h"
 #import "IMTPointOfCharge.h"
 #import <FlatUIKit/FlatUIKit.h>
+#import "IMTTracker.h"
 #import <math.h>
 #define kDEFAULTCLUSTERSIZE 0.1
 #define kDEFAULTMINZOOM 0.05
@@ -25,6 +26,10 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    [self.navigationController.navigationBar configureFlatNavigationBarWithColor:[UIColor peterRiverColor]];
+    
+    [IMTTracker sendCreateView:@"POC View"];
+    
     isMapShowing = NO;
     NSString *filePath = [[NSBundle mainBundle] pathForResource:@"points_of_charge" ofType:@"plist"];
     _points = [IMTPointOfCharge loadWithContentOfFile:filePath];
@@ -60,8 +65,9 @@
         self.btnFlip.title = @"Ver mapa";
         isMapShowing = NO;
     }
-    self.tabBarController.tabBar.hidden = isMapShowing;
-    
+    if ([[[UIDevice currentDevice] systemVersion] floatValue] >= 7.0){
+        self.tabBarController.tabBar.hidden = isMapShowing;
+    }
     if (isMapShowing){
         UIImage *imgLoc = [UIImage imageNamed:@"loc.png"];
         [self.navigationItem setLeftBarButtonItem:[[UIBarButtonItem alloc] init]];
@@ -109,6 +115,7 @@
         self.navigationItem.leftBarButtonItem.action = @selector(gotoUserLocation);
         self.navigationItem.leftBarButtonItem.target = self;
         
+        [IMTTracker sendCreateView:@"POC Map View"];
     }
     
     return _mapView;
@@ -138,10 +145,13 @@
         }else{
             NSLog(@"Mioou");
         }
+    }
+    /*
     }else{
         FUIAlertView *alert = [[FUIAlertView alloc] initWithTitle:@"Sem localização cadastrada" message:point.address delegate:nil cancelButtonTitle:@"OK" otherButtonTitles:nil];
         [alert show];
     }
+     */
     
 }
 
@@ -155,16 +165,21 @@
     if(cell == nil){
         cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleSubtitle reuseIdentifier:@"Cell"];
     }
-    cell.backgroundColor = [UIColor greenSeaColor];
+    cell.backgroundColor = [UIColor cloudsColor];
     
     IMTPointOfCharge *point = _points[indexPath.row];    
     cell.textLabel.text = point.name;
-    cell.textLabel.textColor = [UIColor cloudsColor];
+    cell.textLabel.textColor = [UIColor midnightBlueColor];
     cell.detailTextLabel.text = point.address;
-    cell.detailTextLabel.textColor = [UIColor cloudsColor];
+    cell.detailTextLabel.textColor = [UIColor midnightBlueColor];
     
-    if ( [point hasLocation])
-        cell.image = [UIImage imageNamed:@"loc.png"];
+    if ( [point hasLocation]){
+        cell.accessoryType = UITableViewCellAccessoryDisclosureIndicator;
+        cell.selectionStyle = UITableViewCellSelectionStyleDefault;
+    }else{
+        cell.accessoryType = UITableViewCellAccessoryNone;
+        cell.selectionStyle = UITableViewCellSelectionStyleNone;
+    }
     
     return cell;
 
@@ -249,9 +264,9 @@
 
 - (void)mapView:(MKMapView *)mapView annotationView:(MKAnnotationView *)view calloutAccessoryControlTapped:(UIControl *)control {
     IMTPointOfCharge *location = (IMTPointOfCharge*)view.annotation;
-    NSDictionary *launchOptions = @{MKLaunchOptionsDirectionsModeKey : MKLaunchOptionsDirectionsModeDriving};
+    //NSDictionary *launchOptions = @{MKLaunchOptionsDirectionsModeKey : MKLaunchOptionsDirectionsModeWalking};
+    NSDictionary *launchOptions = [NSDictionary dictionary];
     [location.mapItem openInMapsWithLaunchOptions:launchOptions];
-    
 }
 
 @end
